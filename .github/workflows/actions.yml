@@ -22,6 +22,10 @@ jobs:
           pip install -r requirements.txt
           
       - name: execute py script # run main.py
+        env:
+              USER: ${{ secrets.USER }}
+              PASSWORD: ${{ secrets.PASSWORD }}
+              CLUSTER: ${{ secrets.CLUSTER }}
         run: python main.py
           
       - name: commit files
