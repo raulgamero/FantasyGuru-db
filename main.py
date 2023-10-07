@@ -11,6 +11,7 @@ CLUSTER = os.environ["CLUSTER"]
 
 
 def mongo_connection():
+    print(USER, PASSWORD, CLUSTER)
     uri = "mongodb+srv://{USER}:{PASSWORD}@{CLUSTER}.wocrudb.mongodb.net/?retryWrites=true&w=majority"
     # Create a new client and connect to the server
     client = MongoClient(uri, server_api=ServerApi('1'))
@@ -90,7 +91,6 @@ if __name__ == '__main__':
     #with open("fantasy_scraper.py") as f:
     #    exec(f.read())
     # Connect to db and write
-    print(USER, PASSWORD, CLUSTER)
     client = mongo_connection()
     write_players(client)
     write_teams(client)
