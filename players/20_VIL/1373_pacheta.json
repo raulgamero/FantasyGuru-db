@@ -1,0 +1,115 @@
+{
+    "playerStats": [
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 6,
+            "totalPoints": 2,
+            "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    1,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 7,
+            "totalPoints": 0,
+            "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 8,
+            "totalPoints": 2,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 4,
+    "averagePoints": 1.3333333333333333,
+    "id": "1373",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t449/color/t449_villarreal-cf.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t449/gray/t449_villarreal-cf.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t449/white/t449_villarreal-cf.png",
+        "name": "Villarreal CF",
+        "id": "20",
+        "shortName": "VIL",
+        "slug": "villarreal-cf",
+        "dspId": 189,
+        "store": ""
+    },
+    "name": "Jos\u00e9\u00a0Rojo\u00a0Martin",
+    "lastSeasonPoints": 51,
+    "nickname": "Pacheta",
+    "slug": "pacheta",
+    "positionId": 5,
+    "position": "Entrenador",
+    "marketValue": {
+        "19/09/2023": 3313675,
+        "20/09/2023": 3194589,
+        "21/09/2023": 3079378,
+        "22/09/2023": 2969001,
+        "23/09/2023": 2863228,
+        "24/09/2023": 2763774,
+        "25/09/2023": 2667902,
+        "26/09/2023": 2573503,
+        "27/09/2023": 2481981,
+        "28/09/2023": 2395804,
+        "29/09/2023": 2312994,
+        "30/09/2023": 2232696,
+        "01/10/2023": 2156655,
+        "02/10/2023": 2083644,
+        "03/10/2023": 2013009,
+        "04/10/2023": 1944838,
+        "05/10/2023": 1879143,
+        "06/10/2023": 1817074,
+        "07/10/2023": 1757922
+    },
+    "playerStatus": "ok"
+}
