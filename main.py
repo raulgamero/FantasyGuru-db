@@ -5,9 +5,9 @@ from pymongo.server_api import ServerApi
 
 DATA = 'data'
 PLAYERS = 'players'
-USER = os.environ["USER"]
-PASSWORD = os.environ["PASSWORD"]
-CLUSTER = os.environ["CLUSTER"]
+USER = str(os.environ["USER"])
+PASSWORD = str(os.environ["PASSWORD"])
+CLUSTER = str(os.environ["CLUSTER"])
 
 
 def mongo_connection():
