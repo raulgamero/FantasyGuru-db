@@ -1,8 +1,7 @@
 name: run main.py
 
 on:
-  schedule:
-    - cron: '8 21 * * *' # At 00:00 everyday
+  push
 
 jobs:
   build:
