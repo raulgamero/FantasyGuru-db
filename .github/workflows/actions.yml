@@ -1,8 +1,8 @@
 name: run main.py
 
 on:
-  push
-
+  schedule:
+    - cron: '37 22 * * *'  # 
 jobs:
   build:
     runs-on: ubuntu-latest

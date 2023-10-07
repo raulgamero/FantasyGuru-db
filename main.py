@@ -86,8 +86,13 @@ def write_teams(client):
     print('-----------------------------------------------')
 
 
+def trash():
+    os.rmdir(PLAYERS)
+    os.rmdir(DATA)
+
+
 if __name__ == '__main__':
-    # Execute scraper loco
+    # Execute scraper
     #with open("fantasy_scraper.py") as f:
     #    exec(f.read())
     # Connect to db and write
@@ -96,3 +101,4 @@ if __name__ == '__main__':
     write_teams(client)
     print('DATABASE UPDATED CORRECTLY')
     print('-----------------------------------------------')
+    trash()
