@@ -11,7 +11,6 @@ CLUSTER = os.environ["CLUSTER"]
 
 
 def mongo_connection():
-    print(USER, PASSWORD, CLUSTER)
     uri = "mongodb+srv://" + USER + ":" + PASSWORD + "@" + CLUSTER + ".wocrudb.mongodb.net/?retryWrites=true&w=majority"
     # Create a new client and connect to the server
     client = MongoClient(uri, server_api=ServerApi('1'))
@@ -86,19 +85,13 @@ def write_teams(client):
     print('-----------------------------------------------')
 
 
-def trash():
-    os.rmdir(PLAYERS)
-    os.rmdir(DATA)
-
-
 if __name__ == '__main__':
     # Execute scraper
-    #with open("fantasy_scraper.py") as f:
-    #    exec(f.read())
+    with open("fantasy_scraper.py") as f:
+        exec(f.read())
     # Connect to db and write
     client = mongo_connection()
     write_players(client)
     write_teams(client)
     print('DATABASE UPDATED CORRECTLY')
     print('-----------------------------------------------')
-    trash()

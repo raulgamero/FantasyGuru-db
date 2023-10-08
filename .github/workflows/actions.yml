@@ -2,8 +2,8 @@ name: run main.py
 
 on:
   schedule:
-      # every 24 hours
-    - cron: "0 */24 * * *"
+      # everyday at 00:10
+    - cron: "54 12 * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -40,4 +40,4 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main 
+          branch: master
