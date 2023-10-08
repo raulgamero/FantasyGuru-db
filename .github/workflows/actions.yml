@@ -2,8 +2,8 @@ name: run main.py
 
 on:
   schedule:
-      # everyday at 00:10
-    - cron: "54 12 * * *"
+      # everyday at 00:05
+    - cron: "05 00 * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
