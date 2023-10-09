@@ -731,8 +731,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -795,15 +795,15 @@
                     0
                 ],
                 "won_contest": [
-                    2,
-                    1
+                    4,
+                    2
                 ],
                 "ball_recovery": [
-                    2,
-                    0
+                    6,
+                    1
                 ],
                 "poss_lost_all": [
-                    10,
+                    17,
                     -1
                 ],
                 "penalty_conceded": [
@@ -812,17 +812,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 9,
-            "totalPoints": 0,
+            "totalPoints": 5,
             "isInIdealFormation": false
         }
     ],
-    "points": 46,
-    "weekPoints": 0,
-    "averagePoints": 5.111111111111111,
+    "points": 51,
+    "weekPoints": 5,
+    "averagePoints": 5.666666666666667,
     "id": "1609",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t191/color/t191_valencia-cf.png",
@@ -899,7 +899,9 @@
         "04/10/2023": 12474722,
         "05/10/2023": 12843421,
         "06/10/2023": 13207256,
-        "07/10/2023": 13545310
+        "07/10/2023": 13545310,
+        "08/10/2023": 13873923,
+        "09/10/2023": 14244512
     },
     "playerStatus": "ok"
 }

@@ -803,8 +803,8 @@
                     0
                 ],
                 "poss_lost_all": [
-                    9,
-                    0
+                    10,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -816,13 +816,13 @@
                 ]
             },
             "weekNumber": 9,
-            "totalPoints": 2,
+            "totalPoints": 1,
             "isInIdealFormation": false
         }
     ],
-    "points": 44,
-    "weekPoints": 2,
-    "averagePoints": 4.888888888888889,
+    "points": 43,
+    "weekPoints": 1,
+    "averagePoints": 4.777777777777778,
     "id": "1517",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t450/color/t450_c-a-osasuna.png",
@@ -928,7 +928,9 @@
         "04/10/2023": 16799711,
         "05/10/2023": 16967036,
         "06/10/2023": 17158345,
-        "07/10/2023": 17287939
+        "07/10/2023": 17287939,
+        "08/10/2023": 17392108,
+        "09/10/2023": 17364156
     },
     "playerStatus": "ok"
 }
