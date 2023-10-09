@@ -114,10 +114,34 @@
             "weekNumber": 8,
             "totalPoints": 0,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 9,
+            "totalPoints": 2,
+            "isInIdealFormation": false
         }
     ],
-    "points": 7,
-    "averagePoints": 1.4,
+    "points": 9,
+    "weekPoints": 2,
+    "averagePoints": 1.5,
     "id": "1718",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t176/color/t176_rc-celta.png",
@@ -175,7 +199,9 @@
         "04/10/2023": 949526,
         "05/10/2023": 923643,
         "06/10/2023": 899794,
-        "07/10/2023": 877333
+        "07/10/2023": 877333,
+        "08/10/2023": 858006,
+        "09/10/2023": 839206
     },
     "playerStatus": "ok"
 }
