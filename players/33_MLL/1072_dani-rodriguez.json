@@ -913,8 +913,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    86,
+                    2
                 ],
                 "goals": [
                     0,
@@ -929,8 +929,8 @@
                     0
                 ],
                 "pen_area_entries": [
-                    1,
-                    0
+                    2,
+                    1
                 ],
                 "penalty_won": [
                     0,
@@ -957,7 +957,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -973,7 +973,7 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
+                    1,
                     0
                 ],
                 "won_contest": [
@@ -981,12 +981,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
-                    0
+                    6,
+                    1
                 ],
                 "poss_lost_all": [
-                    0,
-                    0
+                    10,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -994,17 +994,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 10,
-            "totalPoints": 0,
+            "totalPoints": 4,
             "isInIdealFormation": false
         }
     ],
-    "points": 37,
-    "weekPoints": 0,
-    "averagePoints": 3.3636363636363638,
+    "points": 41,
+    "weekPoints": 4,
+    "averagePoints": 3.727272727272727,
     "id": "1072",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
@@ -1124,7 +1124,8 @@
         "18/10/2023": 5719589,
         "19/10/2023": 5708970,
         "20/10/2023": 5742586,
-        "21/10/2023": 5758083
+        "21/10/2023": 5758083,
+        "22/10/2023": 5742676
     },
     "playerStatus": "ok"
 }

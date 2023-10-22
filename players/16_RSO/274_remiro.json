@@ -822,8 +822,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -850,11 +850,11 @@
                     0
                 ],
                 "saves": [
-                    1,
-                    0
+                    6,
+                    3
                 ],
                 "effective_clearance": [
-                    0,
+                    2,
                     0
                 ],
                 "penalty_failed": [
@@ -867,7 +867,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    4
                 ],
                 "yellow_card": [
                     0,
@@ -890,12 +890,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    1,
-                    0
+                    6,
+                    1
                 ],
                 "poss_lost_all": [
-                    0,
-                    0
+                    10,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -903,17 +903,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    3
                 ]
             },
             "weekNumber": 10,
-            "totalPoints": 0,
+            "totalPoints": 12,
             "isInIdealFormation": false
         }
     ],
-    "points": 69,
-    "weekPoints": 0,
-    "averagePoints": 6.9,
+    "points": 81,
+    "weekPoints": 12,
+    "averagePoints": 8.1,
     "id": "274",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t188/color/t188_real-sociedad.png",
@@ -1033,7 +1033,8 @@
         "18/10/2023": 28465641,
         "19/10/2023": 28295004,
         "20/10/2023": 28118987,
-        "21/10/2023": 27952923
+        "21/10/2023": 27952923,
+        "22/10/2023": 27904974
     },
     "playerStatus": "ok"
 }

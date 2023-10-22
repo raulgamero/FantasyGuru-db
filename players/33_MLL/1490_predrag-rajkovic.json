@@ -913,8 +913,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -941,12 +941,12 @@
                     0
                 ],
                 "saves": [
-                    1,
-                    0
+                    5,
+                    2
                 ],
                 "effective_clearance": [
-                    1,
-                    0
+                    3,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -957,7 +957,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -981,12 +981,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    2,
-                    0
+                    8,
+                    1
                 ],
                 "poss_lost_all": [
-                    1,
-                    0
+                    18,
+                    -2
                 ],
                 "penalty_conceded": [
                     0,
@@ -994,17 +994,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    3
                 ]
             },
             "weekNumber": 10,
-            "totalPoints": 0,
+            "totalPoints": 7,
             "isInIdealFormation": false
         }
     ],
-    "points": 46,
-    "weekPoints": 0,
-    "averagePoints": 4.181818181818182,
+    "points": 53,
+    "weekPoints": 7,
+    "averagePoints": 4.818181818181818,
     "id": "1490",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
@@ -1124,7 +1124,8 @@
         "18/10/2023": 10079386,
         "19/10/2023": 9976510,
         "20/10/2023": 9888208,
-        "21/10/2023": 9799215
+        "21/10/2023": 9799215,
+        "22/10/2023": 9728850
     },
     "playerStatus": "ok"
 }

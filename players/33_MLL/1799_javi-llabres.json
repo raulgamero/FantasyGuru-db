@@ -185,8 +185,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    4,
+                    1
                 ],
                 "goals": [
                     0,
@@ -253,11 +253,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    1,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    3,
                     0
                 ],
                 "penalty_conceded": [
@@ -266,17 +266,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 10,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 0,
-    "weekPoints": 0,
-    "averagePoints": 0,
+    "points": 2,
+    "weekPoints": 2,
+    "averagePoints": 0.6666666666666666,
     "id": "1799",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
@@ -319,7 +319,8 @@
         "18/10/2023": 584057,
         "19/10/2023": 580964,
         "20/10/2023": 578709,
-        "21/10/2023": 576955
+        "21/10/2023": 576955,
+        "22/10/2023": 577019
     },
     "playerStatus": "ok"
 }

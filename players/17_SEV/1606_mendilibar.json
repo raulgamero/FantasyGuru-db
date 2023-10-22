@@ -183,10 +183,34 @@
             "weekNumber": 9,
             "totalPoints": 2,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 10,
+            "totalPoints": 2,
+            "isInIdealFormation": false
         }
     ],
-    "points": 14,
-    "averagePoints": 1.75,
+    "points": 16,
+    "weekPoints": 2,
+    "averagePoints": 1.7777777777777777,
     "id": "1606",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t179/color/t179_sevilla-fc.png",
@@ -306,7 +330,8 @@
         "18/10/2023": 564854,
         "19/10/2023": 562529,
         "20/10/2023": 561011,
-        "21/10/2023": 559965
+        "21/10/2023": 559965,
+        "22/10/2023": 560709
     },
     "playerStatus": "ok"
 }
