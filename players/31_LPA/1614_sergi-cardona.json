@@ -822,8 +822,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -838,7 +838,7 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
@@ -854,8 +854,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    3,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -866,7 +866,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -890,12 +890,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    2,
-                    0
+                    7,
+                    1
                 ],
                 "poss_lost_all": [
-                    2,
-                    0
+                    18,
+                    -2
                 ],
                 "penalty_conceded": [
                     0,
@@ -903,17 +903,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 10,
-            "totalPoints": 0,
+            "totalPoints": 4,
             "isInIdealFormation": false
         }
     ],
-    "points": 38,
-    "weekPoints": 0,
-    "averagePoints": 3.8,
+    "points": 42,
+    "weekPoints": 4,
+    "averagePoints": 4.2,
     "id": "1614",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t407/color/t407_ud-las-palmas.png",
@@ -1033,7 +1033,8 @@
         "19/10/2023": 3461909,
         "20/10/2023": 3535930,
         "21/10/2023": 3617710,
-        "22/10/2023": 3637494
+        "22/10/2023": 3637494,
+        "23/10/2023": 3650175
     },
     "playerStatus": "ok"
 }

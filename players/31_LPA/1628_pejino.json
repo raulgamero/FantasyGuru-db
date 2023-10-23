@@ -822,8 +822,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    62,
+                    2
                 ],
                 "goals": [
                     0,
@@ -867,7 +867,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    1
                 ],
                 "yellow_card": [
                     0,
@@ -882,20 +882,20 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
-                    0
+                    2,
+                    1
                 ],
                 "won_contest": [
-                    0,
-                    0
+                    5,
+                    2
                 ],
                 "ball_recovery": [
-                    1,
+                    4,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
-                    0
+                    12,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -903,17 +903,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    3
                 ]
             },
             "weekNumber": 10,
-            "totalPoints": 0,
+            "totalPoints": 8,
             "isInIdealFormation": false
         }
     ],
-    "points": 17,
-    "weekPoints": 0,
-    "averagePoints": 1.7,
+    "points": 25,
+    "weekPoints": 8,
+    "averagePoints": 2.5,
     "id": "1628",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t407/color/t407_ud-las-palmas.png",
@@ -1033,7 +1033,8 @@
         "19/10/2023": 567357,
         "20/10/2023": 565646,
         "21/10/2023": 564414,
-        "22/10/2023": 564980
+        "22/10/2023": 564980,
+        "23/10/2023": 564313
     },
     "playerStatus": "ok"
 }
