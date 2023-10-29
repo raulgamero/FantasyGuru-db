@@ -913,8 +913,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    9,
+                    1
                 ],
                 "goals": [
                     0,
@@ -957,7 +957,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -985,7 +985,7 @@
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_conceded": [
@@ -998,13 +998,13 @@
                 ]
             },
             "weekNumber": 11,
-            "totalPoints": 0,
+            "totalPoints": 1,
             "isInIdealFormation": false
         }
     ],
-    "points": 18,
-    "weekPoints": 0,
-    "averagePoints": 1.6363636363636365,
+    "points": 19,
+    "weekPoints": 1,
+    "averagePoints": 1.7272727272727273,
     "id": "228",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1564/color/t1564_ud-almeria.png",
@@ -1131,7 +1131,8 @@
         "25/10/2023": 933811,
         "26/10/2023": 913015,
         "27/10/2023": 894095,
-        "28/10/2023": 876334
+        "28/10/2023": 876334,
+        "29/10/2023": 861481
     },
     "playerStatus": "ok"
 }

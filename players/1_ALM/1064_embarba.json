@@ -913,8 +913,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -945,7 +945,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_failed": [
@@ -957,8 +957,8 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    2,
+                    -1
                 ],
                 "yellow_card": [
                     0,
@@ -973,7 +973,7 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
+                    1,
                     0
                 ],
                 "won_contest": [
@@ -981,12 +981,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    4,
                     0
                 ],
                 "poss_lost_all": [
-                    1,
-                    0
+                    23,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -994,17 +994,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 11,
-            "totalPoints": 0,
+            "totalPoints": 1,
             "isInIdealFormation": false
         }
     ],
-    "points": 37,
-    "weekPoints": 0,
-    "averagePoints": 3.3636363636363638,
+    "points": 38,
+    "weekPoints": 1,
+    "averagePoints": 3.4545454545454546,
     "id": "1064",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1564/color/t1564_ud-almeria.png",
@@ -1131,7 +1131,8 @@
         "25/10/2023": 3072419,
         "26/10/2023": 3039816,
         "27/10/2023": 3022447,
-        "28/10/2023": 3016190
+        "28/10/2023": 3016190,
+        "29/10/2023": 2957671
     },
     "playerStatus": "ok"
 }

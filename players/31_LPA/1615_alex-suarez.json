@@ -913,8 +913,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -945,8 +945,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    4,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -957,7 +957,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -977,16 +977,16 @@
                     0
                 ],
                 "won_contest": [
-                    0,
+                    1,
                     0
                 ],
                 "ball_recovery": [
-                    0,
-                    0
+                    5,
+                    1
                 ],
                 "poss_lost_all": [
-                    1,
-                    0
+                    10,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -994,17 +994,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 11,
-            "totalPoints": 0,
+            "totalPoints": 4,
             "isInIdealFormation": false
         }
     ],
-    "points": 47,
-    "weekPoints": 0,
-    "averagePoints": 4.2727272727272725,
+    "points": 51,
+    "weekPoints": 4,
+    "averagePoints": 4.636363636363637,
     "id": "1615",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t407/color/t407_ud-las-palmas.png",
@@ -1130,7 +1130,8 @@
         "25/10/2023": 13461097,
         "26/10/2023": 13337206,
         "27/10/2023": 13193481,
-        "28/10/2023": 13094564
+        "28/10/2023": 13094564,
+        "29/10/2023": 12912665
     },
     "playerStatus": "ok"
 }

@@ -549,12 +549,12 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    30,
+                    1
                 ],
                 "goals": [
-                    0,
-                    0
+                    1,
+                    4
                 ],
                 "goal_assist": [
                     0,
@@ -581,7 +581,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_failed": [
@@ -593,7 +593,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -609,7 +609,7 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
+                    1,
                     0
                 ],
                 "won_contest": [
@@ -617,11 +617,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    3,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    4,
                     0
                 ],
                 "penalty_conceded": [
@@ -630,17 +630,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 11,
-            "totalPoints": 0,
+            "totalPoints": 6,
             "isInIdealFormation": false
         }
     ],
-    "points": 12,
-    "weekPoints": 0,
-    "averagePoints": 1.7142857142857142,
+    "points": 18,
+    "weekPoints": 6,
+    "averagePoints": 2.5714285714285716,
     "id": "1780",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t407/color/t407_ud-las-palmas.png",
@@ -712,7 +712,8 @@
         "25/10/2023": 895675,
         "26/10/2023": 876405,
         "27/10/2023": 858949,
-        "28/10/2023": 842594
+        "28/10/2023": 842594,
+        "29/10/2023": 829091
     },
     "playerStatus": "ok"
 }

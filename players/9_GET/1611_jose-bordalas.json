@@ -206,9 +206,33 @@
             "weekNumber": 10,
             "totalPoints": 2,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 11,
+            "totalPoints": 2,
+            "isInIdealFormation": false
         }
     ],
-    "points": 18,
+    "points": 20,
+    "weekPoints": 2,
     "averagePoints": 2,
     "id": "1611",
     "team": {
@@ -336,7 +360,8 @@
         "25/10/2023": 415447,
         "26/10/2023": 415386,
         "27/10/2023": 416371,
-        "28/10/2023": 417719
+        "28/10/2023": 417719,
+        "29/10/2023": 421211
     },
     "playerStatus": "ok"
 }

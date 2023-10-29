@@ -913,8 +913,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -945,8 +945,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    2,
-                    0
+                    3,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -957,8 +957,8 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    2,
+                    -2
                 ],
                 "yellow_card": [
                     0,
@@ -981,11 +981,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    2,
-                    0
+                    5,
+                    1
                 ],
                 "poss_lost_all": [
-                    1,
+                    4,
                     0
                 ],
                 "penalty_conceded": [
@@ -994,17 +994,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 11,
-            "totalPoints": 0,
+            "totalPoints": 3,
             "isInIdealFormation": false
         }
     ],
-    "points": 16,
-    "weekPoints": 0,
-    "averagePoints": 1.4545454545454546,
+    "points": 19,
+    "weekPoints": 3,
+    "averagePoints": 1.7272727272727273,
     "id": "1427",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1564/color/t1564_ud-almeria.png",
@@ -1131,7 +1131,8 @@
         "25/10/2023": 438095,
         "26/10/2023": 437128,
         "27/10/2023": 437243,
-        "28/10/2023": 437756
+        "28/10/2023": 437756,
+        "29/10/2023": 440446
     },
     "playerStatus": "ok"
 }

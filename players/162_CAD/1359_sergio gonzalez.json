@@ -229,10 +229,34 @@
             "weekNumber": 10,
             "totalPoints": 0,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 11,
+            "totalPoints": 2,
+            "isInIdealFormation": false
         }
     ],
-    "points": 16,
-    "averagePoints": 1.6,
+    "points": 18,
+    "weekPoints": 2,
+    "averagePoints": 1.6363636363636365,
     "id": "1359",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1737/color/t1737_cadiz-cf.png",
@@ -359,7 +383,8 @@
         "25/10/2023": 468112,
         "26/10/2023": 465944,
         "27/10/2023": 464906,
-        "28/10/2023": 464313
+        "28/10/2023": 464313,
+        "29/10/2023": 465941
     },
     "playerStatus": "ok"
 }

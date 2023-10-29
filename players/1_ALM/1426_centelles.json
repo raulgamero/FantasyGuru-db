@@ -913,8 +913,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    45,
+                    1
                 ],
                 "goals": [
                     0,
@@ -929,7 +929,7 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
@@ -945,7 +945,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_failed": [
@@ -957,7 +957,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -981,12 +981,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    1,
+                    2,
                     0
                 ],
                 "poss_lost_all": [
-                    2,
-                    0
+                    9,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -1131,7 +1131,8 @@
         "25/10/2023": 456061,
         "26/10/2023": 454375,
         "27/10/2023": 453800,
-        "28/10/2023": 453651
+        "28/10/2023": 453651,
+        "29/10/2023": 455705
     },
-    "playerStatus": "ok"
+    "playerStatus": "doubtful"
 }

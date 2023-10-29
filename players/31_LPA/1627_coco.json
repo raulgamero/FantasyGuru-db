@@ -913,8 +913,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -945,8 +945,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    1,
-                    0
+                    8,
+                    2
                 ],
                 "penalty_failed": [
                     0,
@@ -957,7 +957,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -981,12 +981,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
-                    0
+                    9,
+                    1
                 ],
                 "poss_lost_all": [
-                    1,
-                    0
+                    8,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -994,17 +994,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 11,
-            "totalPoints": 0,
+            "totalPoints": 5,
             "isInIdealFormation": false
         }
     ],
-    "points": 27,
-    "weekPoints": 0,
-    "averagePoints": 2.4545454545454546,
+    "points": 32,
+    "weekPoints": 5,
+    "averagePoints": 2.909090909090909,
     "id": "1627",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t407/color/t407_ud-las-palmas.png",
@@ -1130,7 +1130,8 @@
         "25/10/2023": 1015457,
         "26/10/2023": 1008041,
         "27/10/2023": 1002583,
-        "28/10/2023": 999641
+        "28/10/2023": 999641,
+        "29/10/2023": 987090
     },
     "playerStatus": "ok"
 }

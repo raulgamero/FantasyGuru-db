@@ -94,8 +94,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    30,
+                    1
                 ],
                 "goals": [
                     0,
@@ -126,7 +126,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_failed": [
@@ -138,7 +138,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -166,7 +166,7 @@
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    2,
                     0
                 ],
                 "penalty_conceded": [
@@ -179,13 +179,13 @@
                 ]
             },
             "weekNumber": 11,
-            "totalPoints": 0,
+            "totalPoints": 1,
             "isInIdealFormation": false
         }
     ],
-    "points": 2,
-    "weekPoints": 0,
-    "averagePoints": 1,
+    "points": 3,
+    "weekPoints": 1,
+    "averagePoints": 1.5,
     "id": "1619",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t407/color/t407_ud-las-palmas.png",
@@ -311,7 +311,8 @@
         "25/10/2023": 1084408,
         "26/10/2023": 1094081,
         "27/10/2023": 1109108,
-        "28/10/2023": 1123740
+        "28/10/2023": 1123740,
+        "29/10/2023": 1128181
     },
     "playerStatus": "ok"
 }
