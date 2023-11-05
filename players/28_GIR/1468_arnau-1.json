@@ -909,10 +909,102 @@
             "weekNumber": 11,
             "totalPoints": 7,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    90,
+                    2
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    1,
+                    1
+                ],
+                "pen_area_entries": [
+                    1,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    3,
+                    1
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    2,
+                    -2
+                ],
+                "yellow_card": [
+                    1,
+                    -1
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    5,
+                    1
+                ],
+                "poss_lost_all": [
+                    5,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    1
+                ]
+            },
+            "weekNumber": 12,
+            "totalPoints": 3,
+            "isInIdealFormation": false
         }
     ],
-    "points": 42,
-    "averagePoints": 4.2,
+    "points": 45,
+    "weekPoints": 3,
+    "averagePoints": 4.090909090909091,
     "id": "1468",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t2893/color/t2893_girona-fc.png",
@@ -1046,7 +1138,8 @@
         "01/11/2023": 10363583,
         "02/11/2023": 10526345,
         "03/11/2023": 10689067,
-        "04/11/2023": 10873367
+        "04/11/2023": 10873367,
+        "05/11/2023": 10996060
     },
     "playerStatus": "ok"
 }

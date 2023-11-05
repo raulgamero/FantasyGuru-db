@@ -1000,10 +1000,102 @@
             "weekNumber": 11,
             "totalPoints": 6,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    69,
+                    2
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    1,
+                    3
+                ],
+                "offtarget_att_assist": [
+                    1,
+                    1
+                ],
+                "pen_area_entries": [
+                    3,
+                    1
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    1,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    1
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    1,
+                    0
+                ],
+                "ball_recovery": [
+                    2,
+                    0
+                ],
+                "poss_lost_all": [
+                    11,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    3
+                ]
+            },
+            "weekNumber": 12,
+            "totalPoints": 11,
+            "isInIdealFormation": false
         }
     ],
-    "points": 59,
-    "averagePoints": 5.363636363636363,
+    "points": 70,
+    "weekPoints": 11,
+    "averagePoints": 5.833333333333333,
     "id": "159",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t176/color/t176_rc-celta.png",
@@ -1137,7 +1229,8 @@
         "01/11/2023": 24840427,
         "02/11/2023": 24805276,
         "03/11/2023": 24828214,
-        "04/11/2023": 24869131
+        "04/11/2023": 24869131,
+        "05/11/2023": 24875968
     },
     "playerStatus": "ok"
 }
