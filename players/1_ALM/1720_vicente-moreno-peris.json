@@ -206,10 +206,34 @@
             "weekNumber": 12,
             "totalPoints": 0,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    1,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 13,
+            "totalPoints": 0,
+            "isInIdealFormation": false
         }
     ],
     "points": 4,
-    "averagePoints": 0.4444444444444444,
+    "weekPoints": 0,
+    "averagePoints": 0.4,
     "id": "1720",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1564/color/t1564_ud-almeria.png",
@@ -301,7 +325,8 @@
         "08/11/2023": 501846,
         "09/11/2023": 499107,
         "10/11/2023": 496965,
-        "11/11/2023": 494935
+        "11/11/2023": 494935,
+        "12/11/2023": 495376
     },
     "playerStatus": "ok"
 }

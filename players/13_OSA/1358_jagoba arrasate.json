@@ -229,10 +229,34 @@
             "weekNumber": 12,
             "totalPoints": 0,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 13,
+            "totalPoints": 2,
+            "isInIdealFormation": false
         }
     ],
-    "points": 17,
-    "averagePoints": 1.7,
+    "points": 19,
+    "weekPoints": 2,
+    "averagePoints": 1.7272727272727273,
     "id": "1358",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t450/color/t450_c-a-osasuna.png",
@@ -373,7 +397,8 @@
         "08/11/2023": 489235,
         "09/11/2023": 487001,
         "10/11/2023": 485343,
-        "11/11/2023": 483778
+        "11/11/2023": 483778,
+        "12/11/2023": 484665
     },
     "playerStatus": "ok"
 }
