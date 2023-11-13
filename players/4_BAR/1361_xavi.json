@@ -252,10 +252,34 @@
             "weekNumber": 12,
             "totalPoints": 5,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    1,
+                    5
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 13,
+            "totalPoints": 5,
+            "isInIdealFormation": false
         }
     ],
-    "points": 36,
-    "averagePoints": 3.272727272727273,
+    "points": 41,
+    "weekPoints": 5,
+    "averagePoints": 3.4166666666666665,
     "id": "1361",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t178/color/t178_fc-barcelona.png",
@@ -397,7 +421,8 @@
         "09/11/2023": 776979,
         "10/11/2023": 763722,
         "11/11/2023": 751022,
-        "12/11/2023": 741219
+        "12/11/2023": 741219,
+        "13/11/2023": 730852
     },
     "playerStatus": "ok"
 }
