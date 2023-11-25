@@ -298,11 +298,34 @@
             "weekNumber": 13,
             "totalPoints": 2,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    1,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 14,
+            "totalPoints": 0,
+            "isInIdealFormation": false
         }
     ],
     "points": 13,
-    "weekPoints": 2,
-    "averagePoints": 1,
+    "weekPoints": 0,
+    "averagePoints": 0.9285714285714286,
     "id": "1656",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t5683/color/t5683_granada-cf.png",
@@ -455,7 +478,8 @@
         "21/11/2023": 453557,
         "22/11/2023": 455465,
         "23/11/2023": 457875,
-        "24/11/2023": 459767
+        "24/11/2023": 459767,
+        "25/11/2023": 463718
     },
     "playerStatus": "ok"
 }
