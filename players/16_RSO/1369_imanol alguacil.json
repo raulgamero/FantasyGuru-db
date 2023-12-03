@@ -344,10 +344,34 @@
             "weekNumber": 14,
             "totalPoints": 5,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 15,
+            "totalPoints": 2,
+            "isInIdealFormation": false
         }
     ],
-    "points": 48,
-    "averagePoints": 3.2,
+    "points": 50,
+    "weekPoints": 2,
+    "averagePoints": 3.125,
     "id": "1369",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t188/color/t188_real-sociedad.png",
@@ -509,7 +533,8 @@
         "29/11/2023": 520395,
         "30/11/2023": 518761,
         "01/12/2023": 517259,
-        "02/12/2023": 515758
+        "02/12/2023": 515758,
+        "03/12/2023": 517438
     },
     "playerStatus": "ok"
 }
