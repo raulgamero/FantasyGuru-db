@@ -321,10 +321,34 @@
             "weekNumber": 14,
             "totalPoints": 5,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 15,
+            "totalPoints": 2,
+            "isInIdealFormation": false
         }
     ],
-    "points": 26,
-    "averagePoints": 1.8571428571428572,
+    "points": 28,
+    "weekPoints": 2,
+    "averagePoints": 1.8666666666666667,
     "id": "1672",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t173/color/t173_d-alaves.png",
@@ -486,7 +510,8 @@
         "30/11/2023": 477404,
         "01/12/2023": 477556,
         "02/12/2023": 477643,
-        "03/12/2023": 480848
+        "03/12/2023": 480848,
+        "04/12/2023": 483421
     },
     "playerStatus": "ok"
 }
