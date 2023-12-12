@@ -1004,8 +1004,8 @@
         {
             "stats": {
                 "mins_played": [
-                    18,
-                    1
+                    79,
+                    2
                 ],
                 "goals": [
                     0,
@@ -1036,7 +1036,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_failed": [
@@ -1072,12 +1072,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    1,
-                    0
+                    6,
+                    1
                 ],
                 "poss_lost_all": [
-                    6,
-                    0
+                    14,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -1085,17 +1085,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    1
+                    2
                 ]
             },
             "weekNumber": 16,
-            "totalPoints": 2,
+            "totalPoints": 4,
             "isInIdealFormation": false
         }
     ],
-    "points": 48,
-    "weekPoints": 2,
-    "averagePoints": 4,
+    "points": 50,
+    "weekPoints": 4,
+    "averagePoints": 4.166666666666667,
     "id": "924",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t5683/color/t5683_granada-cf.png",
@@ -1206,7 +1206,8 @@
         "08/12/2023": 5015250,
         "09/12/2023": 4918451,
         "10/12/2023": 4795543,
-        "11/12/2023": 4669878
+        "11/12/2023": 4669878,
+        "12/12/2023": 4546427
     },
     "playerStatus": "ok"
 }

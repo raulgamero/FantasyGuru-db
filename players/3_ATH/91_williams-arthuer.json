@@ -1459,8 +1459,8 @@
         {
             "stats": {
                 "mins_played": [
-                    18,
-                    1
+                    80,
+                    2
                 ],
                 "goals": [
                     1,
@@ -1475,7 +1475,7 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
@@ -1503,7 +1503,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -1519,20 +1519,20 @@
                     0
                 ],
                 "total_scoring_att": [
-                    1,
-                    0
+                    2,
+                    1
                 ],
                 "won_contest": [
-                    1,
-                    0
+                    2,
+                    1
                 ],
                 "ball_recovery": [
-                    1,
-                    0
+                    6,
+                    1
                 ],
                 "poss_lost_all": [
-                    5,
-                    0
+                    16,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -1544,13 +1544,13 @@
                 ]
             },
             "weekNumber": 16,
-            "totalPoints": 9,
+            "totalPoints": 12,
             "isInIdealFormation": false
         }
     ],
-    "points": 133,
-    "weekPoints": 9,
-    "averagePoints": 7.823529411764706,
+    "points": 136,
+    "weekPoints": 12,
+    "averagePoints": 8,
     "id": "91",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t174/color/t174_athletic-club.png",
@@ -1721,7 +1721,8 @@
         "08/12/2023": 68128751,
         "09/12/2023": 68719385,
         "10/12/2023": 70039303,
-        "11/12/2023": 71149862
+        "11/12/2023": 71149862,
+        "12/12/2023": 72140383
     },
     "playerStatus": "ok"
 }

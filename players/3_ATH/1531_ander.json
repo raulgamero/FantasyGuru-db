@@ -1186,8 +1186,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    10,
+                    1
                 ],
                 "goals": [
                     0,
@@ -1267,17 +1267,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 16,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 29,
-    "weekPoints": 0,
-    "averagePoints": 2.0714285714285716,
+    "points": 31,
+    "weekPoints": 2,
+    "averagePoints": 2.2142857142857144,
     "id": "1531",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t174/color/t174_athletic-club.png",
@@ -1441,7 +1441,8 @@
         "08/12/2023": 575726,
         "09/12/2023": 591609,
         "10/12/2023": 588978,
-        "11/12/2023": 586168
+        "11/12/2023": 586168,
+        "12/12/2023": 582491
     },
     "playerStatus": "ok"
 }

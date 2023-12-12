@@ -1277,8 +1277,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    1,
+                    1
                 ],
                 "goals": [
                     0,
@@ -1362,13 +1362,13 @@
                 ]
             },
             "weekNumber": 16,
-            "totalPoints": 0,
+            "totalPoints": 1,
             "isInIdealFormation": false
         }
     ],
-    "points": 29,
-    "weekPoints": 0,
-    "averagePoints": 1.9333333333333333,
+    "points": 30,
+    "weekPoints": 1,
+    "averagePoints": 2,
     "id": "602",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t5683/color/t5683_granada-cf.png",
@@ -1538,7 +1538,8 @@
         "08/12/2023": 507205,
         "09/12/2023": 505206,
         "10/12/2023": 506031,
-        "11/12/2023": 506539
+        "11/12/2023": 506539,
+        "12/12/2023": 506047
     },
     "playerStatus": "ok"
 }
