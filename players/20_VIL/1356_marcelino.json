@@ -1,6 +1,31 @@
 {
-    "playerStats": [],
+    "playerStats": [
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    1,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 17,
+            "totalPoints": 0,
+            "isInIdealFormation": false
+        }
+    ],
     "points": 0,
+    "weekPoints": 0,
     "averagePoints": 0,
     "id": "1356",
     "team": {
@@ -25,7 +50,8 @@
         "14/12/2023": 8023218,
         "15/12/2023": 7720458,
         "16/12/2023": 7429166,
-        "17/12/2023": 7153352
+        "17/12/2023": 7153352,
+        "18/12/2023": 6888231
     },
     "playerStatus": "ok"
 }
