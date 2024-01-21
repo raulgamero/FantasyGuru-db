@@ -459,10 +459,34 @@
             "weekNumber": 20,
             "totalPoints": 5,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    1,
+                    5
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 21,
+            "totalPoints": 5,
+            "isInIdealFormation": false
         }
     ],
-    "points": 48,
-    "averagePoints": 2.4,
+    "points": 53,
+    "weekPoints": 5,
+    "averagePoints": 2.5238095238095237,
     "id": "1638",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t407/color/t407_ud-las-palmas.png",
@@ -672,7 +696,8 @@
         "17/01/2024": 494184,
         "18/01/2024": 494730,
         "19/01/2024": 496280,
-        "20/01/2024": 498324
+        "20/01/2024": 498324,
+        "21/01/2024": 502188
     },
     "playerStatus": "ok"
 }
