@@ -1819,10 +1819,102 @@
             "weekNumber": 21,
             "totalPoints": 22,
             "isInIdealFormation": true
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    32,
+                    1
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    0,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    3,
+                    -1
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    1,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    3,
+                    0
+                ],
+                "poss_lost_all": [
+                    6,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 22,
+            "totalPoints": 0,
+            "isInIdealFormation": false
         }
     ],
     "points": 94,
-    "averagePoints": 4.7,
+    "weekPoints": 0,
+    "averagePoints": 4.476190476190476,
     "id": "1327",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t178/color/t178_fc-barcelona.png",
@@ -2040,7 +2132,8 @@
         "24/01/2024": 7721265,
         "25/01/2024": 8414152,
         "26/01/2024": 8996806,
-        "27/01/2024": 9592878
+        "27/01/2024": 9592878,
+        "28/01/2024": 10081486
     },
     "playerStatus": "ok"
 }
