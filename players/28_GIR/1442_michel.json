@@ -482,10 +482,34 @@
             "weekNumber": 21,
             "totalPoints": 5,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    1,
+                    5
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 22,
+            "totalPoints": 5,
+            "isInIdealFormation": false
         }
     ],
-    "points": 88,
-    "averagePoints": 4.190476190476191,
+    "points": 93,
+    "weekPoints": 5,
+    "averagePoints": 4.2272727272727275,
     "id": "1442",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t2893/color/t2893_girona-fc.png",
@@ -704,7 +728,8 @@
         "25/01/2024": 500136,
         "26/01/2024": 497936,
         "27/01/2024": 496273,
-        "28/01/2024": 497554
+        "28/01/2024": 497554,
+        "29/01/2024": 498256
     },
     "playerStatus": "ok"
 }
