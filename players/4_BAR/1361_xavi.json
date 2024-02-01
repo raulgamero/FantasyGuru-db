@@ -459,11 +459,34 @@
             "weekNumber": 22,
             "totalPoints": 0,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    1,
+                    5
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 20,
+            "totalPoints": 5,
+            "isInIdealFormation": false
         }
     ],
-    "points": 65,
+    "points": 70,
     "weekPoints": 0,
-    "averagePoints": 3.25,
+    "averagePoints": 3.3333333333333335,
     "id": "1361",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t178/color/t178_fc-barcelona.png",
@@ -685,7 +708,8 @@
         "28/01/2024": 508469,
         "29/01/2024": 508734,
         "30/01/2024": 507294,
-        "31/01/2024": 504283
+        "31/01/2024": 504283,
+        "01/02/2024": 502029
     },
     "playerStatus": "ok"
 }

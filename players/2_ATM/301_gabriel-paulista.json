@@ -1368,8 +1368,8 @@
         {
             "stats": {
                 "mins_played": [
-                    81,
-                    2
+                    0,
+                    0
                 ],
                 "goals": [
                     0,
@@ -1400,8 +1400,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    3,
-                    1
+                    0,
+                    0
                 ],
                 "penalty_failed": [
                     0,
@@ -1412,7 +1412,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    1,
+                    0,
                     0
                 ],
                 "yellow_card": [
@@ -1436,12 +1436,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    1,
+                    0,
                     0
                 ],
                 "poss_lost_all": [
-                    10,
-                    -1
+                    0,
+                    0
                 ],
                 "penalty_conceded": [
                     0,
@@ -1453,7 +1453,7 @@
                 ]
             },
             "weekNumber": 20,
-            "totalPoints": 3,
+            "totalPoints": 1,
             "isInIdealFormation": false
         },
         {
@@ -1639,19 +1639,19 @@
             "isInIdealFormation": false
         }
     ],
-    "points": 82,
+    "points": 80,
     "weekPoints": 1,
-    "averagePoints": 4.555555555555555,
+    "averagePoints": 4.444444444444445,
     "id": "301",
     "team": {
-        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t191/color/t191_valencia-cf.png",
-        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t191/gray/t191_valencia-cf.png",
-        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t191/white/t191_valencia-cf.png",
-        "name": "Valencia CF",
-        "id": "18",
-        "shortName": "VAL",
-        "slug": "valencia-cf",
-        "dspId": 88,
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t175/color/t175_atletico-de-madrid.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t175/gray/t175_atletico-de-madrid.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t175/white/t175_atletico-de-madrid.png",
+        "name": "Atl\u00e9tico de Madrid",
+        "id": "2",
+        "shortName": "ATM",
+        "slug": "atletico-de-madrid",
+        "dspId": 70,
         "store": ""
     },
     "name": "Gabriel Armando De Abreu",
@@ -1863,7 +1863,8 @@
         "28/01/2024": 3609660,
         "29/01/2024": 3568198,
         "30/01/2024": 3503974,
-        "31/01/2024": 3412359
+        "31/01/2024": 3412359,
+        "01/02/2024": 3344989
     },
     "playerStatus": "injured"
 }
