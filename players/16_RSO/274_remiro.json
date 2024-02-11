@@ -2001,10 +2001,102 @@
             "weekNumber": 23,
             "totalPoints": 11,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    90,
+                    2
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    1,
+                    0
+                ],
+                "effective_clearance": [
+                    1,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    1,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    7,
+                    1
+                ],
+                "poss_lost_all": [
+                    0,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    1
+                ]
+            },
+            "weekNumber": 24,
+            "totalPoints": 4,
+            "isInIdealFormation": false
         }
     ],
-    "points": 163,
-    "averagePoints": 7.409090909090909,
+    "points": 167,
+    "weekPoints": 4,
+    "averagePoints": 7.260869565217392,
     "id": "274",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t188/color/t188_real-sociedad.png",
@@ -2236,7 +2328,8 @@
         "07/02/2024": 19542949,
         "08/02/2024": 19570976,
         "09/02/2024": 19552872,
-        "10/02/2024": 19527270
+        "10/02/2024": 19527270,
+        "11/02/2024": 19481887
     },
     "playerStatus": "ok"
 }
