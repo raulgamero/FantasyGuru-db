@@ -551,10 +551,34 @@
             "weekNumber": 24,
             "totalPoints": 5,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 25,
+            "totalPoints": 2,
+            "isInIdealFormation": false
         }
     ],
-    "points": 67,
-    "averagePoints": 2.7916666666666665,
+    "points": 69,
+    "weekPoints": 2,
+    "averagePoints": 2.76,
     "id": "1367",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t185/color/t185_real-betis.png",
@@ -794,7 +818,8 @@
         "15/02/2024": 478286,
         "16/02/2024": 476688,
         "17/02/2024": 475717,
-        "18/02/2024": 477733
+        "18/02/2024": 477733,
+        "19/02/2024": 480053
     },
     "playerStatus": "ok"
 }

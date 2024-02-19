@@ -183,10 +183,34 @@
             "weekNumber": 24,
             "totalPoints": 2,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 25,
+            "totalPoints": 2,
+            "isInIdealFormation": false
         }
     ],
-    "points": 9,
-    "averagePoints": 1.125,
+    "points": 11,
+    "weekPoints": 2,
+    "averagePoints": 1.2222222222222223,
     "id": "1808",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t5683/color/t5683_granada-cf.png",
@@ -273,7 +297,8 @@
         "15/02/2024": 507879,
         "16/02/2024": 505097,
         "17/02/2024": 502989,
-        "18/02/2024": 503914
+        "18/02/2024": 503914,
+        "19/02/2024": 505187
     },
     "playerStatus": "ok"
 }
