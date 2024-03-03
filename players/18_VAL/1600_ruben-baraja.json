@@ -574,10 +574,34 @@
             "weekNumber": 25,
             "totalPoints": 2,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 27,
+            "totalPoints": 2,
+            "isInIdealFormation": false
         }
     ],
-    "points": 62,
-    "averagePoints": 2.48,
+    "points": 64,
+    "weekPoints": 2,
+    "averagePoints": 2.4615384615384617,
     "id": "1600",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t191/color/t191_valencia-cf.png",
@@ -830,7 +854,8 @@
         "28/02/2024": 485036,
         "29/02/2024": 484494,
         "01/03/2024": 484539,
-        "02/03/2024": 484812
+        "02/03/2024": 484812,
+        "03/03/2024": 488165
     },
     "playerStatus": "ok"
 }
