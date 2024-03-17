@@ -643,10 +643,34 @@
             "weekNumber": 28,
             "totalPoints": 0,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    1,
+                    5
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 29,
+            "totalPoints": 5,
+            "isInIdealFormation": false
         }
     ],
-    "points": 49,
-    "averagePoints": 1.75,
+    "points": 54,
+    "weekPoints": 5,
+    "averagePoints": 1.8620689655172413,
     "id": "1366",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
@@ -913,7 +937,8 @@
         "13/03/2024": 499228,
         "14/03/2024": 499597,
         "15/03/2024": 500775,
-        "16/03/2024": 502170
+        "16/03/2024": 502170,
+        "17/03/2024": 506167
     },
     "playerStatus": "ok"
 }
