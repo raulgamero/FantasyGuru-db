@@ -2278,8 +2278,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    16,
+                    1
                 ],
                 "goals": [
                     0,
@@ -2294,7 +2294,7 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
@@ -2346,11 +2346,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    1,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_conceded": [
@@ -2359,17 +2359,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 30,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 124,
-    "weekPoints": 0,
-    "averagePoints": 4.769230769230769,
+    "points": 126,
+    "weekPoints": 2,
+    "averagePoints": 4.846153846153846,
     "id": "1029",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t184/color/t184_rayo-vallecano.png",
@@ -2651,7 +2651,8 @@
         "28/03/2024": 2388542,
         "29/03/2024": 2365306,
         "30/03/2024": 2345602,
-        "31/03/2024": 2312728
+        "31/03/2024": 2312728,
+        "01/04/2024": 2272136
     },
-    "playerStatus": "ok"
+    "playerStatus": "doubtful"
 }

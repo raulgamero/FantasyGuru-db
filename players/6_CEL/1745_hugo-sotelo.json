@@ -2187,8 +2187,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    65,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2203,7 +2203,7 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
@@ -2219,7 +2219,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_failed": [
@@ -2232,7 +2232,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    2
                 ],
                 "yellow_card": [
                     0,
@@ -2251,15 +2251,15 @@
                     0
                 ],
                 "won_contest": [
-                    1,
-                    0
+                    2,
+                    1
                 ],
                 "ball_recovery": [
-                    0,
+                    2,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    9,
                     0
                 ],
                 "penalty_conceded": [
@@ -2268,17 +2268,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 30,
-            "totalPoints": 0,
+            "totalPoints": 7,
             "isInIdealFormation": false
         }
     ],
-    "points": 30,
-    "weekPoints": 0,
-    "averagePoints": 1.2,
+    "points": 37,
+    "weekPoints": 7,
+    "averagePoints": 1.48,
     "id": "1745",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t176/color/t176_rc-celta.png",
@@ -2506,7 +2506,8 @@
         "28/03/2024": 547679,
         "29/03/2024": 552938,
         "30/03/2024": 557070,
-        "31/03/2024": 563661
+        "31/03/2024": 563661,
+        "01/04/2024": 569897
     },
     "playerStatus": "ok"
 }

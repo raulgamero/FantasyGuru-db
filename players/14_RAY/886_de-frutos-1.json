@@ -2551,8 +2551,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2567,7 +2567,7 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
@@ -2583,7 +2583,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_failed": [
@@ -2596,7 +2596,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    2
                 ],
                 "yellow_card": [
                     0,
@@ -2611,7 +2611,7 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
+                    1,
                     0
                 ],
                 "won_contest": [
@@ -2619,11 +2619,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    3,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    9,
                     0
                 ],
                 "penalty_conceded": [
@@ -2632,17 +2632,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 30,
-            "totalPoints": 0,
+            "totalPoints": 5,
             "isInIdealFormation": false
         }
     ],
-    "points": 75,
-    "weekPoints": 0,
-    "averagePoints": 2.586206896551724,
+    "points": 80,
+    "weekPoints": 5,
+    "averagePoints": 2.7586206896551726,
     "id": "886",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t184/color/t184_rayo-vallecano.png",
@@ -2883,7 +2883,8 @@
         "28/03/2024": 553589,
         "29/03/2024": 558611,
         "30/03/2024": 562516,
-        "31/03/2024": 568889
+        "31/03/2024": 568889,
+        "01/04/2024": 574916
     },
     "playerStatus": "ok"
 }

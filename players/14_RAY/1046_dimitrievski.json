@@ -2642,8 +2642,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2670,11 +2670,11 @@
                     0
                 ],
                 "saves": [
-                    1,
+                    0,
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    2,
                     0
                 ],
                 "penalty_failed": [
@@ -2687,7 +2687,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    4
                 ],
                 "yellow_card": [
                     0,
@@ -2710,12 +2710,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    2,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
-                    0
+                    10,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -2723,17 +2723,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 30,
-            "totalPoints": 0,
+            "totalPoints": 7,
             "isInIdealFormation": false
         }
     ],
-    "points": 182,
-    "weekPoints": 0,
-    "averagePoints": 6.066666666666666,
+    "points": 189,
+    "weekPoints": 7,
+    "averagePoints": 6.3,
     "id": "1046",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t184/color/t184_rayo-vallecano.png",
@@ -3015,7 +3015,8 @@
         "28/03/2024": 3739277,
         "29/03/2024": 3695479,
         "30/03/2024": 3654404,
-        "31/03/2024": 3605462
+        "31/03/2024": 3605462,
+        "01/04/2024": 3568981
     },
     "playerStatus": "ok"
 }
