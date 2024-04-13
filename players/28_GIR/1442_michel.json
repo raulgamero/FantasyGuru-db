@@ -643,10 +643,34 @@
             "weekNumber": 30,
             "totalPoints": 5,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    1,
+                    5
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 31,
+            "totalPoints": 5,
+            "isInIdealFormation": false
         }
     ],
-    "points": 110,
-    "averagePoints": 3.9285714285714284,
+    "points": 115,
+    "weekPoints": 5,
+    "averagePoints": 3.9655172413793105,
     "id": "1442",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t2893/color/t2893_girona-fc.png",
