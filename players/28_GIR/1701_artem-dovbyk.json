@@ -2460,8 +2460,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    83,
+                    2
                 ],
                 "goals": [
                     1,
@@ -2492,7 +2492,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_failed": [
@@ -2504,8 +2504,8 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    3,
+                    -1
                 ],
                 "yellow_card": [
                     0,
@@ -2524,7 +2524,7 @@
                     0
                 ],
                 "won_contest": [
-                    0,
+                    1,
                     0
                 ],
                 "ball_recovery": [
@@ -2532,7 +2532,7 @@
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    10,
                     0
                 ],
                 "penalty_conceded": [
@@ -2541,17 +2541,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 31,
-            "totalPoints": 4,
+            "totalPoints": 7,
             "isInIdealFormation": false
         }
     ],
-    "points": 193,
-    "weekPoints": 4,
-    "averagePoints": 6.892857142857143,
+    "points": 196,
+    "weekPoints": 7,
+    "averagePoints": 7,
     "id": "1701",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t2893/color/t2893_girona-fc.png",
@@ -2810,7 +2810,8 @@
         "10/04/2024": 78295466,
         "11/04/2024": 79861666,
         "12/04/2024": 80846965,
-        "13/04/2024": 81650530
+        "13/04/2024": 81650530,
+        "14/04/2024": 82957860
     },
     "playerStatus": "ok"
 }

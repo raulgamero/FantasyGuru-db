@@ -2005,8 +2005,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    65,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2017,8 +2017,8 @@
                     0
                 ],
                 "offtarget_att_assist": [
-                    0,
-                    0
+                    1,
+                    1
                 ],
                 "pen_area_entries": [
                     0,
@@ -2049,12 +2049,12 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    3,
+                    -1
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -2065,20 +2065,20 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
+                    1,
                     0
                 ],
                 "won_contest": [
-                    0,
+                    1,
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    1,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
-                    0
+                    15,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -2086,17 +2086,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 31,
-            "totalPoints": 0,
+            "totalPoints": 1,
             "isInIdealFormation": false
         }
     ],
-    "points": 112,
-    "weekPoints": 0,
-    "averagePoints": 4.869565217391305,
+    "points": 113,
+    "weekPoints": 1,
+    "averagePoints": 4.913043478260869,
     "id": "1301",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t2893/color/t2893_girona-fc.png",
@@ -2371,7 +2371,8 @@
         "10/04/2024": 14234293,
         "11/04/2024": 14258043,
         "12/04/2024": 14306652,
-        "13/04/2024": 14367705
+        "13/04/2024": 14367705,
+        "14/04/2024": 14409954
     },
     "playerStatus": "ok"
 }

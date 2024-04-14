@@ -2460,8 +2460,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2492,8 +2492,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    5,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -2504,8 +2504,8 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    3,
+                    -2
                 ],
                 "yellow_card": [
                     0,
@@ -2520,7 +2520,7 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
+                    1,
                     0
                 ],
                 "won_contest": [
@@ -2528,11 +2528,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
-                    0
+                    6,
+                    1
                 ],
                 "poss_lost_all": [
-                    0,
+                    7,
                     0
                 ],
                 "penalty_conceded": [
@@ -2541,17 +2541,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 31,
-            "totalPoints": 0,
+            "totalPoints": 3,
             "isInIdealFormation": false
         }
     ],
-    "points": 146,
-    "weekPoints": 0,
-    "averagePoints": 5.214285714285714,
+    "points": 149,
+    "weekPoints": 3,
+    "averagePoints": 5.321428571428571,
     "id": "1680",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t2893/color/t2893_girona-fc.png",
@@ -2816,7 +2816,8 @@
         "10/04/2024": 35741491,
         "11/04/2024": 35167746,
         "12/04/2024": 34703637,
-        "13/04/2024": 34330591
+        "13/04/2024": 34330591,
+        "14/04/2024": 33917650
     },
     "playerStatus": "ok"
 }

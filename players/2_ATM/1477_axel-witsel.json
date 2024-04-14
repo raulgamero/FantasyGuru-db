@@ -2642,8 +2642,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    45,
+                    1
                 ],
                 "goals": [
                     0,
@@ -2710,7 +2710,7 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    1,
                     0
                 ],
                 "poss_lost_all": [
@@ -2723,17 +2723,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 31,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 142,
-    "weekPoints": 0,
-    "averagePoints": 4.733333333333333,
+    "points": 144,
+    "weekPoints": 2,
+    "averagePoints": 4.8,
     "id": "1477",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t175/color/t175_atletico-de-madrid.png",
@@ -3028,7 +3028,8 @@
         "10/04/2024": 17437797,
         "11/04/2024": 17504672,
         "12/04/2024": 17589649,
-        "13/04/2024": 17625210
+        "13/04/2024": 17625210,
+        "14/04/2024": 17601076
     },
     "playerStatus": "ok"
 }
