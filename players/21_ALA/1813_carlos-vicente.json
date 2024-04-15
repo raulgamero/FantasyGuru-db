@@ -913,8 +913,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    45,
+                    1
                 ],
                 "goals": [
                     0,
@@ -929,7 +929,7 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
@@ -957,8 +957,8 @@
                     0
                 ],
                 "goals_conceded": [
-                    1,
-                    0
+                    2,
+                    -1
                 ],
                 "yellow_card": [
                     0,
@@ -981,11 +981,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    1,
+                    2,
                     0
                 ],
                 "poss_lost_all": [
-                    1,
+                    8,
                     0
                 ],
                 "penalty_conceded": [
@@ -994,17 +994,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 31,
-            "totalPoints": 0,
+            "totalPoints": 1,
             "isInIdealFormation": false
         }
     ],
-    "points": 42,
-    "weekPoints": 0,
-    "averagePoints": 3.8181818181818183,
+    "points": 43,
+    "weekPoints": 1,
+    "averagePoints": 3.909090909090909,
     "id": "1813",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t173/color/t173_d-alaves.png",
@@ -1120,7 +1120,8 @@
         "11/04/2024": 809976,
         "12/04/2024": 808628,
         "13/04/2024": 806872,
-        "14/04/2024": 806701
+        "14/04/2024": 806701,
+        "15/04/2024": 806110
     },
     "playerStatus": "ok"
 }

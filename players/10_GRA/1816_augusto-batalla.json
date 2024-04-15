@@ -1004,8 +1004,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -1032,12 +1032,12 @@
                     0
                 ],
                 "saves": [
-                    0,
-                    0
+                    3,
+                    1
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    4,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -1049,7 +1049,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    4
                 ],
                 "yellow_card": [
                     0,
@@ -1072,12 +1072,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    3,
-                    0
+                    16,
+                    3
                 ],
                 "poss_lost_all": [
-                    0,
-                    0
+                    15,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -1085,17 +1085,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    4
                 ]
             },
             "weekNumber": 31,
-            "totalPoints": 0,
+            "totalPoints": 14,
             "isInIdealFormation": false
         }
     ],
-    "points": 51,
-    "weekPoints": 0,
-    "averagePoints": 4.25,
+    "points": 65,
+    "weekPoints": 14,
+    "averagePoints": 5.416666666666667,
     "id": "1816",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t5683/color/t5683_granada-cf.png",
@@ -1211,7 +1211,8 @@
         "11/04/2024": 804875,
         "12/04/2024": 803731,
         "13/04/2024": 802171,
-        "14/04/2024": 802188
+        "14/04/2024": 802188,
+        "15/04/2024": 801777
     },
     "playerStatus": "ok"
 }

@@ -2733,8 +2733,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    75,
+                    2
                 ],
                 "goals": [
                     1,
@@ -2778,11 +2778,11 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    2
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -2793,8 +2793,8 @@
                     0
                 ],
                 "total_scoring_att": [
-                    1,
-                    0
+                    2,
+                    1
                 ],
                 "won_contest": [
                     0,
@@ -2805,7 +2805,7 @@
                     0
                 ],
                 "poss_lost_all": [
-                    2,
+                    5,
                     0
                 ],
                 "penalty_conceded": [
@@ -2814,17 +2814,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 31,
-            "totalPoints": 5,
+            "totalPoints": 11,
             "isInIdealFormation": false
         }
     ],
-    "points": 136,
-    "weekPoints": 5,
-    "averagePoints": 4.387096774193548,
+    "points": 142,
+    "weekPoints": 11,
+    "averagePoints": 4.580645161290323,
     "id": "1349",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t5683/color/t5683_granada-cf.png",
@@ -3119,7 +3119,8 @@
         "11/04/2024": 1262142,
         "12/04/2024": 1254663,
         "13/04/2024": 1244452,
-        "14/04/2024": 1226778
+        "14/04/2024": 1226778,
+        "15/04/2024": 1212058
     },
     "playerStatus": "ok"
 }

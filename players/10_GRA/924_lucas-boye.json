@@ -2096,12 +2096,12 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    83,
+                    2
                 ],
                 "goals": [
-                    0,
-                    0
+                    1,
+                    4
                 ],
                 "goal_assist": [
                     0,
@@ -2128,8 +2128,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    3,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -2141,7 +2141,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    1
                 ],
                 "yellow_card": [
                     0,
@@ -2156,20 +2156,20 @@
                     0
                 ],
                 "total_scoring_att": [
-                    1,
-                    0
+                    2,
+                    1
                 ],
                 "won_contest": [
-                    1,
-                    0
+                    3,
+                    1
                 ],
                 "ball_recovery": [
-                    3,
-                    0
+                    9,
+                    1
                 ],
                 "poss_lost_all": [
-                    3,
-                    0
+                    20,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -2177,17 +2177,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    4
                 ]
             },
             "weekNumber": 31,
-            "totalPoints": 0,
+            "totalPoints": 14,
             "isInIdealFormation": false
         }
     ],
-    "points": 79,
-    "weekPoints": 0,
-    "averagePoints": 3.2916666666666665,
+    "points": 93,
+    "weekPoints": 14,
+    "averagePoints": 3.875,
     "id": "924",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t5683/color/t5683_granada-cf.png",
@@ -2423,7 +2423,8 @@
         "11/04/2024": 672075,
         "12/04/2024": 676243,
         "13/04/2024": 679783,
-        "14/04/2024": 684696
+        "14/04/2024": 684696,
+        "15/04/2024": 688985
     },
     "playerStatus": "ok"
 }

@@ -822,8 +822,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    7,
+                    1
                 ],
                 "goals": [
                     0,
@@ -894,7 +894,7 @@
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    2,
                     0
                 ],
                 "penalty_conceded": [
@@ -907,13 +907,13 @@
                 ]
             },
             "weekNumber": 31,
-            "totalPoints": 0,
+            "totalPoints": 1,
             "isInIdealFormation": false
         }
     ],
-    "points": 18,
-    "weekPoints": 0,
-    "averagePoints": 1.8,
+    "points": 19,
+    "weekPoints": 1,
+    "averagePoints": 1.9,
     "id": "1590",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t5683/color/t5683_granada-cf.png",
@@ -1021,7 +1021,8 @@
         "11/04/2024": 711443,
         "12/04/2024": 714037,
         "13/04/2024": 716065,
-        "14/04/2024": 719526
+        "14/04/2024": 719526,
+        "15/04/2024": 722422
     },
     "playerStatus": "ok"
 }
