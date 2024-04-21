@@ -1095,8 +1095,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -1107,8 +1107,8 @@
                     0
                 ],
                 "offtarget_att_assist": [
-                    0,
-                    0
+                    1,
+                    1
                 ],
                 "pen_area_entries": [
                     0,
@@ -1139,7 +1139,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -1155,19 +1155,19 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
-                    0
+                    2,
+                    1
                 ],
                 "won_contest": [
                     0,
                     0
                 ],
                 "ball_recovery": [
-                    0,
-                    0
+                    5,
+                    1
                 ],
                 "poss_lost_all": [
-                    0,
+                    7,
                     0
                 ],
                 "penalty_conceded": [
@@ -1176,17 +1176,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 32,
-            "totalPoints": 0,
+            "totalPoints": 7,
             "isInIdealFormation": false
         }
     ],
-    "points": 31,
-    "weekPoints": 0,
-    "averagePoints": 2.3846153846153846,
+    "points": 38,
+    "weekPoints": 7,
+    "averagePoints": 2.923076923076923,
     "id": "1817",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t176/color/t176_rc-celta.png",
@@ -1308,7 +1308,8 @@
         "17/04/2024": 704906,
         "18/04/2024": 706196,
         "19/04/2024": 707597,
-        "20/04/2024": 708086
+        "20/04/2024": 708086,
+        "21/04/2024": 712395
     },
     "playerStatus": "ok"
 }

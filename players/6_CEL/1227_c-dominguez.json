@@ -2733,8 +2733,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2765,7 +2765,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    2,
                     0
                 ],
                 "penalty_failed": [
@@ -2777,7 +2777,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -2801,11 +2801,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    1,
                     0
                 ],
                 "poss_lost_all": [
-                    1,
+                    5,
                     0
                 ],
                 "penalty_conceded": [
@@ -2814,17 +2814,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 32,
-            "totalPoints": 0,
+            "totalPoints": 3,
             "isInIdealFormation": false
         }
     ],
-    "points": 62,
-    "weekPoints": 0,
-    "averagePoints": 2,
+    "points": 65,
+    "weekPoints": 3,
+    "averagePoints": 2.096774193548387,
     "id": "1227",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t176/color/t176_rc-celta.png",
@@ -3080,7 +3080,8 @@
         "17/04/2024": 644078,
         "18/04/2024": 647802,
         "19/04/2024": 651538,
-        "20/04/2024": 654269
+        "20/04/2024": 654269,
+        "21/04/2024": 660730
     },
     "playerStatus": "ok"
 }
