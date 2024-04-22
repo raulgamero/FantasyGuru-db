@@ -2551,8 +2551,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2583,8 +2583,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    4,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -2595,12 +2595,12 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -2615,16 +2615,16 @@
                     0
                 ],
                 "won_contest": [
-                    0,
+                    1,
                     0
                 ],
                 "ball_recovery": [
-                    0,
-                    0
+                    7,
+                    1
                 ],
                 "poss_lost_all": [
-                    0,
-                    0
+                    20,
+                    -2
                 ],
                 "penalty_conceded": [
                     0,
@@ -2632,17 +2632,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 32,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 149,
-    "weekPoints": 0,
-    "averagePoints": 5.137931034482759,
+    "points": 151,
+    "weekPoints": 2,
+    "averagePoints": 5.206896551724138,
     "id": "271",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t188/color/t188_real-sociedad.png",
@@ -2945,7 +2945,8 @@
         "18/04/2024": 41164293,
         "19/04/2024": 40827652,
         "20/04/2024": 40540976,
-        "21/04/2024": 40101698
+        "21/04/2024": 40101698,
+        "22/04/2024": 39618275
     },
     "playerStatus": "ok"
 }

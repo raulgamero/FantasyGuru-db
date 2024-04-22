@@ -2642,8 +2642,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2674,7 +2674,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_failed": [
@@ -2686,7 +2686,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -2706,16 +2706,16 @@
                     0
                 ],
                 "won_contest": [
-                    0,
-                    0
+                    2,
+                    1
                 ],
                 "ball_recovery": [
-                    0,
+                    1,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
-                    0
+                    12,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -2723,17 +2723,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 32,
-            "totalPoints": 0,
+            "totalPoints": 4,
             "isInIdealFormation": false
         }
     ],
-    "points": 68,
-    "weekPoints": 0,
-    "averagePoints": 2.2666666666666666,
+    "points": 72,
+    "weekPoints": 4,
+    "averagePoints": 2.4,
     "id": "1216",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t188/color/t188_real-sociedad.png",
@@ -3036,7 +3036,8 @@
         "18/04/2024": 657684,
         "19/04/2024": 661025,
         "20/04/2024": 663376,
-        "21/04/2024": 669473
+        "21/04/2024": 669473,
+        "22/04/2024": 674791
     },
     "playerStatus": "ok"
 }
