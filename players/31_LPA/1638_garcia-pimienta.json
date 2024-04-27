@@ -735,9 +735,33 @@
             "weekNumber": 32,
             "totalPoints": 0,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 33,
+            "totalPoints": 2,
+            "isInIdealFormation": false
         }
     ],
-    "points": 64,
+    "points": 66,
+    "weekPoints": 2,
     "averagePoints": 2,
     "id": "1638",
     "team": {
