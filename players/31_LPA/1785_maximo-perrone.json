@@ -2460,8 +2460,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    78,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2492,7 +2492,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_failed": [
@@ -2504,8 +2504,8 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    2,
+                    -1
                 ],
                 "yellow_card": [
                     0,
@@ -2524,15 +2524,15 @@
                     0
                 ],
                 "won_contest": [
-                    0,
+                    1,
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    2,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    8,
                     0
                 ],
                 "penalty_conceded": [
@@ -2541,17 +2541,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 33,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 83,
-    "weekPoints": 0,
-    "averagePoints": 2.9642857142857144,
+    "points": 85,
+    "weekPoints": 2,
+    "averagePoints": 3.0357142857142856,
     "id": "1785",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t407/color/t407_ud-las-palmas.png",
@@ -2805,7 +2805,8 @@
         "24/04/2024": 680654,
         "25/04/2024": 682871,
         "26/04/2024": 684533,
-        "27/04/2024": 685299
+        "27/04/2024": 685299,
+        "28/04/2024": 690368
     },
     "playerStatus": "ok"
 }

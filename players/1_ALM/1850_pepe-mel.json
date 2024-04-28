@@ -68,10 +68,34 @@
             "weekNumber": 32,
             "totalPoints": 0,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    1,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 33,
+            "totalPoints": 0,
+            "isInIdealFormation": false
         }
     ],
     "points": 2,
-    "averagePoints": 0.6666666666666666,
+    "weekPoints": 0,
+    "averagePoints": 0.5,
     "id": "1850",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1564/color/t1564_ud-almeria.png",
@@ -123,7 +147,8 @@
         "24/04/2024": 1058556,
         "25/04/2024": 1045656,
         "26/04/2024": 1032807,
-        "27/04/2024": 1019642
+        "27/04/2024": 1019642,
+        "28/04/2024": 1011337
     },
     "playerStatus": "ok"
 }

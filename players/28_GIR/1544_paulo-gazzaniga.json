@@ -2915,8 +2915,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2939,12 +2939,12 @@
                     0
                 ],
                 "penalty_save": [
-                    0,
-                    0
+                    1,
+                    5
                 ],
                 "saves": [
-                    0,
-                    0
+                    5,
+                    2
                 ],
                 "effective_clearance": [
                     0,
@@ -2960,7 +2960,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    4
                 ],
                 "yellow_card": [
                     0,
@@ -2979,16 +2979,16 @@
                     0
                 ],
                 "won_contest": [
-                    0,
+                    1,
                     0
                 ],
                 "ball_recovery": [
-                    0,
-                    0
+                    12,
+                    2
                 ],
                 "poss_lost_all": [
-                    0,
-                    0
+                    13,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -2996,17 +2996,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    4
                 ]
             },
             "weekNumber": 33,
-            "totalPoints": 0,
+            "totalPoints": 18,
             "isInIdealFormation": false
         }
     ],
-    "points": 216,
-    "weekPoints": 0,
-    "averagePoints": 6.545454545454546,
+    "points": 234,
+    "weekPoints": 18,
+    "averagePoints": 7.090909090909091,
     "id": "1544",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t2893/color/t2893_girona-fc.png",
@@ -3287,7 +3287,8 @@
         "24/04/2024": 10100278,
         "25/04/2024": 9994217,
         "26/04/2024": 9898585,
-        "27/04/2024": 9819501
+        "27/04/2024": 9819501,
+        "28/04/2024": 9752231
     },
     "playerStatus": "ok"
 }

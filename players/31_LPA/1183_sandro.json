@@ -2187,8 +2187,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    63,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2223,16 +2223,16 @@
                     0
                 ],
                 "penalty_failed": [
-                    0,
-                    0
+                    1,
+                    -2
                 ],
                 "own_goals": [
                     0,
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    2,
+                    -1
                 ],
                 "yellow_card": [
                     0,
@@ -2247,19 +2247,19 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
-                    0
+                    2,
+                    1
                 ],
                 "won_contest": [
                     0,
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    2,
                     0
                 ],
                 "poss_lost_all": [
-                    2,
+                    6,
                     0
                 ],
                 "penalty_conceded": [
@@ -2268,17 +2268,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 33,
-            "totalPoints": 0,
+            "totalPoints": 1,
             "isInIdealFormation": false
         }
     ],
-    "points": 101,
-    "weekPoints": 0,
-    "averagePoints": 4.04,
+    "points": 102,
+    "weekPoints": 1,
+    "averagePoints": 4.08,
     "id": "1183",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t407/color/t407_ud-las-palmas.png",
@@ -2561,7 +2561,8 @@
         "24/04/2024": 732043,
         "25/04/2024": 732204,
         "26/04/2024": 731893,
-        "27/04/2024": 730765
+        "27/04/2024": 730765,
+        "28/04/2024": 734015
     },
     "playerStatus": "ok"
 }
