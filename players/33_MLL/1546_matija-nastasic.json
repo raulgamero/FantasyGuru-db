@@ -2642,8 +2642,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2674,8 +2674,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    3,
-                    1
+                    7,
+                    2
                 ],
                 "penalty_failed": [
                     0,
@@ -2686,7 +2686,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -2710,12 +2710,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    1,
+                    2,
                     0
                 ],
                 "poss_lost_all": [
-                    2,
-                    0
+                    13,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -2723,17 +2723,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 33,
-            "totalPoints": 1,
+            "totalPoints": 4,
             "isInIdealFormation": false
         }
     ],
-    "points": 112,
-    "weekPoints": 1,
-    "averagePoints": 3.7333333333333334,
+    "points": 115,
+    "weekPoints": 4,
+    "averagePoints": 3.8333333333333335,
     "id": "1546",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
@@ -2991,7 +2991,8 @@
         "25/04/2024": 688165,
         "26/04/2024": 689615,
         "27/04/2024": 690178,
-        "28/04/2024": 695052
+        "28/04/2024": 695052,
+        "29/04/2024": 699119
     },
     "playerStatus": "ok"
 }

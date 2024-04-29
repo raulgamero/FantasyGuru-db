@@ -2915,8 +2915,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    80,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2959,12 +2959,12 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -2975,7 +2975,7 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
+                    1,
                     0
                 ],
                 "won_contest": [
@@ -2987,8 +2987,8 @@
                     0
                 ],
                 "poss_lost_all": [
-                    3,
-                    0
+                    15,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -2996,17 +2996,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 33,
-            "totalPoints": 0,
+            "totalPoints": 1,
             "isInIdealFormation": false
         }
     ],
-    "points": 110,
-    "weekPoints": 0,
-    "averagePoints": 3.3333333333333335,
+    "points": 111,
+    "weekPoints": 1,
+    "averagePoints": 3.3636363636363638,
     "id": "1597",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1737/color/t1737_cadiz-cf.png",
@@ -3316,7 +3316,8 @@
         "25/04/2024": 766844,
         "26/04/2024": 765147,
         "27/04/2024": 762688,
-        "28/04/2024": 764662
+        "28/04/2024": 764662,
+        "29/04/2024": 765945
     },
     "playerStatus": "ok"
 }

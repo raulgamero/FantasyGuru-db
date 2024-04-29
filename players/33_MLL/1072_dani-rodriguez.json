@@ -2915,8 +2915,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    70,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2931,7 +2931,7 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
@@ -2959,12 +2959,12 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -2983,11 +2983,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    2,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    4,
                     0
                 ],
                 "penalty_conceded": [
@@ -2996,17 +2996,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 33,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 156,
-    "weekPoints": 0,
-    "averagePoints": 4.7272727272727275,
+    "points": 158,
+    "weekPoints": 2,
+    "averagePoints": 4.787878787878788,
     "id": "1072",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
@@ -3316,7 +3316,8 @@
         "25/04/2024": 7607633,
         "26/04/2024": 7609076,
         "27/04/2024": 7633441,
-        "28/04/2024": 7561973
+        "28/04/2024": 7561973,
+        "29/04/2024": 7468064
     },
     "playerStatus": "ok"
 }

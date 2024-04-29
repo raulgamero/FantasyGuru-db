@@ -2915,8 +2915,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    70,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2947,8 +2947,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    3,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -2959,7 +2959,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -2983,11 +2983,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    2,
-                    0
+                    7,
+                    1
                 ],
                 "poss_lost_all": [
-                    1,
+                    9,
                     0
                 ],
                 "penalty_conceded": [
@@ -2996,17 +2996,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 33,
-            "totalPoints": 0,
+            "totalPoints": 6,
             "isInIdealFormation": false
         }
     ],
-    "points": 116,
-    "weekPoints": 0,
-    "averagePoints": 3.515151515151515,
+    "points": 122,
+    "weekPoints": 6,
+    "averagePoints": 3.696969696969697,
     "id": "1434",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
@@ -3316,7 +3316,8 @@
         "25/04/2024": 1171674,
         "26/04/2024": 1160518,
         "27/04/2024": 1152821,
-        "28/04/2024": 1139189
+        "28/04/2024": 1139189,
+        "29/04/2024": 1125490
     },
     "playerStatus": "ok"
 }
