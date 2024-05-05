@@ -2187,8 +2187,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    19,
+                    1
                 ],
                 "goals": [
                     0,
@@ -2255,11 +2255,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    2,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    4,
                     0
                 ],
                 "penalty_conceded": [
@@ -2268,17 +2268,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 34,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 87,
-    "weekPoints": 0,
-    "averagePoints": 3.48,
+    "points": 89,
+    "weekPoints": 2,
+    "averagePoints": 3.56,
     "id": "1723",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t188/color/t188_real-sociedad.png",
@@ -2540,7 +2540,8 @@
         "01/05/2024": 1141090,
         "02/05/2024": 1125035,
         "03/05/2024": 1117732,
-        "04/05/2024": 1109274
+        "04/05/2024": 1109274,
+        "05/05/2024": 1096235
     },
     "playerStatus": "ok"
 }

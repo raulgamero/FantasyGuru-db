@@ -2915,8 +2915,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2959,8 +2959,8 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    2,
+                    -1
                 ],
                 "yellow_card": [
                     0,
@@ -2979,16 +2979,16 @@
                     0
                 ],
                 "won_contest": [
-                    0,
+                    1,
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    1,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
-                    0
+                    13,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -2996,17 +2996,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 34,
-            "totalPoints": 0,
+            "totalPoints": 1,
             "isInIdealFormation": false
         }
     ],
-    "points": 169,
-    "weekPoints": 0,
-    "averagePoints": 5.121212121212121,
+    "points": 170,
+    "weekPoints": 1,
+    "averagePoints": 5.151515151515151,
     "id": "1624",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t407/color/t407_ud-las-palmas.png",
@@ -3296,7 +3296,8 @@
         "01/05/2024": 22346400,
         "02/05/2024": 21957918,
         "03/05/2024": 21650159,
-        "04/05/2024": 21406753
+        "04/05/2024": 21406753,
+        "05/05/2024": 21070301
     },
     "playerStatus": "ok"
 }

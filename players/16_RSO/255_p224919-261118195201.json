@@ -2824,8 +2824,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2856,8 +2856,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    1,
-                    0
+                    6,
+                    2
                 ],
                 "penalty_failed": [
                     0,
@@ -2869,11 +2869,11 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    3
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -2892,11 +2892,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    1,
-                    0
+                    5,
+                    1
                 ],
                 "poss_lost_all": [
-                    1,
+                    7,
                     0
                 ],
                 "penalty_conceded": [
@@ -2905,17 +2905,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 34,
-            "totalPoints": 0,
+            "totalPoints": 9,
             "isInIdealFormation": false
         }
     ],
-    "points": 120,
-    "weekPoints": 0,
-    "averagePoints": 3.75,
+    "points": 129,
+    "weekPoints": 9,
+    "averagePoints": 4.03125,
     "id": "255",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t188/color/t188_real-sociedad.png",
@@ -3231,7 +3231,8 @@
         "01/05/2024": 11054432,
         "02/05/2024": 11099354,
         "03/05/2024": 11206863,
-        "04/05/2024": 11329025
+        "04/05/2024": 11329025,
+        "05/05/2024": 11295504
     },
     "playerStatus": "ok"
 }

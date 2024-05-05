@@ -2551,8 +2551,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2583,8 +2583,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    3,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -2595,8 +2595,8 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    2,
+                    -2
                 ],
                 "yellow_card": [
                     0,
@@ -2619,11 +2619,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    1,
+                    4,
                     0
                 ],
                 "poss_lost_all": [
-                    1,
+                    6,
                     0
                 ],
                 "penalty_conceded": [
@@ -2632,17 +2632,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 34,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 92,
-    "weekPoints": 0,
-    "averagePoints": 3.1724137931034484,
+    "points": 94,
+    "weekPoints": 2,
+    "averagePoints": 3.2413793103448274,
     "id": "1627",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t407/color/t407_ud-las-palmas.png",
@@ -2957,7 +2957,8 @@
         "01/05/2024": 1026729,
         "02/05/2024": 1015248,
         "03/05/2024": 1003284,
-        "04/05/2024": 990590
+        "04/05/2024": 990590,
+        "05/05/2024": 982298
     },
     "playerStatus": "ok"
 }
