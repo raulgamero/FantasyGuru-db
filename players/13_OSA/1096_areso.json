@@ -3006,8 +3006,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    82,
+                    2
                 ],
                 "goals": [
                     0,
@@ -3022,8 +3022,8 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
-                    0
+                    2,
+                    1
                 ],
                 "penalty_won": [
                     0,
@@ -3050,8 +3050,8 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    2,
+                    -2
                 ],
                 "yellow_card": [
                     0,
@@ -3070,16 +3070,16 @@
                     0
                 ],
                 "won_contest": [
-                    0,
-                    0
+                    4,
+                    2
                 ],
                 "ball_recovery": [
-                    0,
+                    4,
                     0
                 ],
                 "poss_lost_all": [
-                    3,
-                    0
+                    18,
+                    -2
                 ],
                 "penalty_conceded": [
                     0,
@@ -3087,17 +3087,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 34,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 112,
-    "weekPoints": 0,
-    "averagePoints": 3.2941176470588234,
+    "points": 114,
+    "weekPoints": 2,
+    "averagePoints": 3.3529411764705883,
     "id": "1096",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t450/color/t450_c-a-osasuna.png",
@@ -3391,7 +3391,8 @@
         "02/05/2024": 698988,
         "03/05/2024": 699674,
         "04/05/2024": 699124,
-        "05/05/2024": 702491
+        "05/05/2024": 702491,
+        "06/05/2024": 706161
     },
     "playerStatus": "ok"
 }

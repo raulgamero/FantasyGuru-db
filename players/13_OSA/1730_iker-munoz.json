@@ -2642,8 +2642,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    82,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2674,8 +2674,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    1,
-                    0
+                    3,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -2686,8 +2686,8 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    2,
+                    -1
                 ],
                 "yellow_card": [
                     0,
@@ -2702,7 +2702,7 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
+                    1,
                     0
                 ],
                 "won_contest": [
@@ -2710,12 +2710,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    1,
-                    0
+                    7,
+                    1
                 ],
                 "poss_lost_all": [
-                    4,
-                    0
+                    14,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -2723,17 +2723,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 34,
-            "totalPoints": 0,
+            "totalPoints": 4,
             "isInIdealFormation": false
         }
     ],
-    "points": 94,
-    "weekPoints": 0,
-    "averagePoints": 3.1333333333333333,
+    "points": 98,
+    "weekPoints": 4,
+    "averagePoints": 3.2666666666666666,
     "id": "1730",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t450/color/t450_c-a-osasuna.png",
@@ -2996,7 +2996,8 @@
         "02/05/2024": 693232,
         "03/05/2024": 694148,
         "04/05/2024": 693819,
-        "05/05/2024": 697398
+        "05/05/2024": 697398,
+        "06/05/2024": 701272
     },
     "playerStatus": "ok"
 }

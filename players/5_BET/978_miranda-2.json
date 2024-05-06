@@ -2733,8 +2733,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    45,
+                    1
                 ],
                 "goals": [
                     0,
@@ -2765,7 +2765,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_failed": [
@@ -2781,8 +2781,8 @@
                     0
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -2801,12 +2801,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    2,
+                    4,
                     0
                 ],
                 "poss_lost_all": [
-                    3,
-                    0
+                    9,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -2814,17 +2814,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 34,
-            "totalPoints": 0,
+            "totalPoints": 1,
             "isInIdealFormation": false
         }
     ],
-    "points": 101,
-    "weekPoints": 0,
-    "averagePoints": 3.2580645161290325,
+    "points": 102,
+    "weekPoints": 1,
+    "averagePoints": 3.2903225806451615,
     "id": "978",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t185/color/t185_real-betis.png",
@@ -3113,7 +3113,8 @@
         "02/05/2024": 758462,
         "03/05/2024": 771777,
         "04/05/2024": 787708,
-        "05/05/2024": 788739
+        "05/05/2024": 788739,
+        "06/05/2024": 788959
     },
-    "playerStatus": "ok"
+    "playerStatus": "doubtful"
 }

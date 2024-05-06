@@ -913,12 +913,12 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    74,
+                    2
                 ],
                 "goals": [
-                    0,
-                    0
+                    1,
+                    5
                 ],
                 "goal_assist": [
                     0,
@@ -958,7 +958,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    2
                 ],
                 "yellow_card": [
                     0,
@@ -973,7 +973,7 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
+                    1,
                     0
                 ],
                 "won_contest": [
@@ -981,12 +981,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    2,
+                    4,
                     0
                 ],
                 "poss_lost_all": [
-                    1,
-                    0
+                    14,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -994,17 +994,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    4
                 ]
             },
             "weekNumber": 34,
-            "totalPoints": 0,
+            "totalPoints": 12,
             "isInIdealFormation": false
         }
     ],
-    "points": 65,
-    "weekPoints": 0,
-    "averagePoints": 5.909090909090909,
+    "points": 77,
+    "weekPoints": 12,
+    "averagePoints": 7,
     "id": "1842",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t185/color/t185_real-betis.png",
@@ -1112,7 +1112,8 @@
         "02/05/2024": 21895391,
         "03/05/2024": 21740317,
         "04/05/2024": 21623057,
-        "05/05/2024": 21394922
+        "05/05/2024": 21394922,
+        "06/05/2024": 21238522
     },
     "playerStatus": "ok"
 }

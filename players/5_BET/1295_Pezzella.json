@@ -2915,8 +2915,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    62,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2947,8 +2947,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    1,
-                    0
+                    5,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -2960,7 +2960,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    3
                 ],
                 "yellow_card": [
                     0,
@@ -2983,11 +2983,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    3,
                     0
                 ],
                 "poss_lost_all": [
-                    2,
+                    6,
                     0
                 ],
                 "penalty_conceded": [
@@ -2996,17 +2996,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    3
                 ]
             },
             "weekNumber": 34,
-            "totalPoints": 0,
+            "totalPoints": 9,
             "isInIdealFormation": false
         }
     ],
-    "points": 169,
-    "weekPoints": 0,
-    "averagePoints": 5.121212121212121,
+    "points": 178,
+    "weekPoints": 9,
+    "averagePoints": 5.393939393939394,
     "id": "1295",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t185/color/t185_real-betis.png",
@@ -3323,7 +3323,8 @@
         "02/05/2024": 28562126,
         "03/05/2024": 28654692,
         "04/05/2024": 28835907,
-        "05/05/2024": 28895083
+        "05/05/2024": 28895083,
+        "06/05/2024": 28942653
     },
-    "playerStatus": "ok"
+    "playerStatus": "doubtful"
 }

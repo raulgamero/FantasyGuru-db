@@ -1186,8 +1186,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    28,
+                    1
                 ],
                 "goals": [
                     0,
@@ -1218,8 +1218,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    4,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -1258,7 +1258,7 @@
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    2,
                     0
                 ],
                 "penalty_conceded": [
@@ -1267,17 +1267,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 34,
-            "totalPoints": 0,
+            "totalPoints": 3,
             "isInIdealFormation": false
         }
     ],
-    "points": 35,
-    "weekPoints": 0,
-    "averagePoints": 2.5,
+    "points": 38,
+    "weekPoints": 3,
+    "averagePoints": 2.7142857142857144,
     "id": "1809",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t185/color/t185_real-betis.png",
@@ -1425,7 +1425,8 @@
         "02/05/2024": 1367817,
         "03/05/2024": 1341750,
         "04/05/2024": 1315517,
-        "05/05/2024": 1294228
+        "05/05/2024": 1294228,
+        "06/05/2024": 1274228
     },
     "playerStatus": "ok"
 }

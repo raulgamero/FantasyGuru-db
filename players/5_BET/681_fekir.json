@@ -1459,8 +1459,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    86,
+                    2
                 ],
                 "goals": [
                     0,
@@ -1475,7 +1475,7 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
@@ -1504,7 +1504,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    2
                 ],
                 "yellow_card": [
                     0,
@@ -1519,20 +1519,20 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
-                    0
-                ],
-                "won_contest": [
                     1,
                     0
                 ],
+                "won_contest": [
+                    2,
+                    1
+                ],
                 "ball_recovery": [
-                    0,
+                    3,
                     0
                 ],
                 "poss_lost_all": [
-                    2,
-                    0
+                    10,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -1540,17 +1540,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    3
                 ]
             },
             "weekNumber": 34,
-            "totalPoints": 0,
+            "totalPoints": 7,
             "isInIdealFormation": false
         }
     ],
-    "points": 77,
-    "weekPoints": 0,
-    "averagePoints": 4.529411764705882,
+    "points": 84,
+    "weekPoints": 7,
+    "averagePoints": 4.9411764705882355,
     "id": "681",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t185/color/t185_real-betis.png",
@@ -1867,7 +1867,8 @@
         "02/05/2024": 19356578,
         "03/05/2024": 19515546,
         "04/05/2024": 19692609,
-        "05/05/2024": 19652445
+        "05/05/2024": 19652445,
+        "06/05/2024": 19631237
     },
     "playerStatus": "ok"
 }

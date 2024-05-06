@@ -712,10 +712,34 @@
             "weekNumber": 33,
             "totalPoints": 0,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    1,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 34,
+            "totalPoints": 0,
+            "isInIdealFormation": false
         }
     ],
     "points": 62,
-    "averagePoints": 2,
+    "weekPoints": 0,
+    "averagePoints": 1.9375,
     "id": "1358",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t450/color/t450_c-a-osasuna.png",
@@ -1032,7 +1056,8 @@
         "02/05/2024": 692891,
         "03/05/2024": 693821,
         "04/05/2024": 693505,
-        "05/05/2024": 697096
+        "05/05/2024": 697096,
+        "06/05/2024": 700982
     },
-    "playerStatus": "ok"
+    "playerStatus": "suspended"
 }

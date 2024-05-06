@@ -2144,8 +2144,8 @@
                     0
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -2181,13 +2181,13 @@
                 ]
             },
             "weekNumber": 34,
-            "totalPoints": 0,
+            "totalPoints": -1,
             "isInIdealFormation": false
         }
     ],
-    "points": 26,
-    "weekPoints": 0,
-    "averagePoints": 1.0833333333333333,
+    "points": 25,
+    "weekPoints": -1,
+    "averagePoints": 1.0416666666666667,
     "id": "649",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t450/color/t450_c-a-osasuna.png",
@@ -2476,7 +2476,8 @@
         "02/05/2024": 692893,
         "03/05/2024": 693823,
         "04/05/2024": 693507,
-        "05/05/2024": 697098
+        "05/05/2024": 697098,
+        "06/05/2024": 700984
     },
     "playerStatus": "ok"
 }
