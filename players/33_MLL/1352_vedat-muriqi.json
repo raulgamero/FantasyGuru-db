@@ -2460,8 +2460,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    83,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2505,11 +2505,11 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    1
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -2524,16 +2524,16 @@
                     0
                 ],
                 "won_contest": [
-                    0,
-                    0
+                    2,
+                    1
                 ],
                 "ball_recovery": [
-                    0,
+                    2,
                     0
                 ],
                 "poss_lost_all": [
-                    1,
-                    0
+                    17,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -2541,17 +2541,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 35,
-            "totalPoints": 0,
+            "totalPoints": 3,
             "isInIdealFormation": false
         }
     ],
-    "points": 108,
-    "weekPoints": 0,
-    "averagePoints": 3.857142857142857,
+    "points": 111,
+    "weekPoints": 3,
+    "averagePoints": 3.9642857142857144,
     "id": "1352",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
@@ -2874,7 +2874,8 @@
         "08/05/2024": 2497545,
         "09/05/2024": 2484099,
         "10/05/2024": 2475322,
-        "11/05/2024": 2488240
+        "11/05/2024": 2488240,
+        "12/05/2024": 2454919
     },
-    "playerStatus": "ok"
+    "playerStatus": "suspended"
 }

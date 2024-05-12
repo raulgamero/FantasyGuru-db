@@ -2460,8 +2460,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2476,7 +2476,7 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
@@ -2492,8 +2492,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    4,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -2505,11 +2505,11 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    3
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -2528,12 +2528,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    1,
+                    4,
                     0
                 ],
                 "poss_lost_all": [
-                    1,
-                    0
+                    13,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -2541,17 +2541,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    3
                 ]
             },
             "weekNumber": 35,
-            "totalPoints": 0,
+            "totalPoints": 7,
             "isInIdealFormation": false
         }
     ],
-    "points": 100,
-    "weekPoints": 0,
-    "averagePoints": 3.5714285714285716,
+    "points": 107,
+    "weekPoints": 7,
+    "averagePoints": 3.8214285714285716,
     "id": "1123",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
@@ -2874,7 +2874,8 @@
         "08/05/2024": 751616,
         "09/05/2024": 760610,
         "10/05/2024": 765007,
-        "11/05/2024": 776307
+        "11/05/2024": 776307,
+        "12/05/2024": 778543
     },
-    "playerStatus": "ok"
+    "playerStatus": "suspended"
 }

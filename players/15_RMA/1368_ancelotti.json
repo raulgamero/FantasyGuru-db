@@ -781,10 +781,34 @@
             "weekNumber": 34,
             "totalPoints": 5,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    1,
+                    5
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 35,
+            "totalPoints": 5,
+            "isInIdealFormation": false
         }
     ],
-    "points": 147,
-    "averagePoints": 4.323529411764706,
+    "points": 152,
+    "weekPoints": 5,
+    "averagePoints": 4.3428571428571425,
     "id": "1368",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t186/color/t186_real-madrid.png",
@@ -1107,7 +1131,8 @@
         "08/05/2024": 702120,
         "09/05/2024": 702484,
         "10/05/2024": 703597,
-        "11/05/2024": 703496
+        "11/05/2024": 703496,
+        "12/05/2024": 708644
     },
     "playerStatus": "ok"
 }
