@@ -2915,12 +2915,12 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
-                    0,
-                    0
+                    1,
+                    5
                 ],
                 "goal_assist": [
                     0,
@@ -2947,7 +2947,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    2,
                     0
                 ],
                 "penalty_failed": [
@@ -2960,7 +2960,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    2
                 ],
                 "yellow_card": [
                     0,
@@ -2975,7 +2975,7 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
+                    1,
                     0
                 ],
                 "won_contest": [
@@ -2983,11 +2983,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    1,
-                    0
+                    7,
+                    1
                 ],
                 "poss_lost_all": [
-                    1,
+                    9,
                     0
                 ],
                 "penalty_conceded": [
@@ -2996,17 +2996,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    4
                 ]
             },
             "weekNumber": 35,
-            "totalPoints": 0,
+            "totalPoints": 14,
             "isInIdealFormation": false
         }
     ],
-    "points": 137,
-    "weekPoints": 0,
-    "averagePoints": 4.151515151515151,
+    "points": 151,
+    "weekPoints": 14,
+    "averagePoints": 4.575757575757576,
     "id": "1332",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1737/color/t1737_cadiz-cf.png",
@@ -3330,7 +3330,8 @@
         "09/05/2024": 714194,
         "10/05/2024": 714839,
         "11/05/2024": 714288,
-        "12/05/2024": 719005
+        "12/05/2024": 719005,
+        "13/05/2024": 723606
     },
     "playerStatus": "ok"
 }

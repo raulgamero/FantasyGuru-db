@@ -2278,8 +2278,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2310,8 +2310,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    6,
+                    2
                 ],
                 "penalty_failed": [
                     0,
@@ -2323,11 +2323,11 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    3
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -2346,12 +2346,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    4,
-                    0
+                    10,
+                    2
                 ],
                 "poss_lost_all": [
-                    3,
-                    0
+                    12,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -2359,17 +2359,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 35,
-            "totalPoints": 0,
+            "totalPoints": 9,
             "isInIdealFormation": false
         }
     ],
-    "points": 76,
-    "weekPoints": 0,
-    "averagePoints": 2.923076923076923,
+    "points": 85,
+    "weekPoints": 9,
+    "averagePoints": 3.269230769230769,
     "id": "1263",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1737/color/t1737_cadiz-cf.png",
@@ -2665,7 +2665,8 @@
         "09/05/2024": 702380,
         "10/05/2024": 703497,
         "11/05/2024": 703400,
-        "12/05/2024": 708552
+        "12/05/2024": 708552,
+        "13/05/2024": 713571
     },
     "playerStatus": "ok"
 }

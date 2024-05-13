@@ -2915,8 +2915,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    58,
+                    1
                 ],
                 "goals": [
                     0,
@@ -2947,7 +2947,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_failed": [
@@ -2959,7 +2959,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -2983,11 +2983,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    1,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    6,
                     0
                 ],
                 "penalty_conceded": [
@@ -2996,17 +2996,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 35,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 89,
-    "weekPoints": 0,
-    "averagePoints": 2.696969696969697,
+    "points": 91,
+    "weekPoints": 2,
+    "averagePoints": 2.757575757575758,
     "id": "200",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1450/color/t1450_getafe-cf.png",
@@ -3330,7 +3330,8 @@
         "09/05/2024": 704405,
         "10/05/2024": 705441,
         "11/05/2024": 705266,
-        "12/05/2024": 710344
+        "12/05/2024": 710344,
+        "13/05/2024": 715291
     },
     "playerStatus": "ok"
 }

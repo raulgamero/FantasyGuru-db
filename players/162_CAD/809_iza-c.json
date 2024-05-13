@@ -3097,8 +3097,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    26,
+                    1
                 ],
                 "goals": [
                     0,
@@ -3165,11 +3165,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    3,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    2,
                     0
                 ],
                 "penalty_conceded": [
@@ -3178,17 +3178,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 35,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 94,
-    "weekPoints": 0,
-    "averagePoints": 2.6857142857142855,
+    "points": 96,
+    "weekPoints": 2,
+    "averagePoints": 2.742857142857143,
     "id": "809",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1737/color/t1737_cadiz-cf.png",
@@ -3505,7 +3505,8 @@
         "09/05/2024": 706355,
         "10/05/2024": 707313,
         "11/05/2024": 707063,
-        "12/05/2024": 712069
+        "12/05/2024": 712069,
+        "13/05/2024": 716947
     },
     "playerStatus": "ok"
 }
