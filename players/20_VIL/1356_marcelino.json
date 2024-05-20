@@ -459,10 +459,34 @@
             "weekNumber": 36,
             "totalPoints": 5,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 37,
+            "totalPoints": 2,
+            "isInIdealFormation": false
         }
     ],
-    "points": 60,
-    "averagePoints": 3,
+    "points": 62,
+    "weekPoints": 2,
+    "averagePoints": 2.9523809523809526,
     "id": "1356",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t449/color/t449_villarreal-cf.png",
@@ -640,7 +664,8 @@
         "16/05/2024": 730004,
         "17/05/2024": 730517,
         "18/05/2024": 727437,
-        "19/05/2024": 724321
+        "19/05/2024": 724321,
+        "20/05/2024": 727142
     },
-    "playerStatus": "ok"
+    "playerStatus": "suspended"
 }
