@@ -3188,8 +3188,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -3220,8 +3220,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    4,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -3232,7 +3232,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -3256,12 +3256,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    2,
-                    0
+                    8,
+                    1
                 ],
                 "poss_lost_all": [
-                    3,
-                    0
+                    10,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -3269,17 +3269,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 38,
-            "totalPoints": 0,
+            "totalPoints": 5,
             "isInIdealFormation": false
         }
     ],
-    "points": 69,
-    "weekPoints": 0,
-    "averagePoints": 1.9166666666666667,
+    "points": 74,
+    "weekPoints": 5,
+    "averagePoints": 2.0555555555555554,
     "id": "1495",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t449/color/t449_villarreal-cf.png",
@@ -3616,7 +3616,8 @@
         "22/05/2024": 715376,
         "23/05/2024": 715293,
         "24/05/2024": 713265,
-        "25/05/2024": 751100
+        "25/05/2024": 751100,
+        "26/05/2024": 773996
     },
     "playerStatus": "ok"
 }

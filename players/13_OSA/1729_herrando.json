@@ -3006,8 +3006,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -3038,7 +3038,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    2,
                     0
                 ],
                 "penalty_failed": [
@@ -3050,7 +3050,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -3074,11 +3074,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    3,
                     0
                 ],
                 "poss_lost_all": [
-                    1,
+                    4,
                     0
                 ],
                 "penalty_conceded": [
@@ -3087,17 +3087,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 38,
-            "totalPoints": 0,
+            "totalPoints": 3,
             "isInIdealFormation": false
         }
     ],
-    "points": 56,
-    "weekPoints": 0,
-    "averagePoints": 1.6470588235294117,
+    "points": 59,
+    "weekPoints": 3,
+    "averagePoints": 1.7352941176470589,
     "id": "1729",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t450/color/t450_c-a-osasuna.png",
@@ -3380,7 +3380,8 @@
         "22/05/2024": 715392,
         "23/05/2024": 715308,
         "24/05/2024": 713280,
-        "25/05/2024": 735753
+        "25/05/2024": 735753,
+        "26/05/2024": 759263
     },
     "playerStatus": "ok"
 }
