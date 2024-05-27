@@ -3370,8 +3370,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    33,
+                    1
                 ],
                 "goals": [
                     0,
@@ -3442,7 +3442,7 @@
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    5,
                     0
                 ],
                 "penalty_conceded": [
@@ -3451,17 +3451,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 38,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 109,
-    "weekPoints": 0,
-    "averagePoints": 2.8684210526315788,
+    "points": 111,
+    "weekPoints": 2,
+    "averagePoints": 2.9210526315789473,
     "id": "1580",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
@@ -3770,7 +3770,8 @@
         "23/05/2024": 716599,
         "24/05/2024": 714519,
         "25/05/2024": 738163,
-        "26/05/2024": 761577
+        "26/05/2024": 761577,
+        "27/05/2024": 789006
     },
     "playerStatus": "ok"
 }

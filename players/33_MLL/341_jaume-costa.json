@@ -3279,8 +3279,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -3295,7 +3295,7 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
@@ -3311,8 +3311,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    5,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -3323,7 +3323,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -3347,12 +3347,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
-                    0
+                    5,
+                    1
                 ],
                 "poss_lost_all": [
-                    1,
-                    0
+                    9,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -3360,17 +3360,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 38,
-            "totalPoints": 0,
+            "totalPoints": 5,
             "isInIdealFormation": false
         }
     ],
-    "points": 71,
-    "weekPoints": 0,
-    "averagePoints": 1.9189189189189189,
+    "points": 76,
+    "weekPoints": 5,
+    "averagePoints": 2.054054054054054,
     "id": "341",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
@@ -3694,7 +3694,8 @@
         "23/05/2024": 715406,
         "24/05/2024": 713374,
         "25/05/2024": 716408,
-        "26/05/2024": 740692
+        "26/05/2024": 740692,
+        "27/05/2024": 768956
     },
     "playerStatus": "ok"
 }

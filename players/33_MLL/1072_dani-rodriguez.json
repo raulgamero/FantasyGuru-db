@@ -3370,8 +3370,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    33,
+                    1
                 ],
                 "goals": [
                     0,
@@ -3386,8 +3386,8 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
-                    0
+                    2,
+                    1
                 ],
                 "penalty_won": [
                     0,
@@ -3418,8 +3418,8 @@
                     0
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -3438,11 +3438,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    2,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    6,
                     0
                 ],
                 "penalty_conceded": [
@@ -3451,17 +3451,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 38,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 173,
-    "weekPoints": 0,
-    "averagePoints": 4.552631578947368,
+    "points": 175,
+    "weekPoints": 2,
+    "averagePoints": 4.605263157894737,
     "id": "1072",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
@@ -3799,7 +3799,8 @@
         "23/05/2024": 6228423,
         "24/05/2024": 6185833,
         "25/05/2024": 6262532,
-        "26/05/2024": 6214013
+        "26/05/2024": 6214013,
+        "27/05/2024": 6173525
     },
     "playerStatus": "ok"
 }

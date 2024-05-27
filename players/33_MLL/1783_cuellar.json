@@ -2642,8 +2642,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -2670,8 +2670,8 @@
                     0
                 ],
                 "saves": [
-                    2,
-                    1
+                    5,
+                    2
                 ],
                 "effective_clearance": [
                     0,
@@ -2686,7 +2686,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -2710,12 +2710,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    1,
-                    0
+                    11,
+                    2
                 ],
                 "poss_lost_all": [
-                    2,
-                    0
+                    11,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -2723,17 +2723,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    3
                 ]
             },
             "weekNumber": 38,
-            "totalPoints": 1,
+            "totalPoints": 8,
             "isInIdealFormation": false
         }
     ],
-    "points": 1,
-    "weekPoints": 1,
-    "averagePoints": 0.03333333333333333,
+    "points": 8,
+    "weekPoints": 8,
+    "averagePoints": 0.26666666666666666,
     "id": "1783",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
@@ -3016,7 +3016,8 @@
         "23/05/2024": 715320,
         "24/05/2024": 729366,
         "25/05/2024": 757420,
-        "26/05/2024": 780881
+        "26/05/2024": 780881,
+        "27/05/2024": 807537
     },
     "playerStatus": "ok"
 }

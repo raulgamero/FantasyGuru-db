@@ -3370,8 +3370,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    84,
+                    2
                 ],
                 "goals": [
                     0,
@@ -3398,11 +3398,11 @@
                     0
                 ],
                 "saves": [
-                    0,
-                    0
+                    2,
+                    1
                 ],
                 "effective_clearance": [
-                    0,
+                    2,
                     0
                 ],
                 "penalty_failed": [
@@ -3415,7 +3415,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    4
                 ],
                 "yellow_card": [
                     0,
@@ -3438,12 +3438,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
-                    0
+                    8,
+                    1
                 ],
                 "poss_lost_all": [
-                    0,
-                    0
+                    10,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -3451,17 +3451,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    3
                 ]
             },
             "weekNumber": 38,
-            "totalPoints": 0,
+            "totalPoints": 10,
             "isInIdealFormation": false
         }
     ],
-    "points": 225,
-    "weekPoints": 0,
-    "averagePoints": 5.921052631578948,
+    "points": 235,
+    "weekPoints": 10,
+    "averagePoints": 6.184210526315789,
     "id": "184",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1450/color/t1450_getafe-cf.png",
@@ -3799,7 +3799,8 @@
         "23/05/2024": 2683495,
         "24/05/2024": 2702130,
         "25/05/2024": 2728776,
-        "26/05/2024": 2704685
+        "26/05/2024": 2704685,
+        "27/05/2024": 2685871
     },
     "playerStatus": "ok"
 }

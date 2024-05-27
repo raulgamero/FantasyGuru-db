@@ -3279,8 +3279,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -3311,7 +3311,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    2,
                     0
                 ],
                 "penalty_failed": [
@@ -3323,12 +3323,12 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -3343,16 +3343,16 @@
                     0
                 ],
                 "won_contest": [
-                    0,
+                    1,
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    4,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
-                    0
+                    16,
+                    -2
                 ],
                 "penalty_conceded": [
                     0,
@@ -3364,13 +3364,13 @@
                 ]
             },
             "weekNumber": 38,
-            "totalPoints": 0,
+            "totalPoints": -1,
             "isInIdealFormation": false
         }
     ],
-    "points": 38,
-    "weekPoints": 0,
-    "averagePoints": 1.027027027027027,
+    "points": 37,
+    "weekPoints": -1,
+    "averagePoints": 1,
     "id": "642",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
@@ -3708,7 +3708,8 @@
         "23/05/2024": 715310,
         "24/05/2024": 713282,
         "25/05/2024": 707150,
-        "26/05/2024": 731804
+        "26/05/2024": 731804,
+        "27/05/2024": 760423
     },
     "playerStatus": "ok"
 }
