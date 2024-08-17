@@ -1,7 +1,32 @@
 {
-    "playerStats": [],
-    "points": 0,
-    "averagePoints": 0,
+    "playerStats": [
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 1,
+            "totalPoints": 2,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 2,
+    "weekPoints": 2,
+    "averagePoints": 2,
     "id": "1638",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t179/color/t179_sevilla-fc.png",
@@ -38,7 +63,8 @@
         "13/08/2024": 4517534,
         "14/08/2024": 4358462,
         "15/08/2024": 4227259,
-        "16/08/2024": 4067724
+        "16/08/2024": 4067481,
+        "17/08/2024": 4333972
     },
     "playerStatus": "ok"
 }

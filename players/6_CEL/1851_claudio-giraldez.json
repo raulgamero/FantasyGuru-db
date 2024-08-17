@@ -1,0 +1,64 @@
+{
+    "playerStats": [
+        {
+            "stats": {
+                "won_match": [
+                    1,
+                    5
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 1,
+            "totalPoints": 5,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 5,
+    "weekPoints": 5,
+    "averagePoints": 5,
+    "id": "1851",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t176/color/t176_rc-celta.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t176/gray/t176_rc-celta.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t176/white/t176_rc-celta.png",
+        "name": "RC Celta",
+        "id": "6",
+        "shortName": "CEL",
+        "slug": "rc-celta",
+        "dspId": 71,
+        "store": ""
+    },
+    "name": "Claudio Gir\u00e1ldez",
+    "lastSeasonPoints": 22,
+    "nickname": "Claudio Giraldez",
+    "slug": "claudio-giraldez",
+    "positionId": 5,
+    "position": "Entrenador",
+    "marketValue": {
+        "25/06/2024": 4500000,
+        "01/07/2024": 4500000,
+        "09/07/2024": 4500000,
+        "10/07/2024": 4331300,
+        "11/07/2024": 4660547,
+        "12/07/2024": 4485674,
+        "13/07/2024": 4318038,
+        "14/07/2024": 4157631,
+        "15/07/2024": 4003975,
+        "16/07/2024": 3857601,
+        "17/07/2024": 3716968,
+        "16/08/2024": 3577602,
+        "17/08/2024": 3906372
+    },
+    "playerStatus": "ok"
+}
