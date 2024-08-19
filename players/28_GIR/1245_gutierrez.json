@@ -3,8 +3,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -19,8 +19,8 @@
                     0
                 ],
                 "pen_area_entries": [
-                    1,
-                    0
+                    2,
+                    1
                 ],
                 "penalty_won": [
                     0,
@@ -35,7 +35,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_failed": [
@@ -75,7 +75,7 @@
                     0
                 ],
                 "poss_lost_all": [
-                    10,
+                    14,
                     -1
                 ],
                 "penalty_conceded": [
@@ -88,13 +88,13 @@
                 ]
             },
             "weekNumber": 1,
-            "totalPoints": 1,
+            "totalPoints": 4,
             "isInIdealFormation": false
         }
     ],
-    "points": 1,
-    "weekPoints": 1,
-    "averagePoints": 1,
+    "points": 4,
+    "weekPoints": 4,
+    "averagePoints": 4,
     "id": "1245",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t2893/color/t2893_girona-fc.png",
@@ -164,7 +164,7 @@
         "16/08/2024": 33426209,
         "17/08/2024": 33114312,
         "18/08/2024": 32649930,
-        "19/08/2024": 32217936
+        "19/08/2024": 32185814
     },
     "playerStatus": "ok"
 }
