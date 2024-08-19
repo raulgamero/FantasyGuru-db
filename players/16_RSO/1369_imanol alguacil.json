@@ -1,6 +1,31 @@
 {
-    "playerStats": [],
+    "playerStats": [
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    1,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 1,
+            "totalPoints": 0,
+            "isInIdealFormation": false
+        }
+    ],
     "points": 0,
+    "weekPoints": 0,
     "averagePoints": 0,
     "id": "1369",
     "team": {
@@ -41,7 +66,8 @@
         "15/08/2024": 9644530,
         "16/08/2024": 9287920,
         "17/08/2024": 9896442,
-        "18/08/2024": 10470867
+        "18/08/2024": 10470867,
+        "19/08/2024": 10063415
     },
     "playerStatus": "ok"
 }
