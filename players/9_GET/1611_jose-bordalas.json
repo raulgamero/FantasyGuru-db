@@ -22,9 +22,33 @@
             "weekNumber": 1,
             "totalPoints": 2,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 2,
+            "totalPoints": 2,
+            "isInIdealFormation": false
         }
     ],
-    "points": 2,
+    "points": 4,
+    "weekPoints": 2,
     "averagePoints": 2,
     "id": "1611",
     "team": {
@@ -75,7 +99,8 @@
         "21/08/2024": 1429642,
         "22/08/2024": 1382638,
         "23/08/2024": 1337419,
-        "24/08/2024": 1294372
+        "24/08/2024": 1294372,
+        "25/08/2024": 1254714
     },
     "playerStatus": "ok"
 }
