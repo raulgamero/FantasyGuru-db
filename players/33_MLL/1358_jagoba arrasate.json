@@ -1,0 +1,94 @@
+{
+    "playerStats": [
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 1,
+            "totalPoints": 2,
+            "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    1,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 2,
+            "totalPoints": 0,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 2,
+    "weekPoints": 0,
+    "averagePoints": 1,
+    "id": "1358",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t181/gray/t181_rcd-mallorca.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t181/white/t181_rcd-mallorca.png",
+        "name": "RCD Mallorca",
+        "id": "33",
+        "shortName": "MLL",
+        "slug": "rcd-mallorca",
+        "dspId": 77,
+        "store": ""
+    },
+    "name": "Jagoba Arrasate",
+    "lastSeasonPoints": 69,
+    "nickname": "Jagoba Arrasate",
+    "slug": "jagoba arrasate",
+    "positionId": 5,
+    "position": "Entrenador",
+    "marketValue": {
+        "25/06/2024": 5500000,
+        "01/07/2024": 5500000,
+        "09/08/2024": 5841824,
+        "10/08/2024": 5616795,
+        "11/08/2024": 5402257,
+        "12/08/2024": 5202152,
+        "13/08/2024": 5075986,
+        "14/08/2024": 4886989,
+        "15/08/2024": 4717910,
+        "16/08/2024": 4538506,
+        "17/08/2024": 4835858,
+        "18/08/2024": 5116548,
+        "19/08/2024": 4922289,
+        "20/08/2024": 4735028,
+        "21/08/2024": 4561165,
+        "22/08/2024": 4398494,
+        "23/08/2024": 4236857,
+        "24/08/2024": 4077833,
+        "25/08/2024": 3926836,
+        "26/08/2024": 3781441
+    },
+    "playerStatus": "ok"
+}
