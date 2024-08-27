@@ -1,0 +1,112 @@
+{
+    "playerStats": [
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 1,
+            "totalPoints": 2,
+            "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    1,
+                    5
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 2,
+            "totalPoints": 5,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 7,
+    "averagePoints": 3.5,
+    "id": "1368",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t186/color/t186_real-madrid.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t186/gray/t186_real-madrid.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t186/white/t186_real-madrid.png",
+        "name": "Real Madrid",
+        "id": "15",
+        "shortName": "RMA",
+        "slug": "real-madrid",
+        "dspId": 82,
+        "store": ""
+    },
+    "name": "Carlo Ancelotti",
+    "lastSeasonPoints": 161,
+    "nickname": "Ancelotti",
+    "slug": "ancelotti",
+    "positionId": 5,
+    "position": "Entrenador",
+    "marketValue": {
+        "25/06/2024": 14000000,
+        "01/07/2024": 14000000,
+        "09/07/2024": 14000000,
+        "10/07/2024": 15022095,
+        "11/07/2024": 16164011,
+        "12/07/2024": 17384350,
+        "13/07/2024": 18738853,
+        "14/07/2024": 20296952,
+        "15/07/2024": 22052504,
+        "16/07/2024": 24210513,
+        "17/07/2024": 23311048,
+        "31/07/2024": 22520424,
+        "01/08/2024": 21724682,
+        "02/08/2024": 20982654,
+        "03/08/2024": 20243450,
+        "04/08/2024": 19502453,
+        "05/08/2024": 18768602,
+        "06/08/2024": 19970797,
+        "07/08/2024": 19414381,
+        "08/08/2024": 18719627,
+        "09/08/2024": 18076783,
+        "10/08/2024": 18916329,
+        "11/08/2024": 20076750,
+        "12/08/2024": 19284880,
+        "13/08/2024": 18574177,
+        "14/08/2024": 17884292,
+        "15/08/2024": 18541876,
+        "16/08/2024": 17838812,
+        "17/08/2024": 19007568,
+        "18/08/2024": 20110836,
+        "19/08/2024": 21398634,
+        "20/08/2024": 20574393,
+        "21/08/2024": 19810245,
+        "22/08/2024": 19113818,
+        "23/08/2024": 18464406,
+        "24/08/2024": 17816064,
+        "25/08/2024": 17191704,
+        "26/08/2024": 16583218,
+        "27/08/2024": 15982639
+    },
+    "playerStatus": "ok"
+}

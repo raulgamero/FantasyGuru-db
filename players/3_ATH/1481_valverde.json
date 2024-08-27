@@ -1,0 +1,64 @@
+{
+    "playerStats": [
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    1,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 2,
+            "totalPoints": 0,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 0,
+    "averagePoints": 0,
+    "id": "1481",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t174/color/t174_athletic-club.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t174/gray/t174_athletic-club.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t174/white/t174_athletic-club.png",
+        "name": "Athletic Club",
+        "id": "3",
+        "shortName": "ATH",
+        "slug": "athletic-club",
+        "dspId": 68,
+        "store": ""
+    },
+    "name": "Ernesto Valverde",
+    "lastSeasonPoints": 115,
+    "nickname": "Ernesto Valverde",
+    "slug": "valverde",
+    "positionId": 5,
+    "position": "Entrenador",
+    "marketValue": {
+        "25/06/2024": 10000000,
+        "01/07/2024": 10000000,
+        "16/08/2024": 9609312,
+        "17/08/2024": 10238891,
+        "18/08/2024": 10833193,
+        "19/08/2024": 10414594,
+        "20/08/2024": 10019144,
+        "21/08/2024": 9657801,
+        "22/08/2024": 9321879,
+        "23/08/2024": 8986129,
+        "24/08/2024": 8660736,
+        "25/08/2024": 8348854,
+        "26/08/2024": 8038735,
+        "27/08/2024": 7727714
+    },
+    "playerStatus": "ok"
+}

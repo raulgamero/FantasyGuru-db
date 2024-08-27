@@ -1,0 +1,101 @@
+{
+    "playerStats": [
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 1,
+            "totalPoints": 2,
+            "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    1,
+                    5
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 2,
+            "totalPoints": 5,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 7,
+    "averagePoints": 3.5,
+    "id": "1357",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t175/color/t175_atletico-de-madrid.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t175/gray/t175_atletico-de-madrid.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t175/white/t175_atletico-de-madrid.png",
+        "name": "Atl\u00e9tico de Madrid",
+        "id": "2",
+        "shortName": "ATM",
+        "slug": "atletico-de-madrid",
+        "dspId": 70,
+        "store": " "
+    },
+    "name": "Diego Simeone",
+    "lastSeasonPoints": 128,
+    "nickname": "Simeone",
+    "slug": "simeone",
+    "positionId": 5,
+    "position": "Entrenador",
+    "marketValue": {
+        "31/07/2024": 9735070,
+        "01/08/2024": 9389410,
+        "02/08/2024": 9161243,
+        "03/08/2024": 8848959,
+        "04/08/2024": 8545073,
+        "05/08/2024": 8243942,
+        "06/08/2024": 15012575,
+        "07/08/2024": 14566518,
+        "08/08/2024": 14058511,
+        "09/08/2024": 13567560,
+        "10/08/2024": 14197682,
+        "11/08/2024": 15068638,
+        "12/08/2024": 14501911,
+        "13/08/2024": 13983129,
+        "14/08/2024": 13485501,
+        "15/08/2024": 13981347,
+        "16/08/2024": 13452091,
+        "17/08/2024": 14333439,
+        "18/08/2024": 15165403,
+        "19/08/2024": 16136520,
+        "20/08/2024": 15529910,
+        "21/08/2024": 14931693,
+        "22/08/2024": 14377153,
+        "23/08/2024": 13854814,
+        "24/08/2024": 13348926,
+        "25/08/2024": 12869376,
+        "26/08/2024": 12407416,
+        "27/08/2024": 11945480
+    },
+    "playerStatus": "ok"
+}
