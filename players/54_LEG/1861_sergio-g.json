@@ -181,10 +181,102 @@
             "weekNumber": 2,
             "totalPoints": 6,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    90,
+                    2
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    5,
+                    1
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    3
+                ],
+                "yellow_card": [
+                    1,
+                    -1
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    1,
+                    0
+                ],
+                "poss_lost_all": [
+                    3,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    2
+                ]
+            },
+            "weekNumber": 3,
+            "totalPoints": 7,
+            "isInIdealFormation": false
         }
     ],
-    "points": 11,
-    "averagePoints": 5.5,
+    "points": 18,
+    "weekPoints": 7,
+    "averagePoints": 6,
     "id": "1861",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t957/color/t957_cd-leganes.png",
@@ -246,7 +338,8 @@
         "25/08/2024": 3858141,
         "26/08/2024": 3881376,
         "27/08/2024": 4078756,
-        "28/08/2024": 4230490
+        "28/08/2024": 4230490,
+        "29/08/2024": 4358592
     },
     "playerStatus": "ok"
 }
