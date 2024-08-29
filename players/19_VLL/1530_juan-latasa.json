@@ -3,8 +3,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    28,
+                    1
                 ],
                 "goals": [
                     0,
@@ -75,7 +75,7 @@
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    3,
                     0
                 ],
                 "penalty_conceded": [
@@ -84,53 +84,39 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
-            "weekNumber": 1,
-            "totalPoints": 0,
+            "weekNumber": 3,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 0,
-    "averagePoints": 0,
-    "id": "1747",
+    "points": 2,
+    "weekPoints": 2,
+    "averagePoints": 2,
+    "id": "1530",
     "team": {
-        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t185/color/t185_real-betis.png",
-        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t185/gray/t185_real-betis.png",
-        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t185/white/t185_real-betis.png",
-        "name": "Real Betis",
-        "id": "5",
-        "shortName": "BET",
-        "slug": "real-betis",
-        "dspId": 81,
-        "store": ""
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t192/color/t192_r-valladolid-cf.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t192/gray/t192_r-valladolid-cf.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t192/white/t192_r-valladolid-cf.png",
+        "name": "Real Valladolid CF",
+        "id": "19",
+        "shortName": "VLL",
+        "slug": "r-valladolid-cf",
+        "dspId": 89,
+        "store": " "
     },
-    "name": "Francisco Barbosa Vieites",
-    "lastSeasonPoints": 33,
-    "nickname": "Vieites",
-    "slug": "f-vieites",
-    "positionId": 1,
-    "position": "Portero",
+    "name": "Juan Miguel Latasa Fern\u00e1ndez de Layos",
+    "lastSeasonPoints": 68,
+    "nickname": "Latasa",
+    "slug": "juan-latasa",
+    "positionId": 4,
+    "position": "Delantero",
     "marketValue": {
-        "25/06/2024": 300000,
-        "01/07/2024": 300000,
-        "14/08/2024": 297506,
-        "15/08/2024": 293282,
-        "16/08/2024": 291044,
-        "17/08/2024": 289954,
-        "18/08/2024": 288160,
-        "19/08/2024": 287037,
-        "20/08/2024": 285186,
-        "21/08/2024": 283660,
-        "22/08/2024": 282495,
-        "23/08/2024": 281282,
-        "24/08/2024": 280481,
-        "25/08/2024": 281379,
-        "26/08/2024": 281420,
-        "27/08/2024": 280692,
-        "28/08/2024": 281012,
-        "29/08/2024": 280887
+        "25/06/2024": 6500000,
+        "01/07/2024": 6500000,
+        "29/08/2024": 6271309
     },
     "playerStatus": "ok"
 }
