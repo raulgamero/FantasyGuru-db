@@ -181,91 +181,122 @@
             "weekNumber": 2,
             "totalPoints": 0,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    0,
+                    0
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    0,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
+                    0,
+                    0
+                ],
+                "yellow_card": [
+                    0,
+                    0
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    0,
+                    0
+                ],
+                "won_contest": [
+                    0,
+                    0
+                ],
+                "ball_recovery": [
+                    0,
+                    0
+                ],
+                "poss_lost_all": [
+                    0,
+                    0
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 3,
+            "totalPoints": 0,
+            "isInIdealFormation": false
         }
     ],
     "points": 0,
+    "weekPoints": 0,
     "averagePoints": 0,
-    "id": "1525",
+    "id": "1726",
     "team": {
-        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t191/color/t191_valencia-cf.png",
-        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t191/gray/t191_valencia-cf.png",
-        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t191/white/t191_valencia-cf.png",
-        "name": "Valencia CF",
-        "id": "18",
-        "shortName": "VAL",
-        "slug": "valencia-cf",
-        "dspId": 88,
-        "store": ""
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t175/color/t175_atletico-de-madrid.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t175/gray/t175_atletico-de-madrid.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t175/white/t175_atletico-de-madrid.png",
+        "name": "Atl\u00e9tico de Madrid",
+        "id": "2",
+        "shortName": "ATM",
+        "slug": "atletico-de-madrid",
+        "dspId": 70,
+        "store": " "
     },
-    "name": "Cenk \u00d6zkacar",
-    "lastSeasonPoints": 85,
-    "nickname": "Cenk",
-    "slug": "cenk-ozkacar",
-    "positionId": 2,
-    "position": "Defensa",
+    "name": "Antonio Gomis",
+    "lastSeasonPoints": 0,
+    "nickname": "Gomis",
+    "slug": "antonio-gomis",
+    "positionId": 1,
+    "position": "Portero",
     "marketValue": {
-        "25/06/2024": 9000000,
-        "01/07/2024": 9000000,
-        "02/07/2024": 8920920,
-        "03/07/2024": 8959530,
-        "04/07/2024": 8948769,
-        "05/07/2024": 8714128,
-        "06/07/2024": 8415483,
-        "07/07/2024": 8224603,
-        "08/07/2024": 7996642,
-        "09/07/2024": 7779506,
-        "10/07/2024": 7594869,
-        "11/07/2024": 7383572,
-        "12/07/2024": 7173410,
-        "13/07/2024": 6964245,
-        "14/07/2024": 6791456,
-        "15/07/2024": 6605990,
-        "16/07/2024": 6435152,
-        "17/07/2024": 6277242,
-        "18/07/2024": 6102666,
-        "19/07/2024": 5943133,
-        "20/07/2024": 5780715,
-        "21/07/2024": 5631512,
-        "22/07/2024": 5495546,
-        "23/07/2024": 5344227,
-        "24/07/2024": 5198884,
-        "25/07/2024": 5052686,
-        "26/07/2024": 4914781,
-        "27/07/2024": 4781613,
-        "28/07/2024": 4652515,
-        "29/07/2024": 4535042,
-        "30/07/2024": 4409336,
-        "31/07/2024": 4283723,
-        "01/08/2024": 4168040,
-        "02/08/2024": 4056799,
-        "03/08/2024": 3943466,
-        "04/08/2024": 3838633,
-        "05/08/2024": 3730512,
-        "06/08/2024": 3625778,
-        "07/08/2024": 3530823,
-        "08/08/2024": 3438793,
-        "09/08/2024": 3350655,
-        "10/08/2024": 3260077,
-        "11/08/2024": 3170691,
-        "12/08/2024": 3085954,
-        "13/08/2024": 3003036,
-        "14/08/2024": 2924985,
-        "15/08/2024": 2851369,
-        "16/08/2024": 2780317,
-        "17/08/2024": 2698609,
-        "18/08/2024": 2624109,
-        "19/08/2024": 2541934,
-        "20/08/2024": 2459565,
-        "21/08/2024": 2378747,
-        "22/08/2024": 2301593,
-        "23/08/2024": 2230864,
-        "24/08/2024": 2163648,
-        "25/08/2024": 2094373,
-        "26/08/2024": 2026635,
-        "27/08/2024": 1964371,
-        "28/08/2024": 1899872,
-        "29/08/2024": 1836026,
-        "30/08/2024": 1775553
+        "30/08/2024": 317585
     },
-    "playerStatus": "doubtful"
+    "playerStatus": "ok"
 }
