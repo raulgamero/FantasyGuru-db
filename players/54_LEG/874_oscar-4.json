@@ -87,35 +87,35 @@
                     0
                 ]
             },
-            "weekNumber": 2,
+            "weekNumber": 1,
             "totalPoints": 0,
             "isInIdealFormation": false
         },
         {
             "stats": {
                 "mins_played": [
-                    19,
-                    1
+                    87,
+                    2
                 ],
                 "goals": [
                     0,
                     0
                 ],
                 "goal_assist": [
-                    0,
-                    0
+                    1,
+                    3
                 ],
                 "offtarget_att_assist": [
-                    0,
-                    0
+                    1,
+                    1
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
-                    0,
-                    0
+                    1,
+                    2
                 ],
                 "penalty_save": [
                     0,
@@ -139,7 +139,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    2
                 ],
                 "yellow_card": [
                     0,
@@ -158,7 +158,7 @@
                     0
                 ],
                 "won_contest": [
-                    0,
+                    1,
                     0
                 ],
                 "ball_recovery": [
@@ -166,8 +166,8 @@
                     0
                 ],
                 "poss_lost_all": [
-                    5,
-                    0
+                    11,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -175,12 +175,12 @@
                 ],
                 "marca_points": [
                     -1,
-                    1
+                    4
                 ]
             },
-            "weekNumber": 3,
-            "totalPoints": 2,
-            "isInIdealFormation": false
+            "weekNumber": 2,
+            "totalPoints": 13,
+            "isInIdealFormation": true
         },
         {
             "stats": {
@@ -229,6 +229,97 @@
                     0
                 ],
                 "goals_conceded": [
+                    0,
+                    0
+                ],
+                "yellow_card": [
+                    1,
+                    -1
+                ],
+                "second_yellow_card": [
+                    0,
+                    0
+                ],
+                "red_card": [
+                    0,
+                    0
+                ],
+                "total_scoring_att": [
+                    1,
+                    0
+                ],
+                "won_contest": [
+                    3,
+                    1
+                ],
+                "ball_recovery": [
+                    2,
+                    0
+                ],
+                "poss_lost_all": [
+                    10,
+                    -1
+                ],
+                "penalty_conceded": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    1
+                ]
+            },
+            "weekNumber": 3,
+            "totalPoints": 1,
+            "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "mins_played": [
+                    57,
+                    1
+                ],
+                "goals": [
+                    0,
+                    0
+                ],
+                "goal_assist": [
+                    0,
+                    0
+                ],
+                "offtarget_att_assist": [
+                    0,
+                    0
+                ],
+                "pen_area_entries": [
+                    0,
+                    0
+                ],
+                "penalty_won": [
+                    0,
+                    0
+                ],
+                "penalty_save": [
+                    0,
+                    0
+                ],
+                "saves": [
+                    0,
+                    0
+                ],
+                "effective_clearance": [
+                    0,
+                    0
+                ],
+                "penalty_failed": [
+                    0,
+                    0
+                ],
+                "own_goals": [
+                    0,
+                    0
+                ],
+                "goals_conceded": [
                     1,
                     0
                 ],
@@ -253,11 +344,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    3,
                     0
                 ],
                 "poss_lost_all": [
-                    1,
+                    6,
                     0
                 ],
                 "penalty_conceded": [
@@ -266,46 +357,59 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 4,
-            "totalPoints": 1,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 3,
-    "weekPoints": 1,
-    "averagePoints": 1,
-    "id": "294",
+    "points": 16,
+    "weekPoints": 2,
+    "averagePoints": 4,
+    "id": "874",
     "team": {
-        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t407/color/t407_ud-las-palmas.png",
-        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t407/gray/t407_ud-las-palmas.png",
-        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t407/white/t407_ud-las-palmas.png",
-        "name": "UD Las Palmas",
-        "id": "31",
-        "shortName": "LPA",
-        "slug": "ud-las-palmas",
-        "dspId": 181,
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t957/color/t957_cd-leganes.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t957/gray/t957_cd-leganes.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t957/white/t957_cd-leganes.png",
+        "name": "CD Legan\u00e9s",
+        "id": "54",
+        "shortName": "LEG",
+        "slug": "cd-leganes",
+        "dspId": 264,
         "store": ""
     },
-    "name": "Munir El Haddadi Mohamed",
-    "lastSeasonPoints": 144,
-    "nickname": "Munir",
-    "slug": "el-haddadi",
-    "positionId": 4,
-    "position": "Delantero",
+    "name": "\u00d3scar Rodr\u00edguez Arn\u00e1iz",
+    "lastSeasonPoints": 68,
+    "nickname": "\u00d3scar",
+    "slug": "oscar-4",
+    "positionId": 3,
+    "position": "Centrocampista",
     "marketValue": {
-        "25/06/2024": 8000000,
-        "01/07/2024": 8000000,
-        "26/08/2024": 7725061,
-        "27/08/2024": 7456728,
-        "28/08/2024": 7210908,
-        "29/08/2024": 6978205,
-        "30/08/2024": 6758084,
-        "31/08/2024": 6548362,
-        "01/09/2024": 6346661,
-        "02/09/2024": 6143560
+        "25/06/2024": 5500000,
+        "01/07/2024": 5500000,
+        "14/08/2024": 5304649,
+        "15/08/2024": 5112824,
+        "16/08/2024": 5065486,
+        "17/08/2024": 5004451,
+        "18/08/2024": 4931722,
+        "19/08/2024": 4815622,
+        "20/08/2024": 4698498,
+        "21/08/2024": 4575939,
+        "22/08/2024": 4451313,
+        "23/08/2024": 4334865,
+        "24/08/2024": 4226909,
+        "25/08/2024": 4110695,
+        "26/08/2024": 4014436,
+        "27/08/2024": 4198076,
+        "28/08/2024": 4367302,
+        "29/08/2024": 4493855,
+        "30/08/2024": 4582870,
+        "31/08/2024": 4658918,
+        "01/09/2024": 4702730,
+        "02/09/2024": 4686806,
+        "03/09/2024": 4653279
     },
     "playerStatus": "ok"
 }

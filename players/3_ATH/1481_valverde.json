@@ -1,0 +1,118 @@
+{
+    "playerStats": [
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    1,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 2,
+            "totalPoints": 0,
+            "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    1,
+                    5
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 3,
+            "totalPoints": 5,
+            "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    1,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 4,
+            "totalPoints": 0,
+            "isInIdealFormation": false
+        }
+    ],
+    "points": 5,
+    "weekPoints": 0,
+    "averagePoints": 1.6666666666666667,
+    "id": "1481",
+    "team": {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t174/color/t174_athletic-club.png",
+        "badgeGray": "https://assets-fantasy.llt-services.com/teambadge/t174/gray/t174_athletic-club.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t174/white/t174_athletic-club.png",
+        "name": "Athletic Club",
+        "id": "3",
+        "shortName": "ATH",
+        "slug": "athletic-club",
+        "dspId": 68,
+        "store": ""
+    },
+    "name": "Ernesto Valverde",
+    "lastSeasonPoints": 115,
+    "nickname": "Ernesto Valverde",
+    "slug": "valverde",
+    "positionId": 5,
+    "position": "Entrenador",
+    "marketValue": {
+        "25/06/2024": 10000000,
+        "01/07/2024": 10000000,
+        "16/08/2024": 9609312,
+        "17/08/2024": 10238891,
+        "18/08/2024": 10833193,
+        "19/08/2024": 10414594,
+        "20/08/2024": 10019144,
+        "21/08/2024": 9657801,
+        "22/08/2024": 9321879,
+        "23/08/2024": 8986129,
+        "24/08/2024": 8660736,
+        "25/08/2024": 8348854,
+        "26/08/2024": 8038735,
+        "27/08/2024": 7727714,
+        "28/08/2024": 7431919,
+        "29/08/2024": 7147739,
+        "30/08/2024": 6875451,
+        "31/08/2024": 6617111,
+        "01/09/2024": 6371467,
+        "02/09/2024": 6132049,
+        "03/09/2024": 5898243
+    },
+    "playerStatus": "ok"
+}
