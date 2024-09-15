@@ -367,8 +367,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -399,19 +399,19 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    6,
+                    2
                 ],
                 "penalty_failed": [
                     0,
                     0
                 ],
                 "own_goals": [
-                    0,
-                    0
+                    1,
+                    -2
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -435,12 +435,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    4,
                     0
                 ],
                 "poss_lost_all": [
-                    1,
-                    0
+                    9,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -448,17 +448,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 5,
-            "totalPoints": 0,
+            "totalPoints": 3,
             "isInIdealFormation": false
         }
     ],
-    "points": 13,
-    "weekPoints": 0,
-    "averagePoints": 2.6,
+    "points": 16,
+    "weekPoints": 3,
+    "averagePoints": 3.2,
     "id": "574",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t449/color/t449_villarreal-cf.png",
@@ -554,7 +554,8 @@
         "11/09/2024": 5280828,
         "12/09/2024": 5310052,
         "13/09/2024": 5358112,
-        "14/09/2024": 5404179
+        "14/09/2024": 5404179,
+        "15/09/2024": 5380137
     },
     "playerStatus": "ok"
 }

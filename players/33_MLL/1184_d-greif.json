@@ -367,8 +367,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -395,8 +395,8 @@
                     0
                 ],
                 "saves": [
-                    0,
-                    0
+                    2,
+                    1
                 ],
                 "effective_clearance": [
                     0,
@@ -411,8 +411,8 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    2,
+                    -2
                 ],
                 "yellow_card": [
                     0,
@@ -435,12 +435,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    1,
-                    0
+                    14,
+                    2
                 ],
                 "poss_lost_all": [
-                    2,
-                    0
+                    11,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -448,17 +448,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 5,
-            "totalPoints": 0,
+            "totalPoints": 3,
             "isInIdealFormation": false
         }
     ],
-    "points": 21,
-    "weekPoints": 0,
-    "averagePoints": 4.2,
+    "points": 24,
+    "weekPoints": 3,
+    "averagePoints": 4.8,
     "id": "1184",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
@@ -554,7 +554,8 @@
         "11/09/2024": 4529896,
         "12/09/2024": 4677191,
         "13/09/2024": 4812180,
-        "14/09/2024": 4949863
+        "14/09/2024": 4949863,
+        "15/09/2024": 5070728
     },
     "playerStatus": "ok"
 }

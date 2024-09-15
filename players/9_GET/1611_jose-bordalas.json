@@ -68,10 +68,34 @@
             "weekNumber": 4,
             "totalPoints": 2,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    1,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 5,
+            "totalPoints": 0,
+            "isInIdealFormation": false
         }
     ],
     "points": 6,
-    "averagePoints": 2,
+    "weekPoints": 0,
+    "averagePoints": 1.5,
     "id": "1611",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1450/color/t1450_getafe-cf.png",
@@ -142,7 +166,8 @@
         "11/09/2024": 784051,
         "12/09/2024": 768177,
         "13/09/2024": 752952,
-        "14/09/2024": 738485
+        "14/09/2024": 738485,
+        "15/09/2024": 726433
     },
     "playerStatus": "ok"
 }

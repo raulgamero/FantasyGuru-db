@@ -367,8 +367,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -395,8 +395,8 @@
                     0
                 ],
                 "saves": [
-                    0,
-                    0
+                    4,
+                    2
                 ],
                 "effective_clearance": [
                     0,
@@ -411,7 +411,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -435,11 +435,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    1,
-                    0
+                    9,
+                    1
                 ],
                 "poss_lost_all": [
-                    1,
+                    5,
                     0
                 ],
                 "penalty_conceded": [
@@ -448,17 +448,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 5,
-            "totalPoints": 0,
+            "totalPoints": 7,
             "isInIdealFormation": false
         }
     ],
-    "points": 24,
-    "weekPoints": 0,
-    "averagePoints": 4.8,
+    "points": 31,
+    "weekPoints": 7,
+    "averagePoints": 6.2,
     "id": "1854",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t449/color/t449_villarreal-cf.png",
@@ -542,7 +542,8 @@
         "11/09/2024": 14475009,
         "12/09/2024": 14830047,
         "13/09/2024": 15133046,
-        "14/09/2024": 15462623
+        "14/09/2024": 15462623,
+        "15/09/2024": 15905424
     },
     "playerStatus": "ok"
 }

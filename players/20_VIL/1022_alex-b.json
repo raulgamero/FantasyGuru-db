@@ -276,24 +276,24 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
                     0
                 ],
                 "goal_assist": [
-                    0,
-                    0
+                    1,
+                    3
                 ],
                 "offtarget_att_assist": [
-                    0,
-                    0
+                    1,
+                    1
                 ],
                 "pen_area_entries": [
-                    0,
-                    0
+                    3,
+                    1
                 ],
                 "penalty_won": [
                     0,
@@ -308,7 +308,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_failed": [
@@ -320,7 +320,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -336,7 +336,7 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
+                    1,
                     0
                 ],
                 "won_contest": [
@@ -344,12 +344,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
-                    0
+                    8,
+                    1
                 ],
                 "poss_lost_all": [
-                    4,
-                    0
+                    15,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -357,17 +357,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    4
                 ]
             },
             "weekNumber": 5,
-            "totalPoints": 0,
+            "totalPoints": 11,
             "isInIdealFormation": false
         }
     ],
-    "points": 19,
-    "weekPoints": 0,
-    "averagePoints": 4.75,
+    "points": 30,
+    "weekPoints": 11,
+    "averagePoints": 7.5,
     "id": "1022",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t449/color/t449_villarreal-cf.png",
@@ -463,7 +463,8 @@
         "11/09/2024": 41550165,
         "12/09/2024": 41244907,
         "13/09/2024": 41002117,
-        "14/09/2024": 40677568
+        "14/09/2024": 40677568,
+        "15/09/2024": 40717326
     },
     "playerStatus": "ok"
 }
