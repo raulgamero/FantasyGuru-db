@@ -367,12 +367,12 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    45,
+                    1
                 ],
                 "goals": [
-                    0,
-                    0
+                    1,
+                    5
                 ],
                 "goal_assist": [
                     0,
@@ -383,7 +383,7 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
@@ -411,7 +411,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -427,20 +427,20 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
+                    1,
                     0
                 ],
                 "won_contest": [
-                    0,
-                    0
+                    2,
+                    1
                 ],
                 "ball_recovery": [
-                    0,
+                    3,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
-                    0
+                    14,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -448,17 +448,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    3
                 ]
             },
             "weekNumber": 5,
-            "totalPoints": 0,
+            "totalPoints": 9,
             "isInIdealFormation": false
         }
     ],
-    "points": 21,
-    "weekPoints": 0,
-    "averagePoints": 4.2,
+    "points": 30,
+    "weekPoints": 9,
+    "averagePoints": 6,
     "id": "1899",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t192/color/t192_r-valladolid-cf.png",
@@ -511,7 +511,8 @@
         "12/09/2024": 11902203,
         "13/09/2024": 12102844,
         "14/09/2024": 12267787,
-        "15/09/2024": 12340407
+        "15/09/2024": 12340407,
+        "16/09/2024": 12476130
     },
     "playerStatus": "ok"
 }

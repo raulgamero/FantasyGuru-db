@@ -367,8 +367,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    45,
+                    1
                 ],
                 "goals": [
                     0,
@@ -411,8 +411,8 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    2,
+                    -1
                 ],
                 "yellow_card": [
                     0,
@@ -431,15 +431,15 @@
                     0
                 ],
                 "won_contest": [
-                    0,
+                    1,
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    3,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    7,
                     0
                 ],
                 "penalty_conceded": [
@@ -448,17 +448,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 5,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 14,
-    "weekPoints": 0,
-    "averagePoints": 2.8,
+    "points": 16,
+    "weekPoints": 2,
+    "averagePoints": 3.2,
     "id": "1343",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t192/color/t192_r-valladolid-cf.png",
@@ -514,7 +514,8 @@
         "12/09/2024": 3978606,
         "13/09/2024": 3954648,
         "14/09/2024": 3934754,
-        "15/09/2024": 3873482
+        "15/09/2024": 3873482,
+        "16/09/2024": 3800222
     },
     "playerStatus": "ok"
 }

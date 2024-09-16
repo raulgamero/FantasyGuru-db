@@ -367,8 +367,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -399,7 +399,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    2,
                     0
                 ],
                 "penalty_failed": [
@@ -411,12 +411,12 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    3,
+                    -2
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -431,15 +431,15 @@
                     0
                 ],
                 "won_contest": [
-                    0,
-                    0
+                    2,
+                    1
                 ],
                 "ball_recovery": [
-                    0,
-                    0
+                    5,
+                    1
                 ],
                 "poss_lost_all": [
-                    1,
+                    5,
                     0
                 ],
                 "penalty_conceded": [
@@ -452,13 +452,13 @@
                 ]
             },
             "weekNumber": 5,
-            "totalPoints": 0,
+            "totalPoints": 1,
             "isInIdealFormation": false
         }
     ],
-    "points": 9,
-    "weekPoints": 0,
-    "averagePoints": 1.8,
+    "points": 10,
+    "weekPoints": 1,
+    "averagePoints": 2,
     "id": "1893",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t192/color/t192_r-valladolid-cf.png",
@@ -554,7 +554,8 @@
         "12/09/2024": 1522581,
         "13/09/2024": 1520582,
         "14/09/2024": 1523161,
-        "15/09/2024": 1498821
+        "15/09/2024": 1498821,
+        "16/09/2024": 1470753
     },
     "playerStatus": "ok"
 }

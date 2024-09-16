@@ -3,8 +3,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    15,
+                    1
                 ],
                 "goals": [
                     0,
@@ -88,13 +88,13 @@
                 ]
             },
             "weekNumber": 5,
-            "totalPoints": 0,
+            "totalPoints": 1,
             "isInIdealFormation": false
         }
     ],
-    "points": 0,
-    "weekPoints": 0,
-    "averagePoints": 0,
+    "points": 1,
+    "weekPoints": 1,
+    "averagePoints": 1,
     "id": "1552",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t176/color/t176_rc-celta.png",
@@ -130,7 +130,8 @@
         "12/09/2024": 5675228,
         "13/09/2024": 5620201,
         "14/09/2024": 5564927,
-        "15/09/2024": 5459225
+        "15/09/2024": 5459225,
+        "16/09/2024": 5332909
     },
     "playerStatus": "ok"
 }
