@@ -91,10 +91,34 @@
             "weekNumber": 4,
             "totalPoints": 0,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    1,
+                    5
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 5,
+            "totalPoints": 5,
+            "isInIdealFormation": false
         }
     ],
-    "points": 7,
-    "averagePoints": 1.75,
+    "points": 12,
+    "weekPoints": 5,
+    "averagePoints": 2.4,
     "id": "1849",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t184/color/t184_rayo-vallecano.png",
@@ -156,7 +180,8 @@
         "13/09/2024": 1787340,
         "14/09/2024": 1731498,
         "15/09/2024": 1679725,
-        "16/09/2024": 1629763
+        "16/09/2024": 1629763,
+        "17/09/2024": 1580677
     },
     "playerStatus": "ok"
 }
