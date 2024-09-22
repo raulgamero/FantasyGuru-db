@@ -458,8 +458,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -474,8 +474,8 @@
                     0
                 ],
                 "pen_area_entries": [
-                    1,
-                    0
+                    3,
+                    1
                 ],
                 "penalty_won": [
                     0,
@@ -503,11 +503,11 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    3
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -526,12 +526,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    1,
-                    0
+                    6,
+                    1
                 ],
                 "poss_lost_all": [
-                    2,
-                    0
+                    12,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -539,17 +539,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    3
                 ]
             },
             "weekNumber": 6,
-            "totalPoints": 0,
+            "totalPoints": 8,
             "isInIdealFormation": false
         }
     ],
-    "points": 21,
-    "weekPoints": 0,
-    "averagePoints": 3.5,
+    "points": 29,
+    "weekPoints": 8,
+    "averagePoints": 4.833333333333333,
     "id": "1887",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t192/color/t192_r-valladolid-cf.png",
@@ -651,7 +651,8 @@
         "18/09/2024": 6619421,
         "19/09/2024": 6593791,
         "20/09/2024": 6576217,
-        "21/09/2024": 6556149
+        "21/09/2024": 6556149,
+        "22/09/2024": 6513979
     },
     "playerStatus": "ok"
 }

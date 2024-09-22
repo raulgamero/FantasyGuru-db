@@ -367,8 +367,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    14,
+                    1
                 ],
                 "goals": [
                     0,
@@ -448,17 +448,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 6,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 6,
-    "weekPoints": 0,
-    "averagePoints": 1.2,
+    "points": 8,
+    "weekPoints": 2,
+    "averagePoints": 1.6,
     "id": "1525",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t192/color/t192_r-valladolid-cf.png",
@@ -561,7 +561,8 @@
         "18/09/2024": 1044496,
         "19/09/2024": 1026175,
         "20/09/2024": 1016529,
-        "21/09/2024": 1007594
+        "21/09/2024": 1007594,
+        "22/09/2024": 984070
     },
     "playerStatus": "ok"
 }

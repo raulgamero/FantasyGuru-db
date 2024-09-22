@@ -458,8 +458,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -474,7 +474,7 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
@@ -490,8 +490,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    5,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -503,11 +503,11 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    3
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -522,16 +522,16 @@
                     0
                 ],
                 "won_contest": [
-                    0,
+                    1,
                     0
                 ],
                 "ball_recovery": [
-                    2,
-                    0
+                    6,
+                    1
                 ],
                 "poss_lost_all": [
-                    2,
-                    0
+                    13,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -539,17 +539,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 6,
-            "totalPoints": 0,
+            "totalPoints": 7,
             "isInIdealFormation": false
         }
     ],
-    "points": 10,
-    "weekPoints": 0,
-    "averagePoints": 1.6666666666666667,
+    "points": 17,
+    "weekPoints": 7,
+    "averagePoints": 2.8333333333333335,
     "id": "1893",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t192/color/t192_r-valladolid-cf.png",
@@ -651,7 +651,8 @@
         "18/09/2024": 1433717,
         "19/09/2024": 1416641,
         "20/09/2024": 1405363,
-        "21/09/2024": 1397637
+        "21/09/2024": 1397637,
+        "22/09/2024": 1378366
     },
     "playerStatus": "ok"
 }

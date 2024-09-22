@@ -640,8 +640,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -668,11 +668,11 @@
                     0
                 ],
                 "saves": [
-                    1,
-                    0
+                    2,
+                    1
                 ],
                 "effective_clearance": [
-                    0,
+                    2,
                     0
                 ],
                 "penalty_failed": [
@@ -685,7 +685,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    4
                 ],
                 "yellow_card": [
                     0,
@@ -708,11 +708,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    1,
-                    0
+                    5,
+                    1
                 ],
                 "poss_lost_all": [
-                    0,
+                    7,
                     0
                 ],
                 "penalty_conceded": [
@@ -721,17 +721,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 6,
-            "totalPoints": 0,
+            "totalPoints": 10,
             "isInIdealFormation": false
         }
     ],
-    "points": 36,
-    "weekPoints": 0,
-    "averagePoints": 4.5,
+    "points": 46,
+    "weekPoints": 10,
+    "averagePoints": 5.75,
     "id": "274",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t188/color/t188_real-sociedad.png",
@@ -834,7 +834,8 @@
         "18/09/2024": 31521497,
         "19/09/2024": 31273660,
         "20/09/2024": 31094399,
-        "21/09/2024": 30902133
+        "21/09/2024": 30902133,
+        "22/09/2024": 30778204
     },
     "playerStatus": "ok"
 }
