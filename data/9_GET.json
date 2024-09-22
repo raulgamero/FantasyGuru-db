@@ -97,7 +97,7 @@
             7,
             0,
             6,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -132,7 +132,7 @@
             NaN
         ],
         "points": 34,
-        "averagePoints": 5.666666666666667
+        "averagePoints": 4.857142857142857
     },
     {
         "id": 192,
@@ -232,7 +232,7 @@
             1,
             0,
             1,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -267,7 +267,7 @@
             NaN
         ],
         "points": 23,
-        "averagePoints": 3.8333333333333335
+        "averagePoints": 3.2857142857142856
     },
     {
         "id": 193,
@@ -367,7 +367,7 @@
             8,
             0,
             3,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -402,7 +402,7 @@
             NaN
         ],
         "points": 15,
-        "averagePoints": 2.5
+        "averagePoints": 2.142857142857143
     },
     {
         "id": 673,
@@ -502,7 +502,7 @@
             0,
             0,
             0,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -637,7 +637,7 @@
             -1,
             0,
             3,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -672,7 +672,7 @@
             NaN
         ],
         "points": 28,
-        "averagePoints": 4.666666666666667
+        "averagePoints": 4
     },
     {
         "id": 1147,
@@ -772,7 +772,7 @@
             1,
             0,
             4,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -807,7 +807,7 @@
             NaN
         ],
         "points": 20,
-        "averagePoints": 3.3333333333333335
+        "averagePoints": 2.857142857142857
     },
     {
         "id": 1146,
@@ -907,7 +907,7 @@
             1,
             0,
             2,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -942,7 +942,7 @@
             NaN
         ],
         "points": 13,
-        "averagePoints": 2.1666666666666665
+        "averagePoints": 1.8571428571428572
     },
     {
         "id": 1165,
@@ -1042,7 +1042,7 @@
             2,
             0,
             NaN,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -1077,7 +1077,7 @@
             NaN
         ],
         "points": 24,
-        "averagePoints": 4.8
+        "averagePoints": 4
     },
     {
         "id": 1179,
@@ -1132,7 +1132,7 @@
             5,
             0,
             2,
-            NaN,
+            1,
             NaN,
             NaN,
             NaN,
@@ -1166,12 +1166,12 @@
             NaN,
             NaN
         ],
-        "points": 23,
-        "averagePoints": 3.8333333333333335
+        "points": 24,
+        "averagePoints": 3.4285714285714284
     },
     {
         "id": 1329,
-        "status": "injured",
+        "status": "ok",
         "slug": "borja-mayoral",
         "position": "Delantero",
         "marketValue": {
@@ -1267,7 +1267,7 @@
             3,
             NaN,
             NaN,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -1302,7 +1302,7 @@
             NaN
         ],
         "points": 3,
-        "averagePoints": 3
+        "averagePoints": 1.5
     },
     {
         "id": 1487,
@@ -1492,7 +1492,7 @@
             4,
             0,
             0,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -1527,7 +1527,7 @@
             NaN
         ],
         "points": 17,
-        "averagePoints": 2.8333333333333335
+        "averagePoints": 2.4285714285714284
     },
     {
         "id": 1509,
@@ -1625,7 +1625,7 @@
             0,
             0,
             6,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -1660,11 +1660,11 @@
             NaN
         ],
         "points": 17,
-        "averagePoints": 2.8333333333333335
+        "averagePoints": 2.4285714285714284
     },
     {
         "id": 1611,
-        "status": "ok",
+        "status": "suspended",
         "slug": "jose-bordalas",
         "position": "Entrenador",
         "marketValue": {
@@ -1870,7 +1870,7 @@
             2,
             0,
             0,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -1905,7 +1905,7 @@
             NaN
         ],
         "points": 8,
-        "averagePoints": 1.3333333333333333
+        "averagePoints": 1.1428571428571428
     },
     {
         "id": 1835,
@@ -1960,7 +1960,7 @@
             2,
             0,
             2,
-            NaN,
+            0,
             NaN,
             NaN,
             NaN,
@@ -1995,6 +1995,6 @@
             NaN
         ],
         "points": 10,
-        "averagePoints": 1.6666666666666667
+        "averagePoints": 1.4285714285714286
     }
 ]
