@@ -114,10 +114,34 @@
             "weekNumber": 5,
             "totalPoints": 5,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 6,
+            "totalPoints": 2,
+            "isInIdealFormation": false
         }
     ],
-    "points": 19,
-    "averagePoints": 3.8,
+    "points": 21,
+    "weekPoints": 2,
+    "averagePoints": 3.5,
     "id": "1357",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t175/color/t175_atletico-de-madrid.png",
@@ -190,7 +214,8 @@
         "19/09/2024": 5305306,
         "20/09/2024": 5130616,
         "21/09/2024": 4951922,
-        "22/09/2024": 4788587
+        "22/09/2024": 4788587,
+        "23/09/2024": 4628717
     },
     "playerStatus": "ok"
 }

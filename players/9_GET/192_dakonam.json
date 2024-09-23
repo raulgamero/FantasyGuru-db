@@ -549,8 +549,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    67,
+                    2
                 ],
                 "goals": [
                     0,
@@ -565,7 +565,7 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
@@ -594,11 +594,11 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    3
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -613,16 +613,16 @@
                     0
                 ],
                 "won_contest": [
-                    0,
+                    1,
                     0
                 ],
                 "ball_recovery": [
-                    2,
-                    0
+                    6,
+                    1
                 ],
                 "poss_lost_all": [
-                    3,
-                    0
+                    13,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -630,17 +630,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    3
                 ]
             },
             "weekNumber": 6,
-            "totalPoints": 0,
+            "totalPoints": 7,
             "isInIdealFormation": false
         }
     ],
-    "points": 23,
-    "weekPoints": 0,
-    "averagePoints": 3.2857142857142856,
+    "points": 30,
+    "weekPoints": 7,
+    "averagePoints": 4.285714285714286,
     "id": "192",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1450/color/t1450_getafe-cf.png",
@@ -744,7 +744,8 @@
         "19/09/2024": 12100567,
         "20/09/2024": 12139737,
         "21/09/2024": 12161762,
-        "22/09/2024": 12075204
+        "22/09/2024": 12075204,
+        "23/09/2024": 12006292
     },
     "playerStatus": "ok"
 }

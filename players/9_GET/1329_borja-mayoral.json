@@ -94,12 +94,12 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    23,
+                    1
                 ],
                 "goals": [
-                    0,
-                    0
+                    1,
+                    4
                 ],
                 "goal_assist": [
                     0,
@@ -138,7 +138,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -154,7 +154,7 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
+                    1,
                     0
                 ],
                 "won_contest": [
@@ -162,11 +162,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    1,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    6,
                     0
                 ],
                 "penalty_conceded": [
@@ -175,17 +175,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 6,
-            "totalPoints": 0,
+            "totalPoints": 7,
             "isInIdealFormation": false
         }
     ],
-    "points": 3,
-    "weekPoints": 0,
-    "averagePoints": 1.5,
+    "points": 10,
+    "weekPoints": 7,
+    "averagePoints": 5,
     "id": "1329",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1450/color/t1450_getafe-cf.png",
@@ -289,7 +289,8 @@
         "19/09/2024": 8778086,
         "20/09/2024": 8684579,
         "21/09/2024": 8575071,
-        "22/09/2024": 8451583
+        "22/09/2024": 8451583,
+        "23/09/2024": 8473075
     },
     "playerStatus": "ok"
 }

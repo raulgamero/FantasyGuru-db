@@ -114,10 +114,34 @@
             "weekNumber": 7,
             "totalPoints": 5,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    1,
+                    5
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    0,
+                    0
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 6,
+            "totalPoints": 5,
+            "isInIdealFormation": false
         }
     ],
-    "points": 15,
-    "averagePoints": 3,
+    "points": 20,
+    "weekPoints": 5,
+    "averagePoints": 3.3333333333333335,
     "id": "1481",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t174/color/t174_athletic-club.png",
@@ -176,7 +200,8 @@
         "19/09/2024": 3252487,
         "20/09/2024": 3136523,
         "21/09/2024": 3025836,
-        "22/09/2024": 2921583
+        "22/09/2024": 2921583,
+        "23/09/2024": 2821686
     },
     "playerStatus": "ok"
 }

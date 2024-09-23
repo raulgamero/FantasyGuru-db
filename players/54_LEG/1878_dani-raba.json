@@ -549,8 +549,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    5,
+                    1
                 ],
                 "goals": [
                     0,
@@ -617,11 +617,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    1,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    3,
                     0
                 ],
                 "penalty_conceded": [
@@ -630,17 +630,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 6,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 13,
-    "weekPoints": 0,
-    "averagePoints": 1.8571428571428572,
+    "points": 15,
+    "weekPoints": 2,
+    "averagePoints": 2.142857142857143,
     "id": "1878",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t957/color/t957_cd-leganes.png",
@@ -727,7 +727,8 @@
         "19/09/2024": 2128942,
         "20/09/2024": 2081661,
         "21/09/2024": 2035432,
-        "22/09/2024": 1981904
+        "22/09/2024": 1981904,
+        "23/09/2024": 1927895
     },
     "playerStatus": "ok"
 }
