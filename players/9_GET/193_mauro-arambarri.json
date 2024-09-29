@@ -731,12 +731,12 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    89,
+                    2
                 ],
                 "goals": [
-                    0,
-                    0
+                    1,
+                    5
                 ],
                 "goal_assist": [
                     0,
@@ -763,8 +763,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    3,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -776,11 +776,11 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    2
                 ],
                 "yellow_card": [
-                    0,
-                    0
+                    1,
+                    -1
                 ],
                 "second_yellow_card": [
                     0,
@@ -791,7 +791,7 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
+                    1,
                     0
                 ],
                 "won_contest": [
@@ -799,12 +799,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    1,
                     0
                 ],
                 "poss_lost_all": [
-                    1,
-                    0
+                    12,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -812,17 +812,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 8,
-            "totalPoints": 0,
+            "totalPoints": 10,
             "isInIdealFormation": false
         }
     ],
-    "points": 16,
-    "weekPoints": 0,
-    "averagePoints": 1.7777777777777777,
+    "points": 26,
+    "weekPoints": 10,
+    "averagePoints": 2.888888888888889,
     "id": "193",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1450/color/t1450_getafe-cf.png",
@@ -932,7 +932,8 @@
         "25/09/2024": 860251,
         "26/09/2024": 854422,
         "27/09/2024": 848443,
-        "28/09/2024": 845993
+        "28/09/2024": 845993,
+        "29/09/2024": 848596
     },
     "playerStatus": "ok"
 }

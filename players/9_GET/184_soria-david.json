@@ -731,8 +731,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -759,12 +759,12 @@
                     0
                 ],
                 "saves": [
-                    0,
+                    1,
                     0
                 ],
                 "effective_clearance": [
-                    1,
-                    0
+                    4,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -776,7 +776,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    4
                 ],
                 "yellow_card": [
                     0,
@@ -799,12 +799,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    1,
-                    0
+                    5,
+                    1
                 ],
                 "poss_lost_all": [
-                    1,
-                    0
+                    13,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -812,17 +812,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    3
                 ]
             },
             "weekNumber": 8,
-            "totalPoints": 0,
+            "totalPoints": 10,
             "isInIdealFormation": false
         }
     ],
-    "points": 42,
-    "weekPoints": 0,
-    "averagePoints": 4.666666666666667,
+    "points": 52,
+    "weekPoints": 10,
+    "averagePoints": 5.777777777777778,
     "id": "184",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1450/color/t1450_getafe-cf.png",
@@ -932,7 +932,8 @@
         "25/09/2024": 23465097,
         "26/09/2024": 23419605,
         "27/09/2024": 23299534,
-        "28/09/2024": 23175522
+        "28/09/2024": 23175522,
+        "29/09/2024": 23118134
     },
     "playerStatus": "ok"
 }

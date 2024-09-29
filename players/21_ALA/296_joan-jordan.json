@@ -276,8 +276,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -292,7 +292,7 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
@@ -308,7 +308,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    2,
                     0
                 ],
                 "penalty_failed": [
@@ -320,8 +320,8 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    2,
+                    -1
                 ],
                 "yellow_card": [
                     0,
@@ -336,20 +336,20 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
+                    1,
                     0
                 ],
                 "won_contest": [
-                    0,
+                    1,
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    2,
                     0
                 ],
                 "poss_lost_all": [
-                    2,
-                    0
+                    20,
+                    -2
                 ],
                 "penalty_conceded": [
                     0,
@@ -357,17 +357,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 8,
-            "totalPoints": 0,
+            "totalPoints": 1,
             "isInIdealFormation": false
         }
     ],
-    "points": 10,
-    "weekPoints": 0,
-    "averagePoints": 2.5,
+    "points": 11,
+    "weekPoints": 1,
+    "averagePoints": 2.75,
     "id": "296",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t173/color/t173_d-alaves.png",
@@ -477,7 +477,8 @@
         "25/09/2024": 494918,
         "26/09/2024": 498079,
         "27/09/2024": 502934,
-        "28/09/2024": 513007
+        "28/09/2024": 513007,
+        "29/09/2024": 509607
     },
     "playerStatus": "ok"
 }
