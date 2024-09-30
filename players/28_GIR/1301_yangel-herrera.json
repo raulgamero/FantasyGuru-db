@@ -640,12 +640,12 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    72,
+                    2
                 ],
                 "goals": [
-                    0,
-                    0
+                    1,
+                    5
                 ],
                 "goal_assist": [
                     0,
@@ -672,8 +672,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    3,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -685,7 +685,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    2
                 ],
                 "yellow_card": [
                     0,
@@ -700,20 +700,20 @@
                     0
                 ],
                 "total_scoring_att": [
-                    1,
-                    0
+                    2,
+                    1
                 ],
                 "won_contest": [
                     0,
                     0
                 ],
                 "ball_recovery": [
-                    0,
-                    0
+                    5,
+                    1
                 ],
                 "poss_lost_all": [
-                    1,
-                    0
+                    10,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -721,17 +721,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    4
                 ]
             },
             "weekNumber": 8,
-            "totalPoints": 0,
+            "totalPoints": 15,
             "isInIdealFormation": false
         }
     ],
-    "points": 32,
-    "weekPoints": 0,
-    "averagePoints": 4,
+    "points": 47,
+    "weekPoints": 15,
+    "averagePoints": 5.875,
     "id": "1301",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t2893/color/t2893_girona-fc.png",
@@ -842,7 +842,8 @@
         "26/09/2024": 18333207,
         "27/09/2024": 18237824,
         "28/09/2024": 18219416,
-        "29/09/2024": 18090902
+        "29/09/2024": 18090902,
+        "30/09/2024": 18147124
     },
     "playerStatus": "ok"
 }

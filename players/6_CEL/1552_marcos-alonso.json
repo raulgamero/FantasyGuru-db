@@ -276,8 +276,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -292,7 +292,7 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
@@ -308,7 +308,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    2,
                     0
                 ],
                 "penalty_failed": [
@@ -320,7 +320,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -340,16 +340,16 @@
                     0
                 ],
                 "won_contest": [
-                    0,
-                    0
-                ],
-                "ball_recovery": [
                     1,
                     0
                 ],
-                "poss_lost_all": [
-                    2,
+                "ball_recovery": [
+                    4,
                     0
+                ],
+                "poss_lost_all": [
+                    11,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -357,17 +357,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 8,
-            "totalPoints": 0,
+            "totalPoints": 3,
             "isInIdealFormation": false
         }
     ],
-    "points": 10,
-    "weekPoints": 0,
-    "averagePoints": 2.5,
+    "points": 13,
+    "weekPoints": 3,
+    "averagePoints": 3.25,
     "id": "1552",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t176/color/t176_rc-celta.png",
@@ -417,7 +417,8 @@
         "26/09/2024": 4236589,
         "27/09/2024": 4146531,
         "28/09/2024": 4129720,
-        "29/09/2024": 4091542
+        "29/09/2024": 4091542,
+        "30/09/2024": 4047238
     },
     "playerStatus": "ok"
 }
