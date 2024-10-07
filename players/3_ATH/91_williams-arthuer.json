@@ -731,8 +731,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -747,12 +747,12 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
-                    0,
-                    0
+                    1,
+                    2
                 ],
                 "penalty_save": [
                     0,
@@ -775,8 +775,8 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    2,
+                    -1
                 ],
                 "yellow_card": [
                     0,
@@ -795,16 +795,16 @@
                     0
                 ],
                 "won_contest": [
-                    0,
-                    0
-                ],
-                "ball_recovery": [
                     1,
                     0
                 ],
+                "ball_recovery": [
+                    5,
+                    1
+                ],
                 "poss_lost_all": [
-                    0,
-                    0
+                    13,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -812,17 +812,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 9,
-            "totalPoints": 0,
+            "totalPoints": 4,
             "isInIdealFormation": false
         }
     ],
-    "points": 49,
-    "weekPoints": 0,
-    "averagePoints": 5.444444444444445,
+    "points": 53,
+    "weekPoints": 4,
+    "averagePoints": 5.888888888888889,
     "id": "91",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t174/color/t174_athletic-club.png",
@@ -940,7 +940,8 @@
         "03/10/2024": 57651869,
         "04/10/2024": 57827639,
         "05/10/2024": 57962670,
-        "06/10/2024": 58163548
+        "06/10/2024": 58163548,
+        "07/10/2024": 58492855
     },
     "playerStatus": "ok"
 }

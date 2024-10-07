@@ -640,8 +640,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -672,8 +672,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
-                    0
+                    3,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -684,8 +684,8 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    2,
+                    -2
                 ],
                 "yellow_card": [
                     0,
@@ -708,11 +708,11 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
+                    2,
                     0
                 ],
                 "poss_lost_all": [
-                    0,
+                    6,
                     0
                 ],
                 "penalty_conceded": [
@@ -721,17 +721,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    1
                 ]
             },
             "weekNumber": 9,
-            "totalPoints": 0,
+            "totalPoints": 2,
             "isInIdealFormation": false
         }
     ],
-    "points": 26,
-    "weekPoints": 0,
-    "averagePoints": 3.25,
+    "points": 28,
+    "weekPoints": 2,
+    "averagePoints": 3.5,
     "id": "72",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t174/color/t174_athletic-club.png",
@@ -818,7 +818,8 @@
         "03/10/2024": 5541564,
         "04/10/2024": 5577692,
         "05/10/2024": 5627756,
-        "06/10/2024": 5613494
+        "06/10/2024": 5613494,
+        "07/10/2024": 5590916
     },
     "playerStatus": "ok"
 }
