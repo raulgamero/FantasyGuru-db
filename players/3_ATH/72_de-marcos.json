@@ -731,20 +731,20 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
                     0
                 ],
                 "goal_assist": [
-                    0,
-                    0
+                    1,
+                    3
                 ],
                 "offtarget_att_assist": [
-                    0,
-                    0
+                    1,
+                    1
                 ],
                 "pen_area_entries": [
                     0,
@@ -775,7 +775,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -799,12 +799,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
-                    0
+                    5,
+                    1
                 ],
                 "poss_lost_all": [
-                    4,
-                    0
+                    18,
+                    -2
                 ],
                 "penalty_conceded": [
                     0,
@@ -812,17 +812,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    3
                 ]
             },
             "weekNumber": 10,
-            "totalPoints": 0,
+            "totalPoints": 8,
             "isInIdealFormation": false
         }
     ],
-    "points": 28,
-    "weekPoints": 0,
-    "averagePoints": 3.111111111111111,
+    "points": 36,
+    "weekPoints": 8,
+    "averagePoints": 4,
     "id": "72",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t174/color/t174_athletic-club.png",
@@ -922,7 +922,8 @@
         "16/10/2024": 5284705,
         "17/10/2024": 5275485,
         "18/10/2024": 5281847,
-        "19/10/2024": 5288758
+        "19/10/2024": 5288758,
+        "20/10/2024": 5268461
     },
     "playerStatus": "ok"
 }
