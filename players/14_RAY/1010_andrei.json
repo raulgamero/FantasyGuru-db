@@ -731,8 +731,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -747,7 +747,7 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_won": [
@@ -763,7 +763,7 @@
                     0
                 ],
                 "effective_clearance": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_failed": [
@@ -775,7 +775,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -795,16 +795,16 @@
                     0
                 ],
                 "won_contest": [
-                    1,
-                    0
+                    2,
+                    1
                 ],
                 "ball_recovery": [
-                    0,
-                    0
+                    6,
+                    1
                 ],
                 "poss_lost_all": [
-                    5,
-                    0
+                    13,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -812,17 +812,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 10,
-            "totalPoints": 0,
+            "totalPoints": 5,
             "isInIdealFormation": false
         }
     ],
-    "points": 46,
-    "weekPoints": 0,
-    "averagePoints": 5.111111111111111,
+    "points": 51,
+    "weekPoints": 5,
+    "averagePoints": 5.666666666666667,
     "id": "1010",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t184/color/t184_rayo-vallecano.png",
@@ -954,7 +954,8 @@
         "17/10/2024": 8725275,
         "18/10/2024": 9076494,
         "19/10/2024": 9405334,
-        "20/10/2024": 9691895
+        "20/10/2024": 9691895,
+        "21/10/2024": 9990065
     },
     "playerStatus": "ok"
 }

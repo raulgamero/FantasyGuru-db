@@ -822,8 +822,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -850,11 +850,11 @@
                     0
                 ],
                 "saves": [
-                    0,
-                    0
+                    2,
+                    1
                 ],
                 "effective_clearance": [
-                    0,
+                    1,
                     0
                 ],
                 "penalty_failed": [
@@ -867,7 +867,7 @@
                 ],
                 "goals_conceded": [
                     0,
-                    0
+                    4
                 ],
                 "yellow_card": [
                     0,
@@ -890,12 +890,12 @@
                     0
                 ],
                 "ball_recovery": [
-                    0,
-                    0
+                    7,
+                    1
                 ],
                 "poss_lost_all": [
-                    2,
-                    0
+                    10,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -903,17 +903,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    3
                 ]
             },
             "weekNumber": 10,
-            "totalPoints": 0,
+            "totalPoints": 10,
             "isInIdealFormation": false
         }
     ],
-    "points": 33,
-    "weekPoints": 0,
-    "averagePoints": 3.3,
+    "points": 43,
+    "weekPoints": 10,
+    "averagePoints": 4.3,
     "id": "1184",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
@@ -1045,7 +1045,8 @@
         "17/10/2024": 5110117,
         "18/10/2024": 5068237,
         "19/10/2024": 5021522,
-        "20/10/2024": 4946105
+        "20/10/2024": 4946105,
+        "21/10/2024": 4897578
     },
     "playerStatus": "ok"
 }
