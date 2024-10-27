@@ -913,8 +913,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    90,
+                    2
                 ],
                 "goals": [
                     0,
@@ -929,8 +929,8 @@
                     0
                 ],
                 "pen_area_entries": [
-                    1,
-                    0
+                    2,
+                    1
                 ],
                 "penalty_won": [
                     0,
@@ -945,8 +945,8 @@
                     0
                 ],
                 "effective_clearance": [
-                    1,
-                    0
+                    4,
+                    1
                 ],
                 "penalty_failed": [
                     0,
@@ -957,8 +957,8 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
-                    0
+                    2,
+                    -2
                 ],
                 "yellow_card": [
                     0,
@@ -985,8 +985,8 @@
                     0
                 ],
                 "poss_lost_all": [
-                    3,
-                    0
+                    13,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -998,13 +998,13 @@
                 ]
             },
             "weekNumber": 11,
-            "totalPoints": 0,
+            "totalPoints": 1,
             "isInIdealFormation": false
         }
     ],
-    "points": 35,
-    "weekPoints": 0,
-    "averagePoints": 3.1818181818181817,
+    "points": 36,
+    "weekPoints": 1,
+    "averagePoints": 3.272727272727273,
     "id": "1887",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t192/color/t192_r-valladolid-cf.png",
@@ -1141,7 +1141,8 @@
         "23/10/2024": 5401500,
         "24/10/2024": 5312462,
         "25/10/2024": 5241754,
-        "26/10/2024": 5178617
+        "26/10/2024": 5178617,
+        "27/10/2024": 5075173
     },
     "playerStatus": "ok"
 }

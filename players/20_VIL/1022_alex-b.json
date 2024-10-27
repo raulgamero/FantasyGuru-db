@@ -822,8 +822,8 @@
         {
             "stats": {
                 "mins_played": [
-                    0,
-                    0
+                    89,
+                    2
                 ],
                 "goals": [
                     0,
@@ -838,8 +838,8 @@
                     0
                 ],
                 "pen_area_entries": [
-                    0,
-                    0
+                    5,
+                    2
                 ],
                 "penalty_won": [
                     0,
@@ -866,7 +866,7 @@
                     0
                 ],
                 "goals_conceded": [
-                    0,
+                    1,
                     0
                 ],
                 "yellow_card": [
@@ -882,20 +882,20 @@
                     0
                 ],
                 "total_scoring_att": [
-                    0,
+                    1,
                     0
                 ],
                 "won_contest": [
-                    0,
+                    1,
                     0
                 ],
                 "ball_recovery": [
-                    1,
+                    4,
                     0
                 ],
                 "poss_lost_all": [
-                    1,
-                    0
+                    16,
+                    -1
                 ],
                 "penalty_conceded": [
                     0,
@@ -903,17 +903,17 @@
                 ],
                 "marca_points": [
                     -1,
-                    0
+                    2
                 ]
             },
             "weekNumber": 11,
-            "totalPoints": 0,
+            "totalPoints": 5,
             "isInIdealFormation": false
         }
     ],
-    "points": 64,
-    "weekPoints": 0,
-    "averagePoints": 6.4,
+    "points": 69,
+    "weekPoints": 5,
+    "averagePoints": 6.9,
     "id": "1022",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t449/color/t449_villarreal-cf.png",
@@ -1051,7 +1051,8 @@
         "23/10/2024": 64289251,
         "24/10/2024": 64168965,
         "25/10/2024": 63898657,
-        "26/10/2024": 63693944
+        "26/10/2024": 63693944,
+        "27/10/2024": 63364993
     },
     "playerStatus": "ok"
 }
