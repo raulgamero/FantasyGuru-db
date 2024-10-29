@@ -1,301 +1,2236 @@
-[00:39:51.172] INFO - Eliminando anteriores archivos (data/, players/)
-[00:39:51.183] INFO - API endpoint https://api.laligafantasymarca.com/api/v3/player
-[00:39:51.183] INFO - API endpoint market-values https://api.laligafantasymarca.com/api/v3/player/ID_JUGADOR/market-value
-[00:39:52.361] ERROR - Jugador 54 [NO ENCONTRADO]
-[00:39:52.391] ERROR - Jugador 56 [out_of_league]
-[00:39:52.407] ERROR - Jugador 52 [NO ENCONTRADO]
-[00:39:52.430] ERROR - Jugador 57 [NO ENCONTRADO]
-[00:39:53.293] ERROR - Jugador 60 [NO ENCONTRADO]
-[00:39:53.358] ERROR - Jugador 61 [NO ENCONTRADO]
-[00:39:53.418] INFO - Escribiendo historial market-value del jugador 53 (120 values)
-[00:39:53.420] INFO - Jugador 53 almacenado correctamente
-[00:39:53.446] INFO - Escribiendo historial market-value del jugador 59 (120 values)
-[00:39:53.447] INFO - Jugador 59 almacenado correctamente
-[00:39:53.450] ERROR - Jugador 63 [NO ENCONTRADO]
-[00:39:53.459] INFO - Escribiendo historial market-value del jugador 55 (120 values)
-[00:39:53.461] INFO - Jugador 55 almacenado correctamente
-[00:39:53.496] INFO - Escribiendo historial market-value del jugador 58 (120 values)
-[00:39:53.498] INFO - Jugador 58 almacenado correctamente
-[00:39:54.233] ERROR - Jugador 64 [NO ENCONTRADO]
-[00:39:54.352] INFO - Escribiendo historial market-value del jugador 62 (120 values)
-[00:39:54.353] INFO - Jugador 62 almacenado correctamente
-[00:39:54.374] ERROR - Jugador 66 [NO ENCONTRADO]
-[00:39:54.449] ERROR - Jugador 70 [NO ENCONTRADO]
-[00:39:54.456] ERROR - Jugador 69 [NO ENCONTRADO]
-[00:39:55.181] ERROR - Jugador 71 [NO ENCONTRADO]
-[00:39:55.298] INFO - Escribiendo historial market-value del jugador 65 (120 values)
-[00:39:55.300] INFO - Jugador 65 almacenado correctamente
-[00:39:55.453] INFO - Escribiendo historial market-value del jugador 67 (120 values)
-[00:39:55.454] INFO - Jugador 67 almacenado correctamente
-[00:39:55.462] INFO - Escribiendo historial market-value del jugador 68 (122 values)
-[00:39:55.463] INFO - Jugador 68 almacenado correctamente
-[00:39:56.129] ERROR - Jugador 76 [NO ENCONTRADO]
-[00:39:56.130] INFO - Escribiendo historial market-value del jugador 75 (75 values)
-[00:39:56.139] INFO - Jugador 75 almacenado correctamente
-[00:39:56.268] INFO - Escribiendo historial market-value del jugador 73 (122 values)
-[00:39:56.270] INFO - Jugador 73 almacenado correctamente
-[00:39:56.448] ERROR - Jugador 79 [NO ENCONTRADO]
-[00:39:56.578] INFO - Escribiendo historial market-value del jugador 72 (91 values)
-[00:39:56.580] INFO - Jugador 72 almacenado correctamente
-[00:39:56.644] INFO - Escribiendo historial market-value del jugador 74 (91 values)
-[00:39:56.647] INFO - Jugador 74 almacenado correctamente
-[00:39:56.908] ERROR - Jugador 81 [out_of_league]
-[00:39:57.140] ERROR - Jugador 80 [out_of_league]
-[00:39:57.190] INFO - Escribiendo historial market-value del jugador 77 (122 values)
-[00:39:57.191] INFO - Jugador 77 almacenado correctamente
-[00:39:57.424] INFO - Escribiendo historial market-value del jugador 78 (77 values)
-[00:39:57.426] INFO - Jugador 78 almacenado correctamente
-[00:39:57.462] ERROR - Jugador 83 [NO ENCONTRADO]
-[00:39:57.555] ERROR - Jugador 84 [NO ENCONTRADO]
-[00:39:57.635] ERROR - Jugador 85 [NO ENCONTRADO]
-[00:39:57.887] ERROR - Jugador 86 [out_of_league]
-[00:39:58.079] ERROR - Jugador 87 [NO ENCONTRADO]
-[00:39:58.166] ERROR - Jugador 88 [NO ENCONTRADO]
-[00:39:58.196] INFO - Escribiendo historial market-value del jugador 82 (79 values)
-[00:39:58.198] INFO - Jugador 82 almacenado correctamente
-[00:39:58.376] ERROR - Jugador 89 [NO ENCONTRADO]
-[00:39:59.021] ERROR - Jugador 94 [NO ENCONTRADO]
-[00:39:59.089] ERROR - Jugador 95 [NO ENCONTRADO]
-[00:39:59.159] ERROR - Jugador 96 [NO ENCONTRADO]
-[00:39:59.342] INFO - Escribiendo historial market-value del jugador 90 (108 values)
-[00:39:59.344] INFO - Jugador 90 almacenado correctamente
-[00:39:59.386] ERROR - Jugador 97 [out_of_league]
-[00:39:59.452] INFO - Escribiendo historial market-value del jugador 91 (122 values)
-[00:39:59.454] INFO - Jugador 91 almacenado correctamente
-[00:39:59.509] INFO - Escribiendo historial market-value del jugador 92 (91 values)
-[00:39:59.510] INFO - Jugador 92 almacenado correctamente
-[00:39:59.805] INFO - Escribiendo historial market-value del jugador 93 (120 values)
-[00:39:59.806] INFO - Jugador 93 almacenado correctamente
-[00:39:59.950] ERROR - Jugador 98 [NO ENCONTRADO]
-[00:40:00.016] ERROR - Jugador 99 [NO ENCONTRADO]
-[00:40:00.038] ERROR - Jugador 102 [NO ENCONTRADO]
-[00:40:00.096] ERROR - Jugador 100 [NO ENCONTRADO]
-[00:40:00.282] ERROR - Jugador 101 [NO ENCONTRADO]
-[00:40:00.430] ERROR - Jugador 103 [NO ENCONTRADO]
-[00:40:00.460] ERROR - Jugador 104 [NO ENCONTRADO]
-[00:40:00.766] ERROR - Jugador 105 [NO ENCONTRADO]
-[00:40:00.848] ERROR - Jugador 106 [NO ENCONTRADO]
-[00:40:00.951] ERROR - Jugador 107 [NO ENCONTRADO]
-[00:40:00.974] ERROR - Jugador 108 [NO ENCONTRADO]
-[00:40:01.067] ERROR - Jugador 109 [NO ENCONTRADO]
-[00:40:01.222] ERROR - Jugador 110 [NO ENCONTRADO]
-[00:40:01.377] ERROR - Jugador 112 [NO ENCONTRADO]
-[00:40:01.381] ERROR - Jugador 111 [NO ENCONTRADO]
-[00:40:01.509] ERROR - Jugador 114 [NO ENCONTRADO]
-[00:40:01.734] ERROR - Jugador 113 [NO ENCONTRADO]
-[00:40:01.889] ERROR - Jugador 115 [NO ENCONTRADO]
-[00:40:01.906] ERROR - Jugador 116 [NO ENCONTRADO]
-[00:40:02.005] ERROR - Jugador 117 [NO ENCONTRADO]
-[00:40:02.163] ERROR - Jugador 118 [out_of_league]
-[00:40:02.388] ERROR - Jugador 122 [NO ENCONTRADO]
-[00:40:02.417] ERROR - Jugador 119 [NO ENCONTRADO]
-[00:40:02.431] ERROR - Jugador 120 [NO ENCONTRADO]
-[00:40:02.830] ERROR - Jugador 123 [NO ENCONTRADO]
-[00:40:02.860] ERROR - Jugador 124 [NO ENCONTRADO]
-[00:40:02.923] ERROR - Jugador 125 [NO ENCONTRADO]
-[00:40:03.114] ERROR - Jugador 126 [NO ENCONTRADO]
-[00:40:03.129] INFO - Escribiendo historial market-value del jugador 121 (79 values)
-[00:40:03.130] INFO - Jugador 121 almacenado correctamente
-[00:40:03.386] ERROR - Jugador 128 [NO ENCONTRADO]
-[00:40:03.415] ERROR - Jugador 129 [NO ENCONTRADO]
-[00:40:03.529] ERROR - Jugador 131 [NO ENCONTRADO]
-[00:40:03.761] ERROR - Jugador 130 [NO ENCONTRADO]
-[00:40:03.803] ERROR - Jugador 133 [NO ENCONTRADO]
-[00:40:03.874] ERROR - Jugador 132 [NO ENCONTRADO]
-[00:40:03.975] INFO - Escribiendo historial market-value del jugador 127 (122 values)
-[00:40:03.977] INFO - Jugador 127 almacenado correctamente
-[00:40:04.090] ERROR - Jugador 134 [NO ENCONTRADO]
-[00:40:04.344] ERROR - Jugador 135 [NO ENCONTRADO]
-[00:40:04.363] ERROR - Jugador 136 [NO ENCONTRADO]
-[00:40:04.458] ERROR - Jugador 137 [NO ENCONTRADO]
-[00:40:04.716] ERROR - Jugador 138 [NO ENCONTRADO]
-[00:40:04.758] ERROR - Jugador 139 [NO ENCONTRADO]
-[00:40:04.914] ERROR - Jugador 141 [NO ENCONTRADO]
-[00:40:05.033] ERROR - Jugador 142 [NO ENCONTRADO]
-[00:40:05.313] ERROR - Jugador 143 [NO ENCONTRADO]
-[00:40:05.318] ERROR - Jugador 144 [NO ENCONTRADO]
-[00:40:05.404] ERROR - Jugador 145 [NO ENCONTRADO]
-[00:40:05.660] ERROR - Jugador 146 [out_of_league]
-[00:40:05.703] ERROR - Jugador 147 [NO ENCONTRADO]
-[00:40:05.710] ERROR - Jugador 149 [NO ENCONTRADO]
-[00:40:05.756] INFO - Escribiendo historial market-value del jugador 140 (122 values)
-[00:40:05.759] INFO - Jugador 140 almacenado correctamente
-[00:40:06.229] INFO - Escribiendo historial market-value del jugador 148 (122 values)
-[00:40:06.231] INFO - Jugador 148 almacenado correctamente
-[00:40:06.292] ERROR - Jugador 151 [NO ENCONTRADO]
-[00:40:06.380] ERROR - Jugador 152 [NO ENCONTRADO]
-[00:40:06.428] ERROR - Jugador 156 [NO ENCONTRADO]
-[00:40:06.587] ERROR - Jugador 153 [NO ENCONTRADO]
-[00:40:06.668] ERROR - Jugador 154 [NO ENCONTRADO]
-[00:40:06.688] ERROR - Jugador 155 [NO ENCONTRADO]
-[00:40:07.180] ERROR - Jugador 157 [NO ENCONTRADO]
-[00:40:07.252] ERROR - Jugador 158 [NO ENCONTRADO]
-[00:40:07.291] INFO - Escribiendo historial market-value del jugador 150 (122 values)
-[00:40:07.292] INFO - Jugador 150 almacenado correctamente
-[00:40:07.366] ERROR - Jugador 160 [NO ENCONTRADO]
-[00:40:07.530] ERROR - Jugador 161 [NO ENCONTRADO]
-[00:40:07.565] ERROR - Jugador 162 [NO ENCONTRADO]
-[00:40:07.635] ERROR - Jugador 163 [NO ENCONTRADO]
-[00:40:07.955] ERROR - Jugador 166 [out_of_league]
-[00:40:08.092] ERROR - Jugador 164 [NO ENCONTRADO]
-[00:40:08.208] ERROR - Jugador 165 [NO ENCONTRADO]
-[00:40:08.288] ERROR - Jugador 167 [NO ENCONTRADO]
-[00:40:08.317] ERROR - Jugador 170 [NO ENCONTRADO]
-[00:40:08.426] INFO - Escribiendo historial market-value del jugador 159 (122 values)
-[00:40:08.429] INFO - Jugador 159 almacenado correctamente
-[00:40:08.465] ERROR - Jugador 168 [NO ENCONTRADO]
-[00:40:08.575] ERROR - Jugador 169 [NO ENCONTRADO]
-[00:40:08.871] ERROR - Jugador 173 [NO ENCONTRADO]
-[00:40:08.892] ERROR - Jugador 171 [NO ENCONTRADO]
-[00:40:08.970] ERROR - Jugador 174 [NO ENCONTRADO]
-[00:40:09.026] ERROR - Jugador 172 [NO ENCONTRADO]
-[00:40:09.239] ERROR - Jugador 175 [NO ENCONTRADO]
-[00:40:09.367] ERROR - Jugador 176 [NO ENCONTRADO]
-[00:40:09.385] ERROR - Jugador 177 [NO ENCONTRADO]
-[00:40:09.542] ERROR - Jugador 178 [NO ENCONTRADO]
-[00:40:09.571] ERROR - Jugador 180 [NO ENCONTRADO]
-[00:40:09.820] ERROR - Jugador 179 [NO ENCONTRADO]
-[00:40:09.915] ERROR - Jugador 181 [NO ENCONTRADO]
-[00:40:09.969] ERROR - Jugador 182 [NO ENCONTRADO]
-[00:40:10.196] ERROR - Jugador 183 [NO ENCONTRADO]
-[00:40:10.325] ERROR - Jugador 185 [NO ENCONTRADO]
-[00:40:10.471] ERROR - Jugador 186 [NO ENCONTRADO]
-[00:40:10.522] ERROR - Jugador 187 [NO ENCONTRADO]
-[00:40:10.577] ERROR - Jugador 189 [NO ENCONTRADO]
-[00:40:10.757] ERROR - Jugador 188 [NO ENCONTRADO]
-[00:40:10.993] INFO - Escribiendo historial market-value del jugador 184 (122 values)
-[00:40:10.995] INFO - Jugador 184 almacenado correctamente
-[00:40:11.067] ERROR - Jugador 190 [NO ENCONTRADO]
-[00:40:11.137] ERROR - Jugador 191 [NO ENCONTRADO]
-[00:40:11.464] ERROR - Jugador 194 [NO ENCONTRADO]
-[00:40:11.535] ERROR - Jugador 195 [NO ENCONTRADO]
-[00:40:11.651] ERROR - Jugador 197 [out_of_league]
-[00:40:11.687] INFO - Escribiendo historial market-value del jugador 192 (122 values)
-[00:40:11.689] INFO - Jugador 192 almacenado correctamente
-[00:40:11.717] ERROR - Jugador 196 [NO ENCONTRADO]
-[00:40:11.935] ERROR - Jugador 198 [NO ENCONTRADO]
-[00:40:12.072] ERROR - Jugador 199 [NO ENCONTRADO]
-[00:40:12.478] ERROR - Jugador 201 [NO ENCONTRADO]
-[00:40:12.519] INFO - Escribiendo historial market-value del jugador 193 (122 values)
-[00:40:12.521] INFO - Jugador 193 almacenado correctamente
-[00:40:12.592] ERROR - Jugador 202 [NO ENCONTRADO]
-[00:40:12.623] ERROR - Jugador 203 [NO ENCONTRADO]
-[00:40:12.900] ERROR - Jugador 205 [NO ENCONTRADO]
-[00:40:13.017] ERROR - Jugador 206 [NO ENCONTRADO]
-[00:40:13.047] INFO - Escribiendo historial market-value del jugador 204 (122 values)
-[00:40:13.050] INFO - Jugador 204 almacenado correctamente
-[00:40:13.194] ERROR - Jugador 208 [NO ENCONTRADO]
-[00:40:13.433] ERROR - Jugador 207 [NO ENCONTRADO]
-[00:40:13.444] INFO - Escribiendo historial market-value del jugador 200 (82 values)
-[00:40:13.446] INFO - Jugador 200 almacenado correctamente
-[00:40:13.544] ERROR - Jugador 209 [NO ENCONTRADO]
-[00:40:13.569] ERROR - Jugador 211 [NO ENCONTRADO]
-[00:40:13.576] ERROR - Jugador 210 [NO ENCONTRADO]
-[00:40:13.866] ERROR - Jugador 214 [NO ENCONTRADO]
-[00:40:13.937] ERROR - Jugador 212 [NO ENCONTRADO]
-[00:40:13.989] ERROR - Jugador 213 [NO ENCONTRADO]
-[00:40:14.132] ERROR - Jugador 216 [NO ENCONTRADO]
-[00:40:14.196] ERROR - Jugador 217 [out_of_league]
-[00:40:14.266] ERROR - Jugador 218 [NO ENCONTRADO]
-[00:40:14.340] ERROR - Jugador 219 [NO ENCONTRADO]
-[00:40:14.553] ERROR - Jugador 220 [NO ENCONTRADO]
-[00:40:14.862] ERROR - Jugador 221 [NO ENCONTRADO]
-[00:40:14.870] ERROR - Jugador 224 [NO ENCONTRADO]
-[00:40:14.918] ERROR - Jugador 222 [NO ENCONTRADO]
-[00:40:14.998] ERROR - Jugador 226 [NO ENCONTRADO]
-[00:40:15.060] ERROR - Jugador 223 [NO ENCONTRADO]
-[00:40:15.202] ERROR - Jugador 225 [NO ENCONTRADO]
-[00:40:15.290] INFO - Escribiendo historial market-value del jugador 215 (122 values)
-[00:40:15.292] INFO - Jugador 215 almacenado correctamente
-[00:40:15.511] ERROR - Jugador 227 [NO ENCONTRADO]
-[00:40:15.859] ERROR - Jugador 228 [NO ENCONTRADO]
-[00:40:15.868] ERROR - Jugador 229 [NO ENCONTRADO]
-[00:40:15.977] ERROR - Jugador 234 [NO ENCONTRADO]
-[00:40:16.024] ERROR - Jugador 232 [NO ENCONTRADO]
-[00:40:16.165] ERROR - Jugador 233 [NO ENCONTRADO]
-[00:40:16.260] INFO - Escribiendo historial market-value del jugador 230 (122 values)
-[00:40:16.262] INFO - Jugador 230 almacenado correctamente
-[00:40:16.456] ERROR - Jugador 235 [NO ENCONTRADO]
-[00:40:16.695] ERROR - Jugador 239 [NO ENCONTRADO]
-[00:40:16.803] ERROR - Jugador 236 [out_of_league]
-[00:40:16.834] ERROR - Jugador 237 [NO ENCONTRADO]
-[00:40:16.858] INFO - Escribiendo historial market-value del jugador 231 (122 values)
-[00:40:16.859] INFO - Jugador 231 almacenado correctamente
-[00:40:17.207] ERROR - Jugador 241 [NO ENCONTRADO]
-[00:40:17.385] ERROR - Jugador 242 [NO ENCONTRADO]
-[00:40:17.483] ERROR - Jugador 244 [NO ENCONTRADO]
-[00:40:17.541] INFO - Escribiendo historial market-value del jugador 238 (79 values)
-[00:40:17.542] INFO - Jugador 238 almacenado correctamente
-[00:40:17.570] ERROR - Jugador 246 [out_of_league]
-[00:40:17.839] INFO - Escribiendo historial market-value del jugador 240 (122 values)
-[00:40:17.843] INFO - Jugador 240 almacenado correctamente
-[00:40:18.225] ERROR - Jugador 250 [NO ENCONTRADO]
-[00:40:18.367] ERROR - Jugador 248 [out_of_league]
-[00:40:18.434] INFO - Escribiendo historial market-value del jugador 245 (93 values)
-[00:40:18.436] INFO - Jugador 245 almacenado correctamente
-[00:40:18.437] ERROR - Jugador 249 [NO ENCONTRADO]
-[00:40:18.505] ERROR - Jugador 252 [NO ENCONTRADO]
-[00:40:18.513] ERROR - Jugador 251 [NO ENCONTRADO]
-[00:40:18.585] INFO - Escribiendo historial market-value del jugador 243 (122 values)
-[00:40:18.587] INFO - Jugador 243 almacenado correctamente
-[00:40:19.045] ERROR - Jugador 254 [NO ENCONTRADO]
-[00:40:19.114] ERROR - Jugador 256 [NO ENCONTRADO]
-[00:40:19.125] INFO - Escribiendo historial market-value del jugador 247 (122 values)
-[00:40:19.127] INFO - Jugador 247 almacenado correctamente
-[00:40:19.169] ERROR - Jugador 253 [NO ENCONTRADO]
-[00:40:19.473] ERROR - Jugador 258 [NO ENCONTRADO]
-[00:40:19.787] ERROR - Jugador 261 [NO ENCONTRADO]
-[00:40:19.819] ERROR - Jugador 262 [NO ENCONTRADO]
-[00:40:19.850] ERROR - Jugador 263 [NO ENCONTRADO]
-[00:40:19.923] INFO - Escribiendo historial market-value del jugador 259 (122 values)
-[00:40:19.924] INFO - Jugador 259 almacenado correctamente
-[00:40:20.139] INFO - Escribiendo historial market-value del jugador 257 (94 values)
-[00:40:20.140] INFO - Jugador 257 almacenado correctamente
-[00:40:20.334] INFO - Escribiendo historial market-value del jugador 255 (122 values)
-[00:40:20.336] INFO - Jugador 255 almacenado correctamente
-[00:40:20.546] ERROR - Jugador 267 [NO ENCONTRADO]
-[00:40:20.808] ERROR - Jugador 266 [NO ENCONTRADO]
-[00:40:20.857] INFO - Escribiendo historial market-value del jugador 264 (122 values)
-[00:40:20.859] INFO - Jugador 264 almacenado correctamente
-[00:40:20.869] ERROR - Jugador 269 [NO ENCONTRADO]
-[00:40:21.394] INFO - Escribiendo historial market-value del jugador 265 (122 values)
-[00:40:21.397] INFO - Jugador 265 almacenado correctamente
-[00:40:21.498] ERROR - Jugador 271 [out_of_league]
-[00:40:21.742] ERROR - Jugador 272 [NO ENCONTRADO]
-[00:40:21.874] ERROR - Jugador 273 [NO ENCONTRADO]
-[00:40:22.007] INFO - Escribiendo historial market-value del jugador 268 (89 values)
-[00:40:22.008] INFO - Jugador 268 almacenado correctamente
-[00:40:22.200] INFO - Escribiendo historial market-value del jugador 270 (122 values)
-[00:40:22.202] INFO - Jugador 270 almacenado correctamente
-[00:40:22.861] INFO - Escribiendo historial market-value del jugador 274 (122 values)
-[00:40:22.863] INFO - Jugador 274 almacenado correctamente
-[00:40:22.872] INFO - Escribiendo historial market-value del jugador 275 (122 values)
-[00:40:22.873] INFO - Jugador 275 almacenado correctamente
-[00:40:22.877] CRITICAL - Expecting value: line 1 column 1 (char 0)
-Traceback (most recent call last):
-  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/site-packages/requests/models.py", line 971, in json
-    return complexjson.loads(self.text, **kwargs)
-  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/__init__.py", line 346, in loads
-    return _default_decoder.decode(s)
-  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 337, in decode
-    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
-  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
-    raise JSONDecodeError("Expecting value", s, err.value) from None
-json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "<string>", line 215, in main
-  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/concurrent/futures/_base.py", line 609, in result_iterator
-    yield fs.pop().result()
-  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/concurrent/futures/_base.py", line 446, in result
-    return self.__get_result()
-  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/concurrent/futures/_base.py", line 391, in __get_result
-    raise self._exception
-  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/concurrent/futures/thread.py", line 58, in run
-    result = self.fn(*self.args, **self.kwargs)
-  File "<string>", line 173, in multithread_scrape_player_aux
-  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/site-packages/requests/models.py", line 975, in json
-    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
-requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+[12:15:06.444] INFO - Eliminando anteriores archivos (data/, players/)
+[12:15:06.447] INFO - API endpoint https://api.laligafantasymarca.com/api/v3/player
+[12:15:06.447] INFO - API endpoint market-values https://api.laligafantasymarca.com/api/v3/player/ID_JUGADOR/market-value
+[12:15:07.014] ERROR - Jugador 52 [NO ENCONTRADO]
+[12:15:07.022] ERROR - Jugador 54 [NO ENCONTRADO]
+[12:15:07.047] ERROR - Jugador 56 [out_of_league]
+[12:15:07.073] ERROR - Jugador 57 [NO ENCONTRADO]
+[12:15:07.502] ERROR - Jugador 61 [NO ENCONTRADO]
+[12:15:07.544] ERROR - Jugador 63 [NO ENCONTRADO]
+[12:15:07.576] INFO - Escribiendo historial market-value del jugador 55 (120 values)
+[12:15:07.578] INFO - Jugador 55 almacenado correctamente
+[12:15:07.642] ERROR - Jugador 60 [NO ENCONTRADO]
+[12:15:07.677] INFO - Escribiendo historial market-value del jugador 59 (120 values)
+[12:15:07.678] INFO - Jugador 59 almacenado correctamente
+[12:15:07.702] INFO - Escribiendo historial market-value del jugador 58 (120 values)
+[12:15:07.704] INFO - Jugador 58 almacenado correctamente
+[12:15:07.786] INFO - Escribiendo historial market-value del jugador 53 (120 values)
+[12:15:07.788] INFO - Jugador 53 almacenado correctamente
+[12:15:07.980] ERROR - Jugador 66 [NO ENCONTRADO]
+[12:15:08.059] ERROR - Jugador 64 [NO ENCONTRADO]
+[12:15:08.114] INFO - Escribiendo historial market-value del jugador 62 (120 values)
+[12:15:08.116] INFO - Jugador 62 almacenado correctamente
+[12:15:08.121] ERROR - Jugador 69 [NO ENCONTRADO]
+[12:15:08.211] ERROR - Jugador 70 [NO ENCONTRADO]
+[12:15:08.452] ERROR - Jugador 71 [NO ENCONTRADO]
+[12:15:08.575] INFO - Escribiendo historial market-value del jugador 65 (120 values)
+[12:15:08.576] INFO - Jugador 65 almacenado correctamente
+[12:15:08.625] INFO - Escribiendo historial market-value del jugador 67 (120 values)
+[12:15:08.627] INFO - Jugador 67 almacenado correctamente
+[12:15:08.665] INFO - Escribiendo historial market-value del jugador 68 (122 values)
+[12:15:08.665] INFO - Jugador 68 almacenado correctamente
+[12:15:08.998] ERROR - Jugador 76 [NO ENCONTRADO]
+[12:15:09.084] ERROR - Jugador 79 [NO ENCONTRADO]
+[12:15:09.126] INFO - Escribiendo historial market-value del jugador 74 (91 values)
+[12:15:09.127] INFO - Jugador 74 almacenado correctamente
+[12:15:09.224] INFO - Escribiendo historial market-value del jugador 72 (91 values)
+[12:15:09.226] INFO - Jugador 72 almacenado correctamente
+[12:15:09.251] INFO - Escribiendo historial market-value del jugador 73 (122 values)
+[12:15:09.253] INFO - Jugador 73 almacenado correctamente
+[12:15:09.352] INFO - Escribiendo historial market-value del jugador 75 (75 values)
+[12:15:09.354] INFO - Jugador 75 almacenado correctamente
+[12:15:09.521] ERROR - Jugador 81 [out_of_league]
+[12:15:09.590] INFO - Escribiendo historial market-value del jugador 78 (77 values)
+[12:15:09.592] INFO - Jugador 78 almacenado correctamente
+[12:15:09.603] ERROR - Jugador 80 [out_of_league]
+[12:15:09.608] INFO - Escribiendo historial market-value del jugador 77 (122 values)
+[12:15:09.610] INFO - Jugador 77 almacenado correctamente
+[12:15:09.640] ERROR - Jugador 83 [NO ENCONTRADO]
+[12:15:09.672] ERROR - Jugador 84 [NO ENCONTRADO]
+[12:15:09.896] ERROR - Jugador 85 [NO ENCONTRADO]
+[12:15:09.936] ERROR - Jugador 86 [out_of_league]
+[12:15:10.015] ERROR - Jugador 87 [NO ENCONTRADO]
+[12:15:10.025] ERROR - Jugador 88 [NO ENCONTRADO]
+[12:15:10.030] ERROR - Jugador 89 [NO ENCONTRADO]
+[12:15:10.089] INFO - Escribiendo historial market-value del jugador 82 (79 values)
+[12:15:10.091] INFO - Jugador 82 almacenado correctamente
+[12:15:10.451] ERROR - Jugador 94 [NO ENCONTRADO]
+[12:15:10.459] ERROR - Jugador 95 [NO ENCONTRADO]
+[12:15:10.558] ERROR - Jugador 97 [out_of_league]
+[12:15:10.591] ERROR - Jugador 96 [NO ENCONTRADO]
+[12:15:10.702] INFO - Escribiendo historial market-value del jugador 90 (108 values)
+[12:15:10.704] INFO - Jugador 90 almacenado correctamente
+[12:15:10.850] ERROR - Jugador 98 [NO ENCONTRADO]
+[12:15:10.868] ERROR - Jugador 99 [NO ENCONTRADO]
+[12:15:10.883] INFO - Escribiendo historial market-value del jugador 92 (91 values)
+[12:15:10.884] INFO - Jugador 92 almacenado correctamente
+[12:15:10.906] INFO - Escribiendo historial market-value del jugador 93 (120 values)
+[12:15:10.907] INFO - Jugador 93 almacenado correctamente
+[12:15:10.974] ERROR - Jugador 100 [NO ENCONTRADO]
+[12:15:10.989] ERROR - Jugador 101 [NO ENCONTRADO]
+[12:15:11.112] ERROR - Jugador 102 [NO ENCONTRADO]
+[12:15:11.291] ERROR - Jugador 104 [NO ENCONTRADO]
+[12:15:11.325] ERROR - Jugador 105 [NO ENCONTRADO]
+[12:15:11.329] ERROR - Jugador 106 [NO ENCONTRADO]
+[12:15:11.407] ERROR - Jugador 103 [NO ENCONTRADO]
+[12:15:11.412] ERROR - Jugador 107 [NO ENCONTRADO]
+[12:15:11.541] ERROR - Jugador 108 [NO ENCONTRADO]
+[12:15:11.688] INFO - Escribiendo historial market-value del jugador 91 (122 values)
+[12:15:11.689] INFO - Jugador 91 almacenado correctamente
+[12:15:11.695] ERROR - Jugador 109 [NO ENCONTRADO]
+[12:15:11.761] ERROR - Jugador 111 [NO ENCONTRADO]
+[12:15:11.775] ERROR - Jugador 112 [NO ENCONTRADO]
+[12:15:11.854] ERROR - Jugador 114 [NO ENCONTRADO]
+[12:15:11.868] ERROR - Jugador 110 [NO ENCONTRADO]
+[12:15:11.988] ERROR - Jugador 113 [NO ENCONTRADO]
+[12:15:11.989] ERROR - Jugador 115 [NO ENCONTRADO]
+[12:15:12.119] ERROR - Jugador 116 [NO ENCONTRADO]
+[12:15:12.125] ERROR - Jugador 117 [NO ENCONTRADO]
+[12:15:12.200] ERROR - Jugador 119 [NO ENCONTRADO]
+[12:15:12.306] ERROR - Jugador 120 [NO ENCONTRADO]
+[12:15:12.327] ERROR - Jugador 118 [out_of_league]
+[12:15:12.412] ERROR - Jugador 122 [NO ENCONTRADO]
+[12:15:12.560] ERROR - Jugador 125 [NO ENCONTRADO]
+[12:15:12.586] ERROR - Jugador 123 [NO ENCONTRADO]
+[12:15:12.634] ERROR - Jugador 126 [NO ENCONTRADO]
+[12:15:12.682] ERROR - Jugador 124 [NO ENCONTRADO]
+[12:15:12.726] INFO - Escribiendo historial market-value del jugador 121 (79 values)
+[12:15:12.727] INFO - Jugador 121 almacenado correctamente
+[12:15:12.809] ERROR - Jugador 128 [NO ENCONTRADO]
+[12:15:12.977] ERROR - Jugador 129 [NO ENCONTRADO]
+[12:15:12.981] ERROR - Jugador 130 [NO ENCONTRADO]
+[12:15:13.078] ERROR - Jugador 133 [NO ENCONTRADO]
+[12:15:13.121] ERROR - Jugador 134 [NO ENCONTRADO]
+[12:15:13.200] ERROR - Jugador 132 [NO ENCONTRADO]
+[12:15:13.221] ERROR - Jugador 131 [NO ENCONTRADO]
+[12:15:13.366] ERROR - Jugador 135 [NO ENCONTRADO]
+[12:15:13.390] INFO - Escribiendo historial market-value del jugador 127 (122 values)
+[12:15:13.392] INFO - Jugador 127 almacenado correctamente
+[12:15:13.468] ERROR - Jugador 138 [NO ENCONTRADO]
+[12:15:13.504] ERROR - Jugador 139 [NO ENCONTRADO]
+[12:15:13.513] ERROR - Jugador 136 [NO ENCONTRADO]
+[12:15:13.548] ERROR - Jugador 137 [NO ENCONTRADO]
+[12:15:13.761] ERROR - Jugador 141 [NO ENCONTRADO]
+[12:15:13.800] ERROR - Jugador 143 [NO ENCONTRADO]
+[12:15:13.838] ERROR - Jugador 144 [NO ENCONTRADO]
+[12:15:13.901] ERROR - Jugador 145 [NO ENCONTRADO]
+[12:15:13.911] ERROR - Jugador 142 [NO ENCONTRADO]
+[12:15:13.921] ERROR - Jugador 146 [out_of_league]
+[12:15:13.981] ERROR - Jugador 147 [NO ENCONTRADO]
+[12:15:14.243] ERROR - Jugador 149 [NO ENCONTRADO]
+[12:15:14.318] ERROR - Jugador 152 [NO ENCONTRADO]
+[12:15:14.365] INFO - Escribiendo historial market-value del jugador 140 (122 values)
+[12:15:14.368] ERROR - Jugador 153 [NO ENCONTRADO]
+[12:15:14.369] INFO - Jugador 140 almacenado correctamente
+[12:15:14.397] ERROR - Jugador 154 [NO ENCONTRADO]
+[12:15:14.428] ERROR - Jugador 151 [NO ENCONTRADO]
+[12:15:14.650] INFO - Escribiendo historial market-value del jugador 148 (122 values)
+[12:15:14.651] INFO - Jugador 148 almacenado correctamente
+[12:15:14.684] ERROR - Jugador 155 [NO ENCONTRADO]
+[12:15:14.694] INFO - Escribiendo historial market-value del jugador 150 (122 values)
+[12:15:14.697] INFO - Jugador 150 almacenado correctamente
+[12:15:14.720] ERROR - Jugador 156 [NO ENCONTRADO]
+[12:15:14.809] ERROR - Jugador 158 [NO ENCONTRADO]
+[12:15:14.854] ERROR - Jugador 160 [NO ENCONTRADO]
+[12:15:14.917] ERROR - Jugador 157 [NO ENCONTRADO]
+[12:15:15.079] ERROR - Jugador 162 [NO ENCONTRADO]
+[12:15:15.150] ERROR - Jugador 163 [NO ENCONTRADO]
+[12:15:15.154] ERROR - Jugador 164 [NO ENCONTRADO]
+[12:15:15.194] ERROR - Jugador 161 [NO ENCONTRADO]
+[12:15:15.327] ERROR - Jugador 167 [NO ENCONTRADO]
+[12:15:15.399] ERROR - Jugador 165 [NO ENCONTRADO]
+[12:15:15.438] INFO - Escribiendo historial market-value del jugador 159 (122 values)
+[12:15:15.439] ERROR - Jugador 166 [out_of_league]
+[12:15:15.468] INFO - Jugador 159 almacenado correctamente
+[12:15:15.605] ERROR - Jugador 168 [NO ENCONTRADO]
+[12:15:15.616] ERROR - Jugador 171 [NO ENCONTRADO]
+[12:15:15.761] ERROR - Jugador 170 [NO ENCONTRADO]
+[12:15:15.791] ERROR - Jugador 169 [NO ENCONTRADO]
+[12:15:15.799] ERROR - Jugador 173 [NO ENCONTRADO]
+[12:15:15.870] ERROR - Jugador 174 [NO ENCONTRADO]
+[12:15:15.882] ERROR - Jugador 172 [NO ENCONTRADO]
+[12:15:15.896] ERROR - Jugador 175 [NO ENCONTRADO]
+[12:15:16.086] ERROR - Jugador 177 [NO ENCONTRADO]
+[12:15:16.141] ERROR - Jugador 178 [NO ENCONTRADO]
+[12:15:16.209] ERROR - Jugador 180 [NO ENCONTRADO]
+[12:15:16.216] ERROR - Jugador 176 [NO ENCONTRADO]
+[12:15:16.224] ERROR - Jugador 179 [NO ENCONTRADO]
+[12:15:16.326] ERROR - Jugador 182 [NO ENCONTRADO]
+[12:15:16.472] ERROR - Jugador 183 [NO ENCONTRADO]
+[12:15:16.488] ERROR - Jugador 181 [NO ENCONTRADO]
+[12:15:16.635] ERROR - Jugador 186 [NO ENCONTRADO]
+[12:15:16.656] ERROR - Jugador 188 [NO ENCONTRADO]
+[12:15:16.680] ERROR - Jugador 185 [NO ENCONTRADO]
+[12:15:16.685] ERROR - Jugador 187 [NO ENCONTRADO]
+[12:15:16.738] ERROR - Jugador 189 [NO ENCONTRADO]
+[12:15:16.907] ERROR - Jugador 190 [NO ENCONTRADO]
+[12:15:16.965] INFO - Escribiendo historial market-value del jugador 184 (122 values)
+[12:15:16.967] INFO - Jugador 184 almacenado correctamente
+[12:15:17.043] ERROR - Jugador 191 [NO ENCONTRADO]
+[12:15:17.181] ERROR - Jugador 196 [NO ENCONTRADO]
+[12:15:17.254] ERROR - Jugador 194 [NO ENCONTRADO]
+[12:15:17.260] ERROR - Jugador 195 [NO ENCONTRADO]
+[12:15:17.378] ERROR - Jugador 198 [NO ENCONTRADO]
+[12:15:17.473] ERROR - Jugador 197 [out_of_league]
+[12:15:17.481] ERROR - Jugador 199 [NO ENCONTRADO]
+[12:15:17.560] INFO - Escribiendo historial market-value del jugador 192 (122 values)
+[12:15:17.563] INFO - Jugador 192 almacenado correctamente
+[12:15:17.651] INFO - Escribiendo historial market-value del jugador 193 (122 values)
+[12:15:17.653] INFO - Jugador 193 almacenado correctamente
+[12:15:17.696] ERROR - Jugador 201 [NO ENCONTRADO]
+[12:15:17.779] ERROR - Jugador 203 [NO ENCONTRADO]
+[12:15:17.851] ERROR - Jugador 202 [NO ENCONTRADO]
+[12:15:18.044] ERROR - Jugador 207 [NO ENCONTRADO]
+[12:15:18.084] ERROR - Jugador 205 [NO ENCONTRADO]
+[12:15:18.116] ERROR - Jugador 208 [NO ENCONTRADO]
+[12:15:18.174] ERROR - Jugador 209 [NO ENCONTRADO]
+[12:15:18.241] ERROR - Jugador 206 [NO ENCONTRADO]
+[12:15:18.273] ERROR - Jugador 210 [NO ENCONTRADO]
+[12:15:18.293] INFO - Escribiendo historial market-value del jugador 200 (82 values)
+[12:15:18.295] INFO - Jugador 200 almacenado correctamente
+[12:15:18.456] ERROR - Jugador 211 [NO ENCONTRADO]
+[12:15:18.496] ERROR - Jugador 212 [NO ENCONTRADO]
+[12:15:18.502] INFO - Escribiendo historial market-value del jugador 204 (122 values)
+[12:15:18.504] INFO - Jugador 204 almacenado correctamente
+[12:15:18.565] ERROR - Jugador 214 [NO ENCONTRADO]
+[12:15:18.637] ERROR - Jugador 213 [NO ENCONTRADO]
+[12:15:18.718] ERROR - Jugador 216 [NO ENCONTRADO]
+[12:15:18.762] ERROR - Jugador 217 [out_of_league]
+[12:15:18.887] ERROR - Jugador 218 [NO ENCONTRADO]
+[12:15:18.957] ERROR - Jugador 219 [NO ENCONTRADO]
+[12:15:18.985] ERROR - Jugador 220 [NO ENCONTRADO]
+[12:15:19.048] ERROR - Jugador 222 [NO ENCONTRADO]
+[12:15:19.152] ERROR - Jugador 221 [NO ENCONTRADO]
+[12:15:19.196] ERROR - Jugador 224 [NO ENCONTRADO]
+[12:15:19.298] INFO - Escribiendo historial market-value del jugador 215 (122 values)
+[12:15:19.301] INFO - Jugador 215 almacenado correctamente
+[12:15:19.362] ERROR - Jugador 225 [NO ENCONTRADO]
+[12:15:19.401] ERROR - Jugador 226 [NO ENCONTRADO]
+[12:15:19.484] ERROR - Jugador 228 [NO ENCONTRADO]
+[12:15:19.525] ERROR - Jugador 223 [NO ENCONTRADO]
+[12:15:19.561] ERROR - Jugador 227 [NO ENCONTRADO]
+[12:15:19.566] ERROR - Jugador 229 [NO ENCONTRADO]
+[12:15:19.798] ERROR - Jugador 232 [NO ENCONTRADO]
+[12:15:19.942] ERROR - Jugador 235 [NO ENCONTRADO]
+[12:15:19.970] ERROR - Jugador 233 [NO ENCONTRADO]
+[12:15:20.020] ERROR - Jugador 234 [NO ENCONTRADO]
+[12:15:20.021] ERROR - Jugador 237 [NO ENCONTRADO]
+[12:15:20.192] ERROR - Jugador 236 [out_of_league]
+[12:15:20.196] INFO - Escribiendo historial market-value del jugador 230 (122 values)
+[12:15:20.200] INFO - Jugador 230 almacenado correctamente
+[12:15:20.478] ERROR - Jugador 242 [NO ENCONTRADO]
+[12:15:20.501] ERROR - Jugador 241 [NO ENCONTRADO]
+[12:15:20.506] ERROR - Jugador 239 [NO ENCONTRADO]
+[12:15:20.619] INFO - Escribiendo historial market-value del jugador 231 (122 values)
+[12:15:20.621] INFO - Jugador 231 almacenado correctamente
+[12:15:20.673] ERROR - Jugador 244 [NO ENCONTRADO]
+[12:15:20.816] INFO - Escribiendo historial market-value del jugador 238 (79 values)
+[12:15:20.817] INFO - Jugador 238 almacenado correctamente
+[12:15:20.953] ERROR - Jugador 246 [out_of_league]
+[12:15:20.976] INFO - Escribiendo historial market-value del jugador 240 (122 values)
+[12:15:20.978] INFO - Jugador 240 almacenado correctamente
+[12:15:21.035] ERROR - Jugador 248 [out_of_league]
+[12:15:21.234] ERROR - Jugador 249 [NO ENCONTRADO]
+[12:15:21.298] INFO - Escribiendo historial market-value del jugador 243 (122 values)
+[12:15:21.301] INFO - Jugador 243 almacenado correctamente
+[12:15:21.406] ERROR - Jugador 251 [NO ENCONTRADO]
+[12:15:21.469] ERROR - Jugador 253 [NO ENCONTRADO]
+[12:15:21.550] ERROR - Jugador 252 [NO ENCONTRADO]
+[12:15:21.603] ERROR - Jugador 250 [NO ENCONTRADO]
+[12:15:21.610] INFO - Escribiendo historial market-value del jugador 245 (93 values)
+[12:15:21.612] INFO - Jugador 245 almacenado correctamente
+[12:15:21.639] ERROR - Jugador 254 [NO ENCONTRADO]
+[12:15:21.669] INFO - Escribiendo historial market-value del jugador 247 (122 values)
+[12:15:21.671] INFO - Jugador 247 almacenado correctamente
+[12:15:21.804] ERROR - Jugador 256 [NO ENCONTRADO]
+[12:15:21.955] ERROR - Jugador 258 [NO ENCONTRADO]
+[12:15:22.084] ERROR - Jugador 261 [NO ENCONTRADO]
+[12:15:22.101] ERROR - Jugador 262 [NO ENCONTRADO]
+[12:15:22.242] ERROR - Jugador 263 [NO ENCONTRADO]
+[12:15:22.509] INFO - Escribiendo historial market-value del jugador 257 (94 values)
+[12:15:22.512] INFO - Jugador 257 almacenado correctamente
+[12:15:22.523] INFO - Escribiendo historial market-value del jugador 255 (122 values)
+[12:15:22.524] INFO - Jugador 255 almacenado correctamente
+[12:15:22.584] ERROR - Jugador 266 [NO ENCONTRADO]
+[12:15:22.633] INFO - Escribiendo historial market-value del jugador 259 (122 values)
+[12:15:22.635] INFO - Jugador 259 almacenado correctamente
+[12:15:22.641] ERROR - Jugador 267 [NO ENCONTRADO]
+[12:15:22.708] INFO - Escribiendo historial market-value del jugador 260 (122 values)
+[12:15:22.710] INFO - Jugador 260 almacenado correctamente
+[12:15:22.980] ERROR - Jugador 269 [NO ENCONTRADO]
+[12:15:23.094] ERROR - Jugador 271 [out_of_league]
+[12:15:23.161] INFO - Escribiendo historial market-value del jugador 264 (122 values)
+[12:15:23.162] INFO - Jugador 264 almacenado correctamente
+[12:15:23.165] ERROR - Jugador 272 [NO ENCONTRADO]
+[12:15:23.262] ERROR - Jugador 273 [NO ENCONTRADO]
+[12:15:23.556] ERROR - Jugador 276 [NO ENCONTRADO]
+[12:15:23.587] INFO - Escribiendo historial market-value del jugador 268 (89 values)
+[12:15:23.588] INFO - Jugador 268 almacenado correctamente
+[12:15:23.614] INFO - Escribiendo historial market-value del jugador 270 (122 values)
+[12:15:23.616] INFO - Jugador 270 almacenado correctamente
+[12:15:23.815] ERROR - Jugador 277 [NO ENCONTRADO]
+[12:15:23.816] ERROR - Jugador 278 [NO ENCONTRADO]
+[12:15:23.946] INFO - Escribiendo historial market-value del jugador 274 (122 values)
+[12:15:23.949] INFO - Jugador 274 almacenado correctamente
+[12:15:23.957] ERROR - Jugador 279 [NO ENCONTRADO]
+[12:15:24.017] ERROR - Jugador 280 [NO ENCONTRADO]
+[12:15:24.034] ERROR - Jugador 281 [NO ENCONTRADO]
+[12:15:24.204] INFO - Escribiendo historial market-value del jugador 265 (122 values)
+[12:15:24.205] INFO - Jugador 265 almacenado correctamente
+[12:15:24.269] ERROR - Jugador 282 [NO ENCONTRADO]
+[12:15:24.362] INFO - Escribiendo historial market-value del jugador 275 (122 values)
+[12:15:24.364] INFO - Jugador 275 almacenado correctamente
+[12:15:24.409] ERROR - Jugador 283 [NO ENCONTRADO]
+[12:15:24.462] ERROR - Jugador 286 [NO ENCONTRADO]
+[12:15:24.464] ERROR - Jugador 287 [NO ENCONTRADO]
+[12:15:24.518] ERROR - Jugador 285 [NO ENCONTRADO]
+[12:15:24.682] ERROR - Jugador 289 [NO ENCONTRADO]
+[12:15:24.701] ERROR - Jugador 288 [NO ENCONTRADO]
+[12:15:24.822] ERROR - Jugador 291 [NO ENCONTRADO]
+[12:15:24.905] ERROR - Jugador 293 [NO ENCONTRADO]
+[12:15:25.082] ERROR - Jugador 290 [NO ENCONTRADO]
+[12:15:25.114] ERROR - Jugador 292 [NO ENCONTRADO]
+[12:15:25.124] ERROR - Jugador 295 [NO ENCONTRADO]
+[12:15:25.204] ERROR - Jugador 297 [NO ENCONTRADO]
+[12:15:25.235] INFO - Escribiendo historial market-value del jugador 284 (112 values)
+[12:15:25.238] INFO - Jugador 284 almacenado correctamente
+[12:15:25.482] ERROR - Jugador 299 [NO ENCONTRADO]
+[12:15:25.633] ERROR - Jugador 303 [NO ENCONTRADO]
+[12:15:25.687] ERROR - Jugador 301 [out_of_league]
+[12:15:25.728] INFO - Escribiendo historial market-value del jugador 296 (122 values)
+[12:15:25.731] INFO - Jugador 296 almacenado correctamente
+[12:15:25.909] ERROR - Jugador 304 [NO ENCONTRADO]
+[12:15:25.929] INFO - Escribiendo historial market-value del jugador 294 (67 values)
+[12:15:25.931] INFO - Jugador 294 almacenado correctamente
+[12:15:26.094] ERROR - Jugador 306 [out_of_league]
+[12:15:26.130] INFO - Escribiendo historial market-value del jugador 300 (122 values)
+[12:15:26.131] INFO - Jugador 300 almacenado correctamente
+[12:15:26.136] INFO - Escribiendo historial market-value del jugador 298 (122 values)
+[12:15:26.137] INFO - Jugador 298 almacenado correctamente
+[12:15:26.149] INFO - Escribiendo historial market-value del jugador 302 (122 values)
+[12:15:26.150] INFO - Jugador 302 almacenado correctamente
+[12:15:26.198] ERROR - Jugador 305 [NO ENCONTRADO]
+[12:15:26.299] ERROR - Jugador 308 [NO ENCONTRADO]
+[12:15:26.303] ERROR - Jugador 307 [out_of_league]
+[12:15:26.343] ERROR - Jugador 309 [NO ENCONTRADO]
+[12:15:26.604] ERROR - Jugador 311 [NO ENCONTRADO]
+[12:15:26.611] ERROR - Jugador 313 [NO ENCONTRADO]
+[12:15:26.632] ERROR - Jugador 312 [NO ENCONTRADO]
+[12:15:26.653] ERROR - Jugador 314 [NO ENCONTRADO]
+[12:15:26.741] ERROR - Jugador 315 [NO ENCONTRADO]
+[12:15:26.880] ERROR - Jugador 316 [NO ENCONTRADO]
+[12:15:26.962] ERROR - Jugador 317 [NO ENCONTRADO]
+[12:15:27.160] ERROR - Jugador 320 [NO ENCONTRADO]
+[12:15:27.175] ERROR - Jugador 318 [NO ENCONTRADO]
+[12:15:27.178] ERROR - Jugador 319 [NO ENCONTRADO]
+[12:15:27.211] ERROR - Jugador 322 [NO ENCONTRADO]
+[12:15:27.287] ERROR - Jugador 323 [NO ENCONTRADO]
+[12:15:27.296] ERROR - Jugador 321 [NO ENCONTRADO]
+[12:15:27.391] INFO - Escribiendo historial market-value del jugador 310 (122 values)
+[12:15:27.392] INFO - Jugador 310 almacenado correctamente
+[12:15:27.640] ERROR - Jugador 327 [NO ENCONTRADO]
+[12:15:27.684] ERROR - Jugador 326 [NO ENCONTRADO]
+[12:15:27.711] ERROR - Jugador 329 [NO ENCONTRADO]
+[12:15:27.715] ERROR - Jugador 324 [NO ENCONTRADO]
+[12:15:27.739] ERROR - Jugador 325 [NO ENCONTRADO]
+[12:15:27.750] ERROR - Jugador 328 [NO ENCONTRADO]
+[12:15:27.823] ERROR - Jugador 331 [NO ENCONTRADO]
+[12:15:27.837] ERROR - Jugador 330 [NO ENCONTRADO]
+[12:15:28.052] ERROR - Jugador 332 [NO ENCONTRADO]
+[12:15:28.092] ERROR - Jugador 333 [NO ENCONTRADO]
+[12:15:28.143] ERROR - Jugador 334 [NO ENCONTRADO]
+[12:15:28.175] ERROR - Jugador 335 [NO ENCONTRADO]
+[12:15:28.180] ERROR - Jugador 337 [NO ENCONTRADO]
+[12:15:28.317] ERROR - Jugador 336 [NO ENCONTRADO]
+[12:15:28.396] ERROR - Jugador 338 [NO ENCONTRADO]
+[12:15:28.423] ERROR - Jugador 339 [NO ENCONTRADO]
+[12:15:28.473] ERROR - Jugador 340 [NO ENCONTRADO]
+[12:15:28.491] ERROR - Jugador 341 [out_of_league]
+[12:15:28.614] ERROR - Jugador 343 [NO ENCONTRADO]
+[12:15:28.685] ERROR - Jugador 342 [NO ENCONTRADO]
+[12:15:28.736] ERROR - Jugador 345 [NO ENCONTRADO]
+[12:15:28.822] ERROR - Jugador 346 [NO ENCONTRADO]
+[12:15:28.848] ERROR - Jugador 347 [NO ENCONTRADO]
+[12:15:28.889] ERROR - Jugador 348 [out_of_league]
+[12:15:28.896] ERROR - Jugador 349 [NO ENCONTRADO]
+[12:15:29.071] ERROR - Jugador 350 [NO ENCONTRADO]
+[12:15:29.154] ERROR - Jugador 352 [NO ENCONTRADO]
+[12:15:29.258] ERROR - Jugador 353 [NO ENCONTRADO]
+[12:15:29.275] ERROR - Jugador 351 [NO ENCONTRADO]
+[12:15:29.320] ERROR - Jugador 355 [NO ENCONTRADO]
+[12:15:29.408] INFO - Escribiendo historial market-value del jugador 344 (122 values)
+[12:15:29.409] INFO - Jugador 344 almacenado correctamente
+[12:15:29.409] ERROR - Jugador 354 [NO ENCONTRADO]
+[12:15:29.492] ERROR - Jugador 357 [NO ENCONTRADO]
+[12:15:29.603] ERROR - Jugador 358 [NO ENCONTRADO]
+[12:15:29.722] ERROR - Jugador 361 [NO ENCONTRADO]
+[12:15:29.764] INFO - Escribiendo historial market-value del jugador 356 (122 values)
+[12:15:29.765] INFO - Jugador 356 almacenado correctamente
+[12:15:29.814] ERROR - Jugador 359 [NO ENCONTRADO]
+[12:15:29.969] ERROR - Jugador 362 [NO ENCONTRADO]
+[12:15:29.999] ERROR - Jugador 363 [NO ENCONTRADO]
+[12:15:30.038] ERROR - Jugador 365 [out_of_league]
+[12:15:30.066] ERROR - Jugador 364 [NO ENCONTRADO]
+[12:15:30.188] ERROR - Jugador 367 [NO ENCONTRADO]
+[12:15:30.274] ERROR - Jugador 366 [NO ENCONTRADO]
+[12:15:30.282] INFO - Escribiendo historial market-value del jugador 360 (122 values)
+[12:15:30.284] INFO - Jugador 360 almacenado correctamente
+[12:15:30.373] ERROR - Jugador 369 [NO ENCONTRADO]
+[12:15:30.420] ERROR - Jugador 370 [NO ENCONTRADO]
+[12:15:30.450] ERROR - Jugador 371 [NO ENCONTRADO]
+[12:15:30.491] ERROR - Jugador 372 [NO ENCONTRADO]
+[12:15:30.553] ERROR - Jugador 368 [NO ENCONTRADO]
+[12:15:30.603] ERROR - Jugador 373 [NO ENCONTRADO]
+[12:15:30.729] ERROR - Jugador 375 [NO ENCONTRADO]
+[12:15:30.732] ERROR - Jugador 374 [NO ENCONTRADO]
+[12:15:30.868] ERROR - Jugador 378 [NO ENCONTRADO]
+[12:15:30.872] ERROR - Jugador 376 [NO ENCONTRADO]
+[12:15:30.900] ERROR - Jugador 379 [NO ENCONTRADO]
+[12:15:30.975] ERROR - Jugador 380 [NO ENCONTRADO]
+[12:15:31.014] ERROR - Jugador 381 [NO ENCONTRADO]
+[12:15:31.034] ERROR - Jugador 377 [NO ENCONTRADO]
+[12:15:31.161] ERROR - Jugador 383 [NO ENCONTRADO]
+[12:15:31.179] ERROR - Jugador 382 [NO ENCONTRADO]
+[12:15:31.308] ERROR - Jugador 384 [NO ENCONTRADO]
+[12:15:31.436] ERROR - Jugador 388 [NO ENCONTRADO]
+[12:15:31.439] ERROR - Jugador 389 [NO ENCONTRADO]
+[12:15:31.452] ERROR - Jugador 385 [NO ENCONTRADO]
+[12:15:31.466] ERROR - Jugador 386 [NO ENCONTRADO]
+[12:15:31.518] ERROR - Jugador 387 [NO ENCONTRADO]
+[12:15:31.571] ERROR - Jugador 390 [NO ENCONTRADO]
+[12:15:31.595] ERROR - Jugador 391 [NO ENCONTRADO]
+[12:15:31.745] ERROR - Jugador 392 [NO ENCONTRADO]
+[12:15:31.873] ERROR - Jugador 394 [NO ENCONTRADO]
+[12:15:31.934] ERROR - Jugador 393 [NO ENCONTRADO]
+[12:15:31.981] ERROR - Jugador 398 [NO ENCONTRADO]
+[12:15:32.017] ERROR - Jugador 399 [NO ENCONTRADO]
+[12:15:32.065] ERROR - Jugador 397 [NO ENCONTRADO]
+[12:15:32.068] ERROR - Jugador 396 [NO ENCONTRADO]
+[12:15:32.077] ERROR - Jugador 395 [NO ENCONTRADO]
+[12:15:32.269] ERROR - Jugador 401 [NO ENCONTRADO]
+[12:15:32.333] ERROR - Jugador 402 [NO ENCONTRADO]
+[12:15:32.401] ERROR - Jugador 404 [NO ENCONTRADO]
+[12:15:32.563] ERROR - Jugador 407 [NO ENCONTRADO]
+[12:15:32.587] ERROR - Jugador 406 [NO ENCONTRADO]
+[12:15:32.593] ERROR - Jugador 400 [NO ENCONTRADO]
+[12:15:32.604] ERROR - Jugador 403 [NO ENCONTRADO]
+[12:15:32.716] ERROR - Jugador 408 [NO ENCONTRADO]
+[12:15:32.733] ERROR - Jugador 405 [NO ENCONTRADO]
+[12:15:32.744] ERROR - Jugador 409 [NO ENCONTRADO]
+[12:15:32.952] ERROR - Jugador 410 [NO ENCONTRADO]
+[12:15:32.996] ERROR - Jugador 411 [NO ENCONTRADO]
+[12:15:33.040] ERROR - Jugador 414 [NO ENCONTRADO]
+[12:15:33.164] ERROR - Jugador 413 [NO ENCONTRADO]
+[12:15:33.170] ERROR - Jugador 415 [out_of_league]
+[12:15:33.179] ERROR - Jugador 416 [NO ENCONTRADO]
+[12:15:33.190] ERROR - Jugador 412 [NO ENCONTRADO]
+[12:15:33.203] ERROR - Jugador 417 [NO ENCONTRADO]
+[12:15:33.414] ERROR - Jugador 418 [NO ENCONTRADO]
+[12:15:33.497] ERROR - Jugador 420 [NO ENCONTRADO]
+[12:15:33.628] ERROR - Jugador 419 [NO ENCONTRADO]
+[12:15:33.654] ERROR - Jugador 421 [NO ENCONTRADO]
+[12:15:33.676] ERROR - Jugador 424 [NO ENCONTRADO]
+[12:15:33.716] ERROR - Jugador 423 [NO ENCONTRADO]
+[12:15:33.724] ERROR - Jugador 422 [NO ENCONTRADO]
+[12:15:33.775] ERROR - Jugador 425 [NO ENCONTRADO]
+[12:15:33.857] ERROR - Jugador 426 [NO ENCONTRADO]
+[12:15:33.934] ERROR - Jugador 427 [NO ENCONTRADO]
+[12:15:34.042] ERROR - Jugador 428 [NO ENCONTRADO]
+[12:15:34.103] ERROR - Jugador 430 [NO ENCONTRADO]
+[12:15:34.107] ERROR - Jugador 429 [NO ENCONTRADO]
+[12:15:34.137] ERROR - Jugador 431 [NO ENCONTRADO]
+[12:15:34.168] ERROR - Jugador 432 [NO ENCONTRADO]
+[12:15:34.196] ERROR - Jugador 433 [NO ENCONTRADO]
+[12:15:34.282] ERROR - Jugador 434 [NO ENCONTRADO]
+[12:15:34.383] ERROR - Jugador 435 [NO ENCONTRADO]
+[12:15:34.444] ERROR - Jugador 436 [NO ENCONTRADO]
+[12:15:34.511] ERROR - Jugador 437 [NO ENCONTRADO]
+[12:15:34.534] ERROR - Jugador 438 [NO ENCONTRADO]
+[12:15:34.559] ERROR - Jugador 439 [NO ENCONTRADO]
+[12:15:34.622] ERROR - Jugador 441 [NO ENCONTRADO]
+[12:15:34.689] ERROR - Jugador 442 [NO ENCONTRADO]
+[12:15:34.741] ERROR - Jugador 440 [NO ENCONTRADO]
+[12:15:34.802] ERROR - Jugador 443 [NO ENCONTRADO]
+[12:15:34.854] ERROR - Jugador 444 [NO ENCONTRADO]
+[12:15:34.915] ERROR - Jugador 445 [NO ENCONTRADO]
+[12:15:34.974] ERROR - Jugador 446 [NO ENCONTRADO]
+[12:15:34.979] ERROR - Jugador 447 [NO ENCONTRADO]
+[12:15:35.021] ERROR - Jugador 448 [NO ENCONTRADO]
+[12:15:35.106] ERROR - Jugador 449 [NO ENCONTRADO]
+[12:15:35.186] ERROR - Jugador 450 [NO ENCONTRADO]
+[12:15:35.228] ERROR - Jugador 451 [NO ENCONTRADO]
+[12:15:35.258] ERROR - Jugador 452 [NO ENCONTRADO]
+[12:15:35.370] ERROR - Jugador 453 [NO ENCONTRADO]
+[12:15:35.421] ERROR - Jugador 454 [NO ENCONTRADO]
+[12:15:35.460] ERROR - Jugador 455 [NO ENCONTRADO]
+[12:15:35.519] ERROR - Jugador 457 [NO ENCONTRADO]
+[12:15:35.606] ERROR - Jugador 456 [NO ENCONTRADO]
+[12:15:35.610] ERROR - Jugador 458 [NO ENCONTRADO]
+[12:15:35.691] ERROR - Jugador 460 [NO ENCONTRADO]
+[12:15:35.799] ERROR - Jugador 461 [NO ENCONTRADO]
+[12:15:35.811] ERROR - Jugador 459 [NO ENCONTRADO]
+[12:15:35.861] ERROR - Jugador 462 [NO ENCONTRADO]
+[12:15:35.885] ERROR - Jugador 463 [NO ENCONTRADO]
+[12:15:35.916] ERROR - Jugador 464 [NO ENCONTRADO]
+[12:15:36.146] ERROR - Jugador 467 [NO ENCONTRADO]
+[12:15:36.174] ERROR - Jugador 465 [NO ENCONTRADO]
+[12:15:36.208] ERROR - Jugador 466 [NO ENCONTRADO]
+[12:15:36.217] ERROR - Jugador 468 [NO ENCONTRADO]
+[12:15:36.235] ERROR - Jugador 469 [NO ENCONTRADO]
+[12:15:36.262] ERROR - Jugador 470 [NO ENCONTRADO]
+[12:15:36.330] ERROR - Jugador 472 [NO ENCONTRADO]
+[12:15:36.337] ERROR - Jugador 471 [NO ENCONTRADO]
+[12:15:36.576] ERROR - Jugador 473 [NO ENCONTRADO]
+[12:15:36.602] ERROR - Jugador 474 [NO ENCONTRADO]
+[12:15:36.664] ERROR - Jugador 476 [NO ENCONTRADO]
+[12:15:36.677] ERROR - Jugador 477 [NO ENCONTRADO]
+[12:15:36.750] ERROR - Jugador 475 [NO ENCONTRADO]
+[12:15:36.816] ERROR - Jugador 480 [NO ENCONTRADO]
+[12:15:36.850] ERROR - Jugador 479 [NO ENCONTRADO]
+[12:15:37.020] ERROR - Jugador 482 [NO ENCONTRADO]
+[12:15:37.104] ERROR - Jugador 483 [NO ENCONTRADO]
+[12:15:37.126] ERROR - Jugador 484 [NO ENCONTRADO]
+[12:15:37.135] INFO - Escribiendo historial market-value del jugador 478 (79 values)
+[12:15:37.137] INFO - Jugador 478 almacenado correctamente
+[12:15:37.156] ERROR - Jugador 481 [NO ENCONTRADO]
+[12:15:37.260] ERROR - Jugador 486 [NO ENCONTRADO]
+[12:15:37.265] ERROR - Jugador 487 [NO ENCONTRADO]
+[12:15:37.280] ERROR - Jugador 485 [NO ENCONTRADO]
+[12:15:37.552] ERROR - Jugador 489 [NO ENCONTRADO]
+[12:15:37.573] ERROR - Jugador 488 [NO ENCONTRADO]
+[12:15:37.579] ERROR - Jugador 490 [NO ENCONTRADO]
+[12:15:37.584] ERROR - Jugador 492 [NO ENCONTRADO]
+[12:15:37.590] ERROR - Jugador 491 [NO ENCONTRADO]
+[12:15:37.695] ERROR - Jugador 493 [NO ENCONTRADO]
+[12:15:37.718] ERROR - Jugador 494 [NO ENCONTRADO]
+[12:15:37.952] ERROR - Jugador 496 [NO ENCONTRADO]
+[12:15:38.023] ERROR - Jugador 497 [NO ENCONTRADO]
+[12:15:38.051] ERROR - Jugador 498 [NO ENCONTRADO]
+[12:15:38.058] ERROR - Jugador 499 [NO ENCONTRADO]
+[12:15:38.110] ERROR - Jugador 501 [NO ENCONTRADO]
+[12:15:38.115] ERROR - Jugador 502 [NO ENCONTRADO]
+[12:15:38.134] ERROR - Jugador 495 [NO ENCONTRADO]
+[12:15:38.382] ERROR - Jugador 503 [NO ENCONTRADO]
+[12:15:38.426] ERROR - Jugador 500 [NO ENCONTRADO]
+[12:15:38.473] ERROR - Jugador 504 [NO ENCONTRADO]
+[12:15:38.494] ERROR - Jugador 505 [NO ENCONTRADO]
+[12:15:38.571] ERROR - Jugador 509 [NO ENCONTRADO]
+[12:15:38.656] ERROR - Jugador 506 [NO ENCONTRADO]
+[12:15:38.661] ERROR - Jugador 508 [NO ENCONTRADO]
+[12:15:38.907] ERROR - Jugador 512 [NO ENCONTRADO]
+[12:15:38.914] ERROR - Jugador 513 [NO ENCONTRADO]
+[12:15:38.944] ERROR - Jugador 511 [NO ENCONTRADO]
+[12:15:38.969] ERROR - Jugador 514 [NO ENCONTRADO]
+[12:15:39.037] ERROR - Jugador 507 [NO ENCONTRADO]
+[12:15:39.092] ERROR - Jugador 515 [NO ENCONTRADO]
+[12:15:39.098] ERROR - Jugador 516 [NO ENCONTRADO]
+[12:15:39.230] ERROR - Jugador 510 [NO ENCONTRADO]
+[12:15:39.362] ERROR - Jugador 517 [NO ENCONTRADO]
+[12:15:39.377] ERROR - Jugador 519 [NO ENCONTRADO]
+[12:15:39.393] ERROR - Jugador 518 [NO ENCONTRADO]
+[12:15:39.424] ERROR - Jugador 521 [NO ENCONTRADO]
+[12:15:39.512] ERROR - Jugador 522 [NO ENCONTRADO]
+[12:15:39.520] ERROR - Jugador 520 [NO ENCONTRADO]
+[12:15:39.531] ERROR - Jugador 523 [NO ENCONTRADO]
+[12:15:39.654] ERROR - Jugador 524 [NO ENCONTRADO]
+[12:15:39.778] ERROR - Jugador 525 [NO ENCONTRADO]
+[12:15:39.836] ERROR - Jugador 527 [NO ENCONTRADO]
+[12:15:39.947] ERROR - Jugador 530 [NO ENCONTRADO]
+[12:15:39.957] ERROR - Jugador 531 [NO ENCONTRADO]
+[12:15:39.979] ERROR - Jugador 528 [NO ENCONTRADO]
+[12:15:40.040] ERROR - Jugador 529 [NO ENCONTRADO]
+[12:15:40.057] ERROR - Jugador 526 [NO ENCONTRADO]
+[12:15:40.064] ERROR - Jugador 532 [NO ENCONTRADO]
+[12:15:40.190] ERROR - Jugador 533 [NO ENCONTRADO]
+[12:15:40.250] ERROR - Jugador 534 [NO ENCONTRADO]
+[12:15:40.407] ERROR - Jugador 536 [NO ENCONTRADO]
+[12:15:40.411] ERROR - Jugador 537 [NO ENCONTRADO]
+[12:15:40.483] ERROR - Jugador 538 [NO ENCONTRADO]
+[12:15:40.495] ERROR - Jugador 539 [NO ENCONTRADO]
+[12:15:40.617] ERROR - Jugador 535 [NO ENCONTRADO]
+[12:15:40.641] ERROR - Jugador 541 [out_of_league]
+[12:15:40.663] ERROR - Jugador 540 [NO ENCONTRADO]
+[12:15:40.871] ERROR - Jugador 543 [NO ENCONTRADO]
+[12:15:40.920] ERROR - Jugador 545 [NO ENCONTRADO]
+[12:15:40.952] ERROR - Jugador 546 [NO ENCONTRADO]
+[12:15:41.114] ERROR - Jugador 548 [NO ENCONTRADO]
+[12:15:41.273] ERROR - Jugador 550 [NO ENCONTRADO]
+[12:15:41.357] ERROR - Jugador 551 [NO ENCONTRADO]
+[12:15:41.364] ERROR - Jugador 549 [NO ENCONTRADO]
+[12:15:41.375] ERROR - Jugador 552 [NO ENCONTRADO]
+[12:15:41.516] ERROR - Jugador 553 [NO ENCONTRADO]
+[12:15:41.528] INFO - Escribiendo historial market-value del jugador 544 (120 values)
+[12:15:41.529] INFO - Jugador 544 almacenado correctamente
+[12:15:41.617] INFO - Escribiendo historial market-value del jugador 547 (122 values)
+[12:15:41.620] INFO - Jugador 547 almacenado correctamente
+[12:15:41.655] ERROR - Jugador 554 [NO ENCONTRADO]
+[12:15:41.785] ERROR - Jugador 555 [NO ENCONTRADO]
+[12:15:41.805] ERROR - Jugador 542 [NO ENCONTRADO]
+[12:15:41.814] ERROR - Jugador 556 [NO ENCONTRADO]
+[12:15:42.060] ERROR - Jugador 560 [NO ENCONTRADO]
+[12:15:42.201] ERROR - Jugador 562 [NO ENCONTRADO]
+[12:15:42.233] ERROR - Jugador 561 [NO ENCONTRADO]
+[12:15:42.259] ERROR - Jugador 564 [NO ENCONTRADO]
+[12:15:42.437] ERROR - Jugador 563 [NO ENCONTRADO]
+[12:15:42.449] INFO - Escribiendo historial market-value del jugador 557 (122 values)
+[12:15:42.452] INFO - Jugador 557 almacenado correctamente
+[12:15:42.461] INFO - Escribiendo historial market-value del jugador 558 (122 values)
+[12:15:42.463] INFO - Jugador 558 almacenado correctamente
+[12:15:42.498] INFO - Escribiendo historial market-value del jugador 559 (122 values)
+[12:15:42.500] INFO - Jugador 559 almacenado correctamente
+[12:15:42.613] ERROR - Jugador 565 [NO ENCONTRADO]
+[12:15:42.633] ERROR - Jugador 567 [out_of_league]
+[12:15:42.701] ERROR - Jugador 568 [NO ENCONTRADO]
+[12:15:42.892] ERROR - Jugador 569 [NO ENCONTRADO]
+[12:15:42.937] ERROR - Jugador 570 [NO ENCONTRADO]
+[12:15:42.946] ERROR - Jugador 572 [NO ENCONTRADO]
+[12:15:43.056] ERROR - Jugador 573 [NO ENCONTRADO]
+[12:15:43.067] ERROR - Jugador 571 [NO ENCONTRADO]
+[12:15:43.146] ERROR - Jugador 575 [NO ENCONTRADO]
+[12:15:43.200] INFO - Escribiendo historial market-value del jugador 566 (120 values)
+[12:15:43.203] INFO - Jugador 566 almacenado correctamente
+[12:15:43.370] ERROR - Jugador 577 [NO ENCONTRADO]
+[12:15:43.378] ERROR - Jugador 578 [NO ENCONTRADO]
+[12:15:43.475] ERROR - Jugador 576 [NO ENCONTRADO]
+[12:15:43.480] ERROR - Jugador 579 [NO ENCONTRADO]
+[12:15:43.535] INFO - Escribiendo historial market-value del jugador 574 (122 values)
+[12:15:43.537] INFO - Jugador 574 almacenado correctamente
+[12:15:43.637] ERROR - Jugador 582 [NO ENCONTRADO]
+[12:15:43.653] ERROR - Jugador 580 [NO ENCONTRADO]
+[12:15:43.799] ERROR - Jugador 583 [NO ENCONTRADO]
+[12:15:43.908] ERROR - Jugador 585 [NO ENCONTRADO]
+[12:15:43.934] ERROR - Jugador 584 [NO ENCONTRADO]
+[12:15:43.981] ERROR - Jugador 587 [NO ENCONTRADO]
+[12:15:44.059] ERROR - Jugador 588 [NO ENCONTRADO]
+[12:15:44.063] ERROR - Jugador 589 [NO ENCONTRADO]
+[12:15:44.078] ERROR - Jugador 586 [NO ENCONTRADO]
+[12:15:44.134] INFO - Escribiendo historial market-value del jugador 581 (122 values)
+[12:15:44.135] INFO - Jugador 581 almacenado correctamente
+[12:15:44.205] ERROR - Jugador 590 [NO ENCONTRADO]
+[12:15:44.362] ERROR - Jugador 591 [NO ENCONTRADO]
+[12:15:44.389] ERROR - Jugador 593 [NO ENCONTRADO]
+[12:15:44.469] ERROR - Jugador 594 [NO ENCONTRADO]
+[12:15:44.515] ERROR - Jugador 595 [NO ENCONTRADO]
+[12:15:44.541] ERROR - Jugador 596 [NO ENCONTRADO]
+[12:15:44.548] ERROR - Jugador 597 [NO ENCONTRADO]
+[12:15:44.788] ERROR - Jugador 599 [NO ENCONTRADO]
+[12:15:44.850] ERROR - Jugador 601 [NO ENCONTRADO]
+[12:15:44.856] ERROR - Jugador 592 [NO ENCONTRADO]
+[12:15:45.068] ERROR - Jugador 602 [NO ENCONTRADO]
+[12:15:45.157] ERROR - Jugador 598 [NO ENCONTRADO]
+[12:15:45.171] ERROR - Jugador 603 [NO ENCONTRADO]
+[12:15:45.172] ERROR - Jugador 605 [NO ENCONTRADO]
+[12:15:45.404] ERROR - Jugador 606 [NO ENCONTRADO]
+[12:15:45.466] ERROR - Jugador 608 [out_of_league]
+[12:15:45.532] ERROR - Jugador 607 [NO ENCONTRADO]
+[12:15:45.602] ERROR - Jugador 611 [NO ENCONTRADO]
+[12:15:45.606] ERROR - Jugador 610 [NO ENCONTRADO]
+[12:15:45.636] ERROR - Jugador 609 [NO ENCONTRADO]
+[12:15:45.693] ERROR - Jugador 604 [NO ENCONTRADO]
+[12:15:45.722] ERROR - Jugador 600 [NO ENCONTRADO]
+[12:15:45.880] ERROR - Jugador 613 [NO ENCONTRADO]
+[12:15:45.928] ERROR - Jugador 614 [NO ENCONTRADO]
+[12:15:45.981] ERROR - Jugador 612 [NO ENCONTRADO]
+[12:15:46.036] ERROR - Jugador 615 [NO ENCONTRADO]
+[12:15:46.047] ERROR - Jugador 616 [NO ENCONTRADO]
+[12:15:46.063] ERROR - Jugador 617 [NO ENCONTRADO]
+[12:15:46.154] ERROR - Jugador 619 [NO ENCONTRADO]
+[12:15:46.167] ERROR - Jugador 618 [NO ENCONTRADO]
+[12:15:46.296] ERROR - Jugador 620 [NO ENCONTRADO]
+[12:15:46.359] ERROR - Jugador 621 [NO ENCONTRADO]
+[12:15:46.402] ERROR - Jugador 622 [NO ENCONTRADO]
+[12:15:46.440] ERROR - Jugador 623 [NO ENCONTRADO]
+[12:15:46.490] ERROR - Jugador 624 [NO ENCONTRADO]
+[12:15:46.610] ERROR - Jugador 627 [NO ENCONTRADO]
+[12:15:46.625] ERROR - Jugador 626 [NO ENCONTRADO]
+[12:15:46.641] ERROR - Jugador 625 [NO ENCONTRADO]
+[12:15:46.753] ERROR - Jugador 629 [NO ENCONTRADO]
+[12:15:46.841] ERROR - Jugador 628 [NO ENCONTRADO]
+[12:15:46.911] ERROR - Jugador 632 [NO ENCONTRADO]
+[12:15:46.972] ERROR - Jugador 630 [NO ENCONTRADO]
+[12:15:47.000] ERROR - Jugador 631 [NO ENCONTRADO]
+[12:15:47.076] ERROR - Jugador 633 [NO ENCONTRADO]
+[12:15:47.084] ERROR - Jugador 634 [NO ENCONTRADO]
+[12:15:47.112] ERROR - Jugador 635 [NO ENCONTRADO]
+[12:15:47.169] ERROR - Jugador 636 [NO ENCONTRADO]
+[12:15:47.382] ERROR - Jugador 639 [NO ENCONTRADO]
+[12:15:47.418] ERROR - Jugador 640 [NO ENCONTRADO]
+[12:15:47.493] ERROR - Jugador 638 [NO ENCONTRADO]
+[12:15:47.536] ERROR - Jugador 641 [NO ENCONTRADO]
+[12:15:47.692] ERROR - Jugador 643 [NO ENCONTRADO]
+[12:15:47.810] ERROR - Jugador 646 [NO ENCONTRADO]
+[12:15:47.839] INFO - Escribiendo historial market-value del jugador 637 (122 values)
+[12:15:47.841] INFO - Jugador 637 almacenado correctamente
+[12:15:47.944] ERROR - Jugador 647 [NO ENCONTRADO]
+[12:15:47.950] INFO - Escribiendo historial market-value del jugador 642 (79 values)
+[12:15:47.952] INFO - Jugador 642 almacenado correctamente
+[12:15:47.984] ERROR - Jugador 648 [NO ENCONTRADO]
+[12:15:48.158] INFO - Escribiendo historial market-value del jugador 644 (122 values)
+[12:15:48.159] INFO - Jugador 644 almacenado correctamente
+[12:15:48.391] ERROR - Jugador 650 [out_of_league]
+[12:15:48.401] INFO - Escribiendo historial market-value del jugador 645 (122 values)
+[12:15:48.403] INFO - Jugador 645 almacenado correctamente
+[12:15:48.418] ERROR - Jugador 653 [NO ENCONTRADO]
+[12:15:48.445] ERROR - Jugador 654 [NO ENCONTRADO]
+[12:15:48.549] ERROR - Jugador 655 [NO ENCONTRADO]
+[12:15:48.675] INFO - Escribiendo historial market-value del jugador 649 (122 values)
+[12:15:48.677] INFO - Jugador 649 almacenado correctamente
+[12:15:48.793] ERROR - Jugador 656 [NO ENCONTRADO]
+[12:15:48.899] ERROR - Jugador 658 [NO ENCONTRADO]
+[12:15:48.956] ERROR - Jugador 660 [NO ENCONTRADO]
+[12:15:49.027] ERROR - Jugador 659 [NO ENCONTRADO]
+[12:15:49.050] ERROR - Jugador 657 [NO ENCONTRADO]
+[12:15:49.055] INFO - Escribiendo historial market-value del jugador 651 (122 values)
+[12:15:49.055] INFO - Jugador 651 almacenado correctamente
+[12:15:49.090] INFO - Escribiendo historial market-value del jugador 652 (79 values)
+[12:15:49.091] INFO - Jugador 652 almacenado correctamente
+[12:15:49.151] ERROR - Jugador 661 [NO ENCONTRADO]
+[12:15:49.183] ERROR - Jugador 662 [NO ENCONTRADO]
+[12:15:49.329] ERROR - Jugador 663 [NO ENCONTRADO]
+[12:15:49.366] ERROR - Jugador 664 [out_of_league]
+[12:15:49.486] ERROR - Jugador 667 [NO ENCONTRADO]
+[12:15:49.515] ERROR - Jugador 668 [NO ENCONTRADO]
+[12:15:49.568] ERROR - Jugador 669 [NO ENCONTRADO]
+[12:15:49.595] ERROR - Jugador 670 [NO ENCONTRADO]
+[12:15:49.738] ERROR - Jugador 671 [NO ENCONTRADO]
+[12:15:49.783] ERROR - Jugador 672 [NO ENCONTRADO]
+[12:15:49.906] ERROR - Jugador 674 [NO ENCONTRADO]
+[12:15:50.020] INFO - Escribiendo historial market-value del jugador 665 (122 values)
+[12:15:50.023] INFO - Jugador 665 almacenado correctamente
+[12:15:50.029] ERROR - Jugador 676 [NO ENCONTRADO]
+[12:15:50.185] ERROR - Jugador 675 [out_of_league]
+[12:15:50.201] ERROR - Jugador 678 [NO ENCONTRADO]
+[12:15:50.282] ERROR - Jugador 677 [NO ENCONTRADO]
+[12:15:50.301] ERROR - Jugador 679 [NO ENCONTRADO]
+[12:15:50.389] INFO - Escribiendo historial market-value del jugador 666 (120 values)
+[12:15:50.390] INFO - Jugador 666 almacenado correctamente
+[12:15:50.436] INFO - Escribiendo historial market-value del jugador 673 (122 values)
+[12:15:50.438] INFO - Jugador 673 almacenado correctamente
+[12:15:50.461] ERROR - Jugador 681 [out_of_league]
+[12:15:50.597] ERROR - Jugador 682 [NO ENCONTRADO]
+[12:15:50.699] ERROR - Jugador 684 [NO ENCONTRADO]
+[12:15:50.722] ERROR - Jugador 685 [NO ENCONTRADO]
+[12:15:50.815] ERROR - Jugador 686 [NO ENCONTRADO]
+[12:15:50.856] ERROR - Jugador 687 [NO ENCONTRADO]
+[12:15:50.907] INFO - Escribiendo historial market-value del jugador 680 (122 values)
+[12:15:50.914] INFO - Jugador 680 almacenado correctamente
+[12:15:50.921] ERROR - Jugador 688 [NO ENCONTRADO]
+[12:15:51.006] ERROR - Jugador 689 [NO ENCONTRADO]
+[12:15:51.060] INFO - Escribiendo historial market-value del jugador 683 (122 values)
+[12:15:51.061] INFO - Jugador 683 almacenado correctamente
+[12:15:51.100] ERROR - Jugador 690 [NO ENCONTRADO]
+[12:15:51.161] ERROR - Jugador 691 [NO ENCONTRADO]
+[12:15:51.230] ERROR - Jugador 692 [NO ENCONTRADO]
+[12:15:51.351] ERROR - Jugador 694 [NO ENCONTRADO]
+[12:15:51.355] ERROR - Jugador 695 [NO ENCONTRADO]
+[12:15:51.411] ERROR - Jugador 696 [NO ENCONTRADO]
+[12:15:51.456] ERROR - Jugador 697 [NO ENCONTRADO]
+[12:15:51.505] ERROR - Jugador 698 [NO ENCONTRADO]
+[12:15:51.564] ERROR - Jugador 699 [NO ENCONTRADO]
+[12:15:51.653] ERROR - Jugador 693 [NO ENCONTRADO]
+[12:15:51.672] ERROR - Jugador 700 [NO ENCONTRADO]
+[12:15:51.800] ERROR - Jugador 702 [NO ENCONTRADO]
+[12:15:51.829] ERROR - Jugador 703 [NO ENCONTRADO]
+[12:15:51.855] ERROR - Jugador 704 [out_of_league]
+[12:15:51.907] ERROR - Jugador 705 [NO ENCONTRADO]
+[12:15:51.974] ERROR - Jugador 706 [NO ENCONTRADO]
+[12:15:52.125] ERROR - Jugador 707 [NO ENCONTRADO]
+[12:15:52.136] ERROR - Jugador 708 [NO ENCONTRADO]
+[12:15:52.246] INFO - Escribiendo historial market-value del jugador 701 (122 values)
+[12:15:52.249] INFO - Jugador 701 almacenado correctamente
+[12:15:52.250] ERROR - Jugador 709 [NO ENCONTRADO]
+[12:15:52.274] ERROR - Jugador 710 [NO ENCONTRADO]
+[12:15:52.301] ERROR - Jugador 711 [NO ENCONTRADO]
+[12:15:52.321] ERROR - Jugador 712 [NO ENCONTRADO]
+[12:15:52.375] ERROR - Jugador 713 [NO ENCONTRADO]
+[12:15:52.571] ERROR - Jugador 715 [out_of_league]
+[12:15:52.661] ERROR - Jugador 716 [NO ENCONTRADO]
+[12:15:52.693] ERROR - Jugador 717 [NO ENCONTRADO]
+[12:15:52.700] ERROR - Jugador 718 [NO ENCONTRADO]
+[12:15:52.704] ERROR - Jugador 714 [NO ENCONTRADO]
+[12:15:52.712] ERROR - Jugador 719 [NO ENCONTRADO]
+[12:15:52.779] ERROR - Jugador 721 [NO ENCONTRADO]
+[12:15:52.981] ERROR - Jugador 720 [NO ENCONTRADO]
+[12:15:52.985] ERROR - Jugador 722 [NO ENCONTRADO]
+[12:15:53.043] ERROR - Jugador 723 [NO ENCONTRADO]
+[12:15:53.180] ERROR - Jugador 725 [NO ENCONTRADO]
+[12:15:53.188] ERROR - Jugador 726 [NO ENCONTRADO]
+[12:15:53.197] ERROR - Jugador 724 [NO ENCONTRADO]
+[12:15:53.208] ERROR - Jugador 727 [NO ENCONTRADO]
+[12:15:53.217] ERROR - Jugador 728 [NO ENCONTRADO]
+[12:15:53.494] ERROR - Jugador 730 [NO ENCONTRADO]
+[12:15:53.503] ERROR - Jugador 731 [NO ENCONTRADO]
+[12:15:53.607] ERROR - Jugador 732 [NO ENCONTRADO]
+[12:15:53.645] ERROR - Jugador 729 [NO ENCONTRADO]
+[12:15:53.664] ERROR - Jugador 736 [NO ENCONTRADO]
+[12:15:53.686] ERROR - Jugador 734 [NO ENCONTRADO]
+[12:15:53.711] ERROR - Jugador 733 [NO ENCONTRADO]
+[12:15:53.717] ERROR - Jugador 735 [NO ENCONTRADO]
+[12:15:53.943] ERROR - Jugador 737 [NO ENCONTRADO]
+[12:15:53.974] ERROR - Jugador 738 [NO ENCONTRADO]
+[12:15:54.009] ERROR - Jugador 739 [NO ENCONTRADO]
+[12:15:54.038] ERROR - Jugador 740 [NO ENCONTRADO]
+[12:15:54.075] ERROR - Jugador 741 [NO ENCONTRADO]
+[12:15:54.179] ERROR - Jugador 743 [NO ENCONTRADO]
+[12:15:54.183] ERROR - Jugador 744 [NO ENCONTRADO]
+[12:15:54.339] ERROR - Jugador 745 [NO ENCONTRADO]
+[12:15:54.391] ERROR - Jugador 746 [NO ENCONTRADO]
+[12:15:54.458] ERROR - Jugador 748 [NO ENCONTRADO]
+[12:15:54.463] ERROR - Jugador 747 [NO ENCONTRADO]
+[12:15:54.490] ERROR - Jugador 749 [NO ENCONTRADO]
+[12:15:54.613] ERROR - Jugador 750 [NO ENCONTRADO]
+[12:15:54.619] ERROR - Jugador 751 [NO ENCONTRADO]
+[12:15:54.649] INFO - Escribiendo historial market-value del jugador 742 (122 values)
+[12:15:54.651] INFO - Jugador 742 almacenado correctamente
+[12:15:54.822] ERROR - Jugador 753 [NO ENCONTRADO]
+[12:15:54.871] ERROR - Jugador 752 [NO ENCONTRADO]
+[12:15:54.908] ERROR - Jugador 755 [NO ENCONTRADO]
+[12:15:54.910] ERROR - Jugador 754 [NO ENCONTRADO]
+[12:15:54.937] ERROR - Jugador 756 [NO ENCONTRADO]
+[12:15:55.081] ERROR - Jugador 758 [NO ENCONTRADO]
+[12:15:55.096] ERROR - Jugador 759 [NO ENCONTRADO]
+[12:15:55.120] ERROR - Jugador 757 [NO ENCONTRADO]
+[12:15:55.238] ERROR - Jugador 760 [NO ENCONTRADO]
+[12:15:55.289] ERROR - Jugador 761 [NO ENCONTRADO]
+[12:15:55.354] ERROR - Jugador 762 [NO ENCONTRADO]
+[12:15:55.394] ERROR - Jugador 763 [NO ENCONTRADO]
+[12:15:55.400] ERROR - Jugador 764 [NO ENCONTRADO]
+[12:15:55.565] ERROR - Jugador 765 [NO ENCONTRADO]
+[12:15:55.582] ERROR - Jugador 767 [NO ENCONTRADO]
+[12:15:55.674] ERROR - Jugador 769 [NO ENCONTRADO]
+[12:15:55.812] ERROR - Jugador 770 [NO ENCONTRADO]
+[12:15:55.857] ERROR - Jugador 771 [NO ENCONTRADO]
+[12:15:55.861] ERROR - Jugador 772 [NO ENCONTRADO]
+[12:15:56.028] ERROR - Jugador 773 [NO ENCONTRADO]
+[12:15:56.043] ERROR - Jugador 774 [NO ENCONTRADO]
+[12:15:56.118] ERROR - Jugador 775 [out_of_league]
+[12:15:56.242] INFO - Escribiendo historial market-value del jugador 766 (122 values)
+[12:15:56.244] INFO - Jugador 766 almacenado correctamente
+[12:15:56.274] ERROR - Jugador 776 [NO ENCONTRADO]
+[12:15:56.279] INFO - Escribiendo historial market-value del jugador 768 (122 values)
+[12:15:56.281] INFO - Jugador 768 almacenado correctamente
+[12:15:56.321] ERROR - Jugador 778 [NO ENCONTRADO]
+[12:15:56.329] ERROR - Jugador 777 [NO ENCONTRADO]
+[12:15:56.497] ERROR - Jugador 779 [NO ENCONTRADO]
+[12:15:56.568] ERROR - Jugador 781 [NO ENCONTRADO]
+[12:15:56.666] ERROR - Jugador 780 [NO ENCONTRADO]
+[12:15:56.677] ERROR - Jugador 782 [NO ENCONTRADO]
+[12:15:56.762] ERROR - Jugador 784 [NO ENCONTRADO]
+[12:15:56.788] ERROR - Jugador 785 [NO ENCONTRADO]
+[12:15:56.871] ERROR - Jugador 783 [NO ENCONTRADO]
+[12:15:56.914] ERROR - Jugador 787 [NO ENCONTRADO]
+[12:15:57.000] ERROR - Jugador 788 [NO ENCONTRADO]
+[12:15:57.058] ERROR - Jugador 789 [NO ENCONTRADO]
+[12:15:57.112] ERROR - Jugador 790 [NO ENCONTRADO]
+[12:15:57.212] ERROR - Jugador 792 [NO ENCONTRADO]
+[12:15:57.237] INFO - Escribiendo historial market-value del jugador 786 (122 values)
+[12:15:57.239] INFO - Jugador 786 almacenado correctamente
+[12:15:57.254] ERROR - Jugador 791 [NO ENCONTRADO]
+[12:15:57.316] ERROR - Jugador 793 [NO ENCONTRADO]
+[12:15:57.334] ERROR - Jugador 794 [NO ENCONTRADO]
+[12:15:57.446] ERROR - Jugador 795 [NO ENCONTRADO]
+[12:15:57.482] ERROR - Jugador 796 [NO ENCONTRADO]
+[12:15:57.614] ERROR - Jugador 798 [NO ENCONTRADO]
+[12:15:57.682] ERROR - Jugador 799 [NO ENCONTRADO]
+[12:15:57.685] ERROR - Jugador 797 [NO ENCONTRADO]
+[12:15:57.698] ERROR - Jugador 800 [NO ENCONTRADO]
+[12:15:57.746] ERROR - Jugador 802 [NO ENCONTRADO]
+[12:15:57.853] ERROR - Jugador 803 [NO ENCONTRADO]
+[12:15:57.959] ERROR - Jugador 804 [NO ENCONTRADO]
+[12:15:58.021] ERROR - Jugador 805 [NO ENCONTRADO]
+[12:15:58.163] ERROR - Jugador 808 [NO ENCONTRADO]
+[12:15:58.167] ERROR - Jugador 806 [NO ENCONTRADO]
+[12:15:58.186] ERROR - Jugador 807 [NO ENCONTRADO]
+[12:15:58.225] ERROR - Jugador 809 [NO ENCONTRADO]
+[12:15:58.239] INFO - Escribiendo historial market-value del jugador 801 (122 values)
+[12:15:58.240] INFO - Jugador 801 almacenado correctamente
+[12:15:58.270] ERROR - Jugador 810 [NO ENCONTRADO]
+[12:15:58.439] ERROR - Jugador 811 [NO ENCONTRADO]
+[12:15:58.593] ERROR - Jugador 813 [NO ENCONTRADO]
+[12:15:58.597] ERROR - Jugador 814 [NO ENCONTRADO]
+[12:15:58.622] ERROR - Jugador 815 [NO ENCONTRADO]
+[12:15:58.628] ERROR - Jugador 812 [NO ENCONTRADO]
+[12:15:58.696] ERROR - Jugador 816 [NO ENCONTRADO]
+[12:15:58.704] ERROR - Jugador 818 [NO ENCONTRADO]
+[12:15:58.716] ERROR - Jugador 817 [NO ENCONTRADO]
+[12:15:59.033] ERROR - Jugador 819 [NO ENCONTRADO]
+[12:15:59.045] ERROR - Jugador 820 [NO ENCONTRADO]
+[12:15:59.080] ERROR - Jugador 821 [NO ENCONTRADO]
+[12:15:59.103] ERROR - Jugador 823 [NO ENCONTRADO]
+[12:15:59.149] ERROR - Jugador 825 [NO ENCONTRADO]
+[12:15:59.156] ERROR - Jugador 826 [NO ENCONTRADO]
+[12:15:59.163] ERROR - Jugador 824 [NO ENCONTRADO]
+[12:15:59.222] ERROR - Jugador 822 [NO ENCONTRADO]
+[12:15:59.462] ERROR - Jugador 827 [NO ENCONTRADO]
+[12:15:59.465] ERROR - Jugador 828 [NO ENCONTRADO]
+[12:15:59.509] ERROR - Jugador 830 [NO ENCONTRADO]
+[12:15:59.515] ERROR - Jugador 829 [NO ENCONTRADO]
+[12:15:59.574] ERROR - Jugador 831 [NO ENCONTRADO]
+[12:15:59.596] ERROR - Jugador 832 [NO ENCONTRADO]
+[12:15:59.600] ERROR - Jugador 833 [NO ENCONTRADO]
+[12:15:59.648] ERROR - Jugador 834 [NO ENCONTRADO]
+[12:15:59.910] ERROR - Jugador 836 [NO ENCONTRADO]
+[12:15:59.915] ERROR - Jugador 835 [NO ENCONTRADO]
+[12:15:59.934] ERROR - Jugador 837 [NO ENCONTRADO]
+[12:15:59.979] ERROR - Jugador 839 [NO ENCONTRADO]
+[12:16:00.019] ERROR - Jugador 841 [NO ENCONTRADO]
+[12:16:00.025] ERROR - Jugador 840 [NO ENCONTRADO]
+[12:16:00.066] ERROR - Jugador 842 [NO ENCONTRADO]
+[12:16:00.070] ERROR - Jugador 838 [NO ENCONTRADO]
+[12:16:00.344] ERROR - Jugador 844 [NO ENCONTRADO]
+[12:16:00.347] ERROR - Jugador 843 [NO ENCONTRADO]
+[12:16:00.364] ERROR - Jugador 845 [NO ENCONTRADO]
+[12:16:00.371] ERROR - Jugador 846 [NO ENCONTRADO]
+[12:16:00.405] ERROR - Jugador 847 [NO ENCONTRADO]
+[12:16:00.456] ERROR - Jugador 849 [NO ENCONTRADO]
+[12:16:00.599] ERROR - Jugador 848 [NO ENCONTRADO]
+[12:16:00.768] ERROR - Jugador 851 [NO ENCONTRADO]
+[12:16:00.797] ERROR - Jugador 852 [NO ENCONTRADO]
+[12:16:00.846] ERROR - Jugador 854 [NO ENCONTRADO]
+[12:16:00.855] ERROR - Jugador 855 [out_of_league]
+[12:16:01.036] ERROR - Jugador 857 [NO ENCONTRADO]
+[12:16:01.045] INFO - Escribiendo historial market-value del jugador 850 (122 values)
+[12:16:01.047] INFO - Jugador 850 almacenado correctamente
+[12:16:01.194] ERROR - Jugador 858 [NO ENCONTRADO]
+[12:16:01.314] ERROR - Jugador 860 [NO ENCONTRADO]
+[12:16:01.319] ERROR - Jugador 861 [NO ENCONTRADO]
+[12:16:01.332] INFO - Escribiendo historial market-value del jugador 853 (122 values)
+[12:16:01.335] INFO - Jugador 853 almacenado correctamente
+[12:16:01.471] INFO - Escribiendo historial market-value del jugador 856 (122 values)
+[12:16:01.473] INFO - Jugador 856 almacenado correctamente
+[12:16:01.487] ERROR - Jugador 863 [NO ENCONTRADO]
+[12:16:01.579] ERROR - Jugador 862 [NO ENCONTRADO]
+[12:16:01.589] ERROR - Jugador 864 [NO ENCONTRADO]
+[12:16:01.623] INFO - Escribiendo historial market-value del jugador 859 (122 values)
+[12:16:01.626] INFO - Jugador 859 almacenado correctamente
+[12:16:01.741] ERROR - Jugador 865 [NO ENCONTRADO]
+[12:16:01.745] ERROR - Jugador 866 [NO ENCONTRADO]
+[12:16:01.788] ERROR - Jugador 867 [NO ENCONTRADO]
+[12:16:01.893] ERROR - Jugador 868 [NO ENCONTRADO]
+[12:16:01.900] ERROR - Jugador 869 [NO ENCONTRADO]
+[12:16:02.033] ERROR - Jugador 871 [NO ENCONTRADO]
+[12:16:02.051] ERROR - Jugador 872 [NO ENCONTRADO]
+[12:16:02.168] ERROR - Jugador 870 [NO ENCONTRADO]
+[12:16:02.225] ERROR - Jugador 875 [NO ENCONTRADO]
+[12:16:02.323] ERROR - Jugador 877 [NO ENCONTRADO]
+[12:16:02.454] ERROR - Jugador 878 [NO ENCONTRADO]
+[12:16:02.474] ERROR - Jugador 879 [NO ENCONTRADO]
+[12:16:02.565] ERROR - Jugador 880 [NO ENCONTRADO]
+[12:16:02.612] INFO - Escribiendo historial market-value del jugador 873 (122 values)
+[12:16:02.615] INFO - Jugador 873 almacenado correctamente
+[12:16:02.648] ERROR - Jugador 881 [NO ENCONTRADO]
+[12:16:02.742] INFO - Escribiendo historial market-value del jugador 874 (79 values)
+[12:16:02.743] INFO - Jugador 874 almacenado correctamente
+[12:16:02.863] INFO - Escribiendo historial market-value del jugador 876 (122 values)
+[12:16:02.866] INFO - Jugador 876 almacenado correctamente
+[12:16:02.880] ERROR - Jugador 883 [NO ENCONTRADO]
+[12:16:02.886] ERROR - Jugador 884 [NO ENCONTRADO]
+[12:16:02.988] ERROR - Jugador 885 [NO ENCONTRADO]
+[12:16:03.057] ERROR - Jugador 887 [NO ENCONTRADO]
+[12:16:03.178] ERROR - Jugador 888 [NO ENCONTRADO]
+[12:16:03.312] ERROR - Jugador 891 [NO ENCONTRADO]
+[12:16:03.325] ERROR - Jugador 890 [NO ENCONTRADO]
+[12:16:03.328] INFO - Escribiendo historial market-value del jugador 882 (122 values)
+[12:16:03.330] INFO - Jugador 882 almacenado correctamente
+[12:16:03.392] ERROR - Jugador 892 [NO ENCONTRADO]
+[12:16:03.492] ERROR - Jugador 893 [NO ENCONTRADO]
+[12:16:03.583] INFO - Escribiendo historial market-value del jugador 886 (122 values)
+[12:16:03.586] INFO - Jugador 886 almacenado correctamente
+[12:16:03.721] ERROR - Jugador 895 [NO ENCONTRADO]
+[12:16:03.751] ERROR - Jugador 896 [NO ENCONTRADO]
+[12:16:03.784] ERROR - Jugador 897 [NO ENCONTRADO]
+[12:16:03.931] INFO - Escribiendo historial market-value del jugador 889 (122 values)
+[12:16:03.933] INFO - Jugador 889 almacenado correctamente
+[12:16:03.953] ERROR - Jugador 899 [NO ENCONTRADO]
+[12:16:04.013] ERROR - Jugador 900 [NO ENCONTRADO]
+[12:16:04.137] ERROR - Jugador 902 [NO ENCONTRADO]
+[12:16:04.187] INFO - Escribiendo historial market-value del jugador 894 (84 values)
+[12:16:04.189] INFO - Jugador 894 almacenado correctamente
+[12:16:04.242] ERROR - Jugador 903 [NO ENCONTRADO]
+[12:16:04.355] ERROR - Jugador 904 [NO ENCONTRADO]
+[12:16:04.381] ERROR - Jugador 905 [out_of_league]
+[12:16:04.416] INFO - Escribiendo historial market-value del jugador 898 (77 values)
+[12:16:04.418] INFO - Jugador 898 almacenado correctamente
+[12:16:04.561] ERROR - Jugador 907 [NO ENCONTRADO]
+[12:16:04.569] ERROR - Jugador 906 [NO ENCONTRADO]
+[12:16:04.641] INFO - Escribiendo historial market-value del jugador 901 (122 values)
+[12:16:04.643] INFO - Jugador 901 almacenado correctamente
+[12:16:04.655] ERROR - Jugador 909 [NO ENCONTRADO]
+[12:16:04.788] ERROR - Jugador 910 [NO ENCONTRADO]
+[12:16:04.807] ERROR - Jugador 911 [NO ENCONTRADO]
+[12:16:04.882] ERROR - Jugador 912 [out_of_league]
+[12:16:04.988] ERROR - Jugador 913 [NO ENCONTRADO]
+[12:16:05.035] ERROR - Jugador 914 [NO ENCONTRADO]
+[12:16:05.075] INFO - Escribiendo historial market-value del jugador 908 (122 values)
+[12:16:05.080] INFO - Jugador 908 almacenado correctamente
+[12:16:05.100] ERROR - Jugador 915 [NO ENCONTRADO]
+[12:16:05.108] ERROR - Jugador 916 [NO ENCONTRADO]
+[12:16:05.334] ERROR - Jugador 919 [NO ENCONTRADO]
+[12:16:05.399] ERROR - Jugador 920 [NO ENCONTRADO]
+[12:16:05.425] ERROR - Jugador 921 [NO ENCONTRADO]
+[12:16:05.448] ERROR - Jugador 917 [NO ENCONTRADO]
+[12:16:05.533] ERROR - Jugador 923 [NO ENCONTRADO]
+[12:16:05.545] ERROR - Jugador 924 [NO ENCONTRADO]
+[12:16:05.753] ERROR - Jugador 925 [NO ENCONTRADO]
+[12:16:05.797] ERROR - Jugador 926 [NO ENCONTRADO]
+[12:16:05.829] INFO - Escribiendo historial market-value del jugador 918 (120 values)
+[12:16:05.832] INFO - Jugador 918 almacenado correctamente
+[12:16:05.861] ERROR - Jugador 928 [NO ENCONTRADO]
+[12:16:05.969] ERROR - Jugador 930 [NO ENCONTRADO]
+[12:16:05.973] ERROR - Jugador 929 [NO ENCONTRADO]
+[12:16:05.974] ERROR - Jugador 922 [NO ENCONTRADO]
+[12:16:06.157] ERROR - Jugador 931 [NO ENCONTRADO]
+[12:16:06.264] ERROR - Jugador 933 [NO ENCONTRADO]
+[12:16:06.319] ERROR - Jugador 934 [NO ENCONTRADO]
+[12:16:06.410] ERROR - Jugador 936 [NO ENCONTRADO]
+[12:16:06.418] INFO - Escribiendo historial market-value del jugador 927 (91 values)
+[12:16:06.419] INFO - Jugador 927 almacenado correctamente
+[12:16:06.425] ERROR - Jugador 937 [NO ENCONTRADO]
+[12:16:06.426] ERROR - Jugador 935 [NO ENCONTRADO]
+[12:16:06.613] ERROR - Jugador 932 [NO ENCONTRADO]
+[12:16:06.788] ERROR - Jugador 940 [NO ENCONTRADO]
+[12:16:06.832] ERROR - Jugador 941 [NO ENCONTRADO]
+[12:16:06.838] ERROR - Jugador 938 [NO ENCONTRADO]
+[12:16:06.959] ERROR - Jugador 943 [NO ENCONTRADO]
+[12:16:07.041] ERROR - Jugador 945 [NO ENCONTRADO]
+[12:16:07.196] ERROR - Jugador 946 [NO ENCONTRADO]
+[12:16:07.274] ERROR - Jugador 948 [NO ENCONTRADO]
+[12:16:07.300] INFO - Escribiendo historial market-value del jugador 944 (122 values)
+[12:16:07.300] INFO - Jugador 944 almacenado correctamente
+[12:16:07.383] ERROR - Jugador 949 [NO ENCONTRADO]
+[12:16:07.427] INFO - Escribiendo historial market-value del jugador 939 (120 values)
+[12:16:07.427] INFO - Jugador 939 almacenado correctamente
+[12:16:07.462] INFO - Escribiendo historial market-value del jugador 942 (122 values)
+[12:16:07.464] INFO - Jugador 942 almacenado correctamente
+[12:16:07.479] ERROR - Jugador 950 [NO ENCONTRADO]
+[12:16:07.620] ERROR - Jugador 951 [NO ENCONTRADO]
+[12:16:08.039] ERROR - Jugador 958 [NO ENCONTRADO]
+[12:16:08.244] ERROR - Jugador 957 [NO ENCONTRADO]
+[12:16:08.521] ERROR - Jugador 959 [NO ENCONTRADO]
+[12:16:08.624] ERROR - Jugador 960 [NO ENCONTRADO]
+[12:16:08.934] ERROR - Jugador 961 [NO ENCONTRADO]
+[12:16:09.003] ERROR - Jugador 962 [NO ENCONTRADO]
+[12:16:09.328] ERROR - Jugador 963 [NO ENCONTRADO]
+[12:16:09.651] ERROR - Jugador 964 [NO ENCONTRADO]
+[12:16:09.714] ERROR - Jugador 965 [NO ENCONTRADO]
+[12:16:10.035] ERROR - Jugador 966 [NO ENCONTRADO]
+[12:16:10.240] ERROR - Jugador 967 [NO ENCONTRADO]
+[12:16:10.418] ERROR - Jugador 968 [NO ENCONTRADO]
+[12:16:10.636] ERROR - Jugador 969 [NO ENCONTRADO]
+[12:16:10.810] ERROR - Jugador 970 [NO ENCONTRADO]
+[12:16:11.026] ERROR - Jugador 971 [NO ENCONTRADO]
+[12:16:11.200] ERROR - Jugador 972 [NO ENCONTRADO]
+[12:16:11.578] ERROR - Jugador 973 [out_of_league]
+[12:16:11.601] ERROR - Jugador 974 [NO ENCONTRADO]
+[12:16:11.997] ERROR - Jugador 976 [NO ENCONTRADO]
+[12:16:12.221] ERROR - Jugador 947 [NO ENCONTRADO]
+[12:16:12.386] ERROR - Jugador 977 [NO ENCONTRADO]
+[12:16:12.662] ERROR - Jugador 978 [out_of_league]
+[12:16:12.699] ERROR - Jugador 953 [NO ENCONTRADO]
+[12:16:12.725] ERROR - Jugador 975 [NO ENCONTRADO]
+[12:16:12.771] ERROR - Jugador 952 [NO ENCONTRADO]
+[12:16:12.814] ERROR - Jugador 954 [NO ENCONTRADO]
+[12:16:12.831] ERROR - Jugador 955 [NO ENCONTRADO]
+[12:16:12.976] ERROR - Jugador 979 [NO ENCONTRADO]
+[12:16:13.028] ERROR - Jugador 956 [NO ENCONTRADO]
+[12:16:13.109] ERROR - Jugador 982 [NO ENCONTRADO]
+[12:16:13.114] ERROR - Jugador 981 [NO ENCONTRADO]
+[12:16:13.175] ERROR - Jugador 983 [NO ENCONTRADO]
+[12:16:13.239] ERROR - Jugador 984 [NO ENCONTRADO]
+[12:16:13.248] ERROR - Jugador 985 [NO ENCONTRADO]
+[12:16:13.382] ERROR - Jugador 986 [NO ENCONTRADO]
+[12:16:13.473] ERROR - Jugador 987 [NO ENCONTRADO]
+[12:16:13.555] ERROR - Jugador 989 [NO ENCONTRADO]
+[12:16:13.578] ERROR - Jugador 990 [NO ENCONTRADO]
+[12:16:13.660] ERROR - Jugador 992 [NO ENCONTRADO]
+[12:16:13.688] INFO - Escribiendo historial market-value del jugador 980 (74 values)
+[12:16:13.690] INFO - Jugador 980 almacenado correctamente
+[12:16:13.807] ERROR - Jugador 993 [NO ENCONTRADO]
+[12:16:13.887] ERROR - Jugador 994 [NO ENCONTRADO]
+[12:16:14.015] ERROR - Jugador 996 [out_of_league]
+[12:16:14.122] ERROR - Jugador 997 [NO ENCONTRADO]
+[12:16:14.136] ERROR - Jugador 998 [NO ENCONTRADO]
+[12:16:14.139] INFO - Escribiendo historial market-value del jugador 991 (122 values)
+[12:16:14.142] INFO - Escribiendo historial market-value del jugador 988 (122 values)
+[12:16:14.144] INFO - Jugador 991 almacenado correctamente
+[12:16:14.145] INFO - Jugador 988 almacenado correctamente
+[12:16:14.209] ERROR - Jugador 999 [NO ENCONTRADO]
+[12:16:14.345] ERROR - Jugador 1000 [NO ENCONTRADO]
+[12:16:14.451] ERROR - Jugador 1001 [NO ENCONTRADO]
+[12:16:14.579] ERROR - Jugador 1002 [NO ENCONTRADO]
+[12:16:14.598] INFO - Escribiendo historial market-value del jugador 995 (122 values)
+[12:16:14.599] INFO - Jugador 995 almacenado correctamente
+[12:16:14.630] ERROR - Jugador 1005 [NO ENCONTRADO]
+[12:16:14.641] ERROR - Jugador 1004 [out_of_league]
+[12:16:14.647] ERROR - Jugador 1006 [NO ENCONTRADO]
+[12:16:14.726] ERROR - Jugador 1003 [NO ENCONTRADO]
+[12:16:14.790] ERROR - Jugador 1007 [NO ENCONTRADO]
+[12:16:14.879] ERROR - Jugador 1008 [NO ENCONTRADO]
+[12:16:15.014] ERROR - Jugador 1009 [NO ENCONTRADO]
+[12:16:15.070] ERROR - Jugador 1011 [NO ENCONTRADO]
+[12:16:15.102] ERROR - Jugador 1012 [NO ENCONTRADO]
+[12:16:15.135] ERROR - Jugador 1014 [NO ENCONTRADO]
+[12:16:15.188] ERROR - Jugador 1015 [NO ENCONTRADO]
+[12:16:15.240] ERROR - Jugador 1013 [NO ENCONTRADO]
+[12:16:15.306] ERROR - Jugador 1016 [NO ENCONTRADO]
+[12:16:15.417] ERROR - Jugador 1017 [NO ENCONTRADO]
+[12:16:15.456] INFO - Escribiendo historial market-value del jugador 1010 (122 values)
+[12:16:15.459] INFO - Jugador 1010 almacenado correctamente
+[12:16:15.491] ERROR - Jugador 1018 [NO ENCONTRADO]
+[12:16:15.549] ERROR - Jugador 1019 [NO ENCONTRADO]
+[12:16:15.560] ERROR - Jugador 1020 [NO ENCONTRADO]
+[12:16:15.729] ERROR - Jugador 1021 [NO ENCONTRADO]
+[12:16:15.729] ERROR - Jugador 1023 [NO ENCONTRADO]
+[12:16:15.916] ERROR - Jugador 1026 [NO ENCONTRADO]
+[12:16:15.992] ERROR - Jugador 1028 [NO ENCONTRADO]
+[12:16:16.010] ERROR - Jugador 1027 [NO ENCONTRADO]
+[12:16:16.071] INFO - Escribiendo historial market-value del jugador 1022 (122 values)
+[12:16:16.073] INFO - Jugador 1022 almacenado correctamente
+[12:16:16.194] ERROR - Jugador 1030 [NO ENCONTRADO]
+[12:16:16.404] INFO - Escribiendo historial market-value del jugador 1025 (77 values)
+[12:16:16.407] INFO - Jugador 1025 almacenado correctamente
+[12:16:16.504] ERROR - Jugador 1034 [NO ENCONTRADO]
+[12:16:16.627] INFO - Escribiendo historial market-value del jugador 1029 (122 values)
+[12:16:16.629] INFO - Escribiendo historial market-value del jugador 1024 (122 values)
+[12:16:16.631] INFO - Jugador 1024 almacenado correctamente
+[12:16:16.633] INFO - Jugador 1029 almacenado correctamente
+[12:16:16.647] ERROR - Jugador 1035 [NO ENCONTRADO]
+[12:16:16.750] INFO - Escribiendo historial market-value del jugador 1031 (122 values)
+[12:16:16.752] INFO - Jugador 1031 almacenado correctamente
+[12:16:16.849] ERROR - Jugador 1036 [NO ENCONTRADO]
+[12:16:16.940] INFO - Escribiendo historial market-value del jugador 1032 (122 values)
+[12:16:16.943] INFO - Jugador 1032 almacenado correctamente
+[12:16:16.967] ERROR - Jugador 1037 [NO ENCONTRADO]
+[12:16:17.070] ERROR - Jugador 1039 [out_of_league]
+[12:16:17.080] INFO - Escribiendo historial market-value del jugador 1033 (122 values)
+[12:16:17.082] INFO - Jugador 1033 almacenado correctamente
+[12:16:17.100] ERROR - Jugador 1038 [NO ENCONTRADO]
+[12:16:17.166] ERROR - Jugador 1041 [NO ENCONTRADO]
+[12:16:17.233] ERROR - Jugador 1040 [NO ENCONTRADO]
+[12:16:17.272] ERROR - Jugador 1042 [out_of_league]
+[12:16:17.391] ERROR - Jugador 1044 [NO ENCONTRADO]
+[12:16:17.523] ERROR - Jugador 1045 [NO ENCONTRADO]
+[12:16:17.529] ERROR - Jugador 1047 [NO ENCONTRADO]
+[12:16:17.552] ERROR - Jugador 1043 [NO ENCONTRADO]
+[12:16:17.834] ERROR - Jugador 1051 [NO ENCONTRADO]
+[12:16:17.976] ERROR - Jugador 1053 [NO ENCONTRADO]
+[12:16:17.996] INFO - Escribiendo historial market-value del jugador 1046 (84 values)
+[12:16:17.997] INFO - Jugador 1046 almacenado correctamente
+[12:16:18.003] ERROR - Jugador 1052 [NO ENCONTRADO]
+[12:16:18.011] ERROR - Jugador 1054 [NO ENCONTRADO]
+[12:16:18.039] ERROR - Jugador 1048 [NO ENCONTRADO]
+[12:16:18.209] INFO - Escribiendo historial market-value del jugador 1049 (84 values)
+[12:16:18.210] INFO - Jugador 1049 almacenado correctamente
+[12:16:18.306] ERROR - Jugador 1055 [NO ENCONTRADO]
+[12:16:18.360] INFO - Escribiendo historial market-value del jugador 1050 (122 values)
+[12:16:18.362] INFO - Jugador 1050 almacenado correctamente
+[12:16:18.490] ERROR - Jugador 1057 [NO ENCONTRADO]
+[12:16:18.494] ERROR - Jugador 1058 [NO ENCONTRADO]
+[12:16:18.517] ERROR - Jugador 1059 [NO ENCONTRADO]
+[12:16:18.553] ERROR - Jugador 1060 [NO ENCONTRADO]
+[12:16:18.768] ERROR - Jugador 1062 [NO ENCONTRADO]
+[12:16:18.902] ERROR - Jugador 1065 [NO ENCONTRADO]
+[12:16:18.985] ERROR - Jugador 1066 [NO ENCONTRADO]
+[12:16:19.018] ERROR - Jugador 1067 [NO ENCONTRADO]
+[12:16:19.022] INFO - Escribiendo historial market-value del jugador 1056 (122 values)
+[12:16:19.024] INFO - Jugador 1056 almacenado correctamente
+[12:16:19.096] ERROR - Jugador 1064 [NO ENCONTRADO]
+[12:16:19.180] ERROR - Jugador 1068 [NO ENCONTRADO]
+[12:16:19.258] INFO - Escribiendo historial market-value del jugador 1063 (122 values)
+[12:16:19.260] INFO - Jugador 1063 almacenado correctamente
+[12:16:19.478] ERROR - Jugador 1071 [NO ENCONTRADO]
+[12:16:19.513] ERROR - Jugador 1073 [NO ENCONTRADO]
+[12:16:19.568] ERROR - Jugador 1074 [NO ENCONTRADO]
+[12:16:19.664] ERROR - Jugador 1075 [NO ENCONTRADO]
+[12:16:19.732] INFO - Escribiendo historial market-value del jugador 1069 (122 values)
+[12:16:19.734] INFO - Jugador 1069 almacenado correctamente
+[12:16:19.948] ERROR - Jugador 1077 [NO ENCONTRADO]
+[12:16:19.967] ERROR - Jugador 1076 [NO ENCONTRADO]
+[12:16:19.979] ERROR - Jugador 1061 [NO ENCONTRADO]
+[12:16:19.983] ERROR - Jugador 1078 [NO ENCONTRADO]
+[12:16:20.068] INFO - Escribiendo historial market-value del jugador 1072 (122 values)
+[12:16:20.071] INFO - Jugador 1072 almacenado correctamente
+[12:16:20.093] ERROR - Jugador 1079 [NO ENCONTRADO]
+[12:16:20.199] ERROR - Jugador 1080 [NO ENCONTRADO]
+[12:16:20.439] ERROR - Jugador 1083 [NO ENCONTRADO]
+[12:16:20.444] ERROR - Jugador 1082 [NO ENCONTRADO]
+[12:16:20.496] ERROR - Jugador 1084 [NO ENCONTRADO]
+[12:16:20.510] ERROR - Jugador 1086 [NO ENCONTRADO]
+[12:16:20.514] ERROR - Jugador 1085 [NO ENCONTRADO]
+[12:16:20.620] INFO - Escribiendo historial market-value del jugador 1070 (122 values)
+[12:16:20.622] INFO - Jugador 1070 almacenado correctamente
+[12:16:20.638] ERROR - Jugador 1087 [NO ENCONTRADO]
+[12:16:20.886] ERROR - Jugador 1089 [NO ENCONTRADO]
+[12:16:20.977] INFO - Escribiendo historial market-value del jugador 1081 (122 values)
+[12:16:20.979] INFO - Jugador 1081 almacenado correctamente
+[12:16:21.052] ERROR - Jugador 1093 [NO ENCONTRADO]
+[12:16:21.080] ERROR - Jugador 1094 [NO ENCONTRADO]
+[12:16:21.090] ERROR - Jugador 1092 [NO ENCONTRADO]
+[12:16:21.325] ERROR - Jugador 1095 [NO ENCONTRADO]
+[12:16:21.370] INFO - Escribiendo historial market-value del jugador 1088 (120 values)
+[12:16:21.373] INFO - Jugador 1088 almacenado correctamente
+[12:16:21.504] INFO - Escribiendo historial market-value del jugador 1090 (122 values)
+[12:16:21.506] INFO - Jugador 1090 almacenado correctamente
+[12:16:21.536] ERROR - Jugador 1098 [NO ENCONTRADO]
+[12:16:21.704] ERROR - Jugador 1099 [out_of_league]
+[12:16:21.771] ERROR - Jugador 1100 [out_of_league]
+[12:16:21.810] ERROR - Jugador 1101 [NO ENCONTRADO]
+[12:16:21.889] INFO - Escribiendo historial market-value del jugador 1091 (77 values)
+[12:16:21.891] INFO - Jugador 1091 almacenado correctamente
+[12:16:21.942] ERROR - Jugador 1102 [NO ENCONTRADO]
+[12:16:21.961] INFO - Escribiendo historial market-value del jugador 1096 (122 values)
+[12:16:21.962] INFO - Jugador 1096 almacenado correctamente
+[12:16:21.993] INFO - Escribiendo historial market-value del jugador 1097 (122 values)
+[12:16:21.995] INFO - Jugador 1097 almacenado correctamente
+[12:16:22.168] ERROR - Jugador 1104 [NO ENCONTRADO]
+[12:16:22.234] ERROR - Jugador 1105 [NO ENCONTRADO]
+[12:16:22.322] ERROR - Jugador 1108 [NO ENCONTRADO]
+[12:16:22.431] ERROR - Jugador 1109 [NO ENCONTRADO]
+[12:16:22.472] INFO - Escribiendo historial market-value del jugador 1103 (122 values)
+[12:16:22.475] INFO - Jugador 1103 almacenado correctamente
+[12:16:22.496] ERROR - Jugador 1110 [NO ENCONTRADO]
+[12:16:22.590] ERROR - Jugador 1111 [NO ENCONTRADO]
+[12:16:22.699] ERROR - Jugador 1112 [NO ENCONTRADO]
+[12:16:22.746] ERROR - Jugador 1113 [NO ENCONTRADO]
+[12:16:22.785] INFO - Escribiendo historial market-value del jugador 1107 (122 values)
+[12:16:22.787] INFO - Jugador 1107 almacenado correctamente
+[12:16:22.821] ERROR - Jugador 1114 [NO ENCONTRADO]
+[12:16:22.853] INFO - Escribiendo historial market-value del jugador 1106 (122 values)
+[12:16:22.855] INFO - Jugador 1106 almacenado correctamente
+[12:16:22.891] ERROR - Jugador 1115 [NO ENCONTRADO]
+[12:16:22.953] ERROR - Jugador 1116 [NO ENCONTRADO]
+[12:16:23.106] ERROR - Jugador 1117 [NO ENCONTRADO]
+[12:16:23.148] ERROR - Jugador 1119 [NO ENCONTRADO]
+[12:16:23.213] ERROR - Jugador 1120 [NO ENCONTRADO]
+[12:16:23.258] ERROR - Jugador 1122 [NO ENCONTRADO]
+[12:16:23.303] ERROR - Jugador 1118 [NO ENCONTRADO]
+[12:16:23.432] ERROR - Jugador 1124 [NO ENCONTRADO]
+[12:16:23.537] ERROR - Jugador 1125 [NO ENCONTRADO]
+[12:16:23.588] ERROR - Jugador 1126 [NO ENCONTRADO]
+[12:16:23.685] ERROR - Jugador 1128 [NO ENCONTRADO]
+[12:16:23.747] ERROR - Jugador 1127 [NO ENCONTRADO]
+[12:16:23.831] INFO - Escribiendo historial market-value del jugador 1121 (122 values)
+[12:16:23.833] INFO - Jugador 1121 almacenado correctamente
+[12:16:23.894] INFO - Escribiendo historial market-value del jugador 1123 (122 values)
+[12:16:23.896] INFO - Jugador 1123 almacenado correctamente
+[12:16:23.899] ERROR - Jugador 1129 [NO ENCONTRADO]
+[12:16:23.981] ERROR - Jugador 1131 [out_of_league]
+[12:16:24.253] ERROR - Jugador 1135 [NO ENCONTRADO]
+[12:16:24.317] ERROR - Jugador 1137 [NO ENCONTRADO]
+[12:16:24.343] ERROR - Jugador 1136 [NO ENCONTRADO]
+[12:16:24.413] INFO - Escribiendo historial market-value del jugador 1130 (79 values)
+[12:16:24.415] INFO - Jugador 1130 almacenado correctamente
+[12:16:24.423] ERROR - Jugador 1138 [NO ENCONTRADO]
+[12:16:24.670] ERROR - Jugador 1139 [NO ENCONTRADO]
+[12:16:24.686] INFO - Escribiendo historial market-value del jugador 1133 (122 values)
+[12:16:24.689] INFO - Jugador 1133 almacenado correctamente
+[12:16:24.713] INFO - Escribiendo historial market-value del jugador 1134 (122 values)
+[12:16:24.714] INFO - Jugador 1134 almacenado correctamente
+[12:16:24.748] ERROR - Jugador 1140 [NO ENCONTRADO]
+[12:16:24.762] ERROR - Jugador 1141 [NO ENCONTRADO]
+[12:16:24.827] ERROR - Jugador 1143 [NO ENCONTRADO]
+[12:16:24.874] ERROR - Jugador 1142 [NO ENCONTRADO]
+[12:16:25.091] ERROR - Jugador 1144 [NO ENCONTRADO]
+[12:16:25.143] ERROR - Jugador 1145 [NO ENCONTRADO]
+[12:16:25.231] INFO - Escribiendo historial market-value del jugador 1132 (122 values)
+[12:16:25.233] INFO - Jugador 1132 almacenado correctamente
+[12:16:25.294] ERROR - Jugador 1150 [NO ENCONTRADO]
+[12:16:25.349] ERROR - Jugador 1148 [NO ENCONTRADO]
+[12:16:25.382] ERROR - Jugador 1149 [NO ENCONTRADO]
+[12:16:25.491] ERROR - Jugador 1151 [NO ENCONTRADO]
+[12:16:25.590] INFO - Escribiendo historial market-value del jugador 1146 (122 values)
+[12:16:25.593] INFO - Jugador 1146 almacenado correctamente
+[12:16:25.632] ERROR - Jugador 1153 [NO ENCONTRADO]
+[12:16:25.706] ERROR - Jugador 1154 [NO ENCONTRADO]
+[12:16:25.768] INFO - Escribiendo historial market-value del jugador 1147 (122 values)
+[12:16:25.770] INFO - Jugador 1147 almacenado correctamente
+[12:16:25.838] ERROR - Jugador 1156 [NO ENCONTRADO]
+[12:16:26.012] ERROR - Jugador 1158 [NO ENCONTRADO]
+[12:16:26.060] ERROR - Jugador 1159 [NO ENCONTRADO]
+[12:16:26.093] ERROR - Jugador 1160 [NO ENCONTRADO]
+[12:16:26.169] ERROR - Jugador 1161 [NO ENCONTRADO]
+[12:16:26.409] INFO - Escribiendo historial market-value del jugador 1155 (122 values)
+[12:16:26.411] INFO - Jugador 1155 almacenado correctamente
+[12:16:26.440] ERROR - Jugador 1162 [NO ENCONTRADO]
+[12:16:26.466] INFO - Escribiendo historial market-value del jugador 1157 (122 values)
+[12:16:26.466] INFO - Jugador 1157 almacenado correctamente
+[12:16:26.476] ERROR - Jugador 1164 [NO ENCONTRADO]
+[12:16:26.549] ERROR - Jugador 1152 [NO ENCONTRADO]
+[12:16:26.828] ERROR - Jugador 1167 [NO ENCONTRADO]
+[12:16:26.926] INFO - Escribiendo historial market-value del jugador 1165 (122 values)
+[12:16:26.928] INFO - Jugador 1165 almacenado correctamente
+[12:16:26.962] ERROR - Jugador 1170 [NO ENCONTRADO]
+[12:16:26.969] ERROR - Jugador 1171 [NO ENCONTRADO]
+[12:16:27.018] INFO - Escribiendo historial market-value del jugador 1163 (122 values)
+[12:16:27.021] INFO - Jugador 1163 almacenado correctamente
+[12:16:27.151] INFO - Escribiendo historial market-value del jugador 1166 (122 values)
+[12:16:27.154] INFO - Jugador 1166 almacenado correctamente
+[12:16:27.247] ERROR - Jugador 1172 [NO ENCONTRADO]
+[12:16:27.340] ERROR - Jugador 1173 [NO ENCONTRADO]
+[12:16:27.385] ERROR - Jugador 1175 [NO ENCONTRADO]
+[12:16:27.422] INFO - Escribiendo historial market-value del jugador 1168 (120 values)
+[12:16:27.425] INFO - Jugador 1168 almacenado correctamente
+[12:16:27.438] ERROR - Jugador 1176 [NO ENCONTRADO]
+[12:16:27.522] INFO - Escribiendo historial market-value del jugador 1169 (120 values)
+[12:16:27.524] INFO - Jugador 1169 almacenado correctamente
+[12:16:27.664] ERROR - Jugador 1178 [NO ENCONTRADO]
+[12:16:27.792] ERROR - Jugador 1180 [NO ENCONTRADO]
+[12:16:27.805] ERROR - Jugador 1174 [NO ENCONTRADO]
+[12:16:27.834] ERROR - Jugador 1181 [NO ENCONTRADO]
+[12:16:27.870] ERROR - Jugador 1182 [NO ENCONTRADO]
+[12:16:28.156] INFO - Escribiendo historial market-value del jugador 1177 (122 values)
+[12:16:28.158] INFO - Jugador 1177 almacenado correctamente
+[12:16:28.242] ERROR - Jugador 1185 [NO ENCONTRADO]
+[12:16:28.264] ERROR - Jugador 1187 [out_of_league]
+[12:16:28.284] ERROR - Jugador 1188 [NO ENCONTRADO]
+[12:16:28.340] INFO - Escribiendo historial market-value del jugador 1179 (77 values)
+[12:16:28.342] INFO - Jugador 1179 almacenado correctamente
+[12:16:28.496] INFO - Escribiendo historial market-value del jugador 1183 (122 values)
+[12:16:28.498] INFO - Jugador 1183 almacenado correctamente
+[12:16:28.582] ERROR - Jugador 1189 [NO ENCONTRADO]
+[12:16:28.637] ERROR - Jugador 1190 [NO ENCONTRADO]
+[12:16:28.699] INFO - Escribiendo historial market-value del jugador 1184 (122 values)
+[12:16:28.701] INFO - Jugador 1184 almacenado correctamente
+[12:16:28.714] ERROR - Jugador 1192 [NO ENCONTRADO]
+[12:16:28.783] ERROR - Jugador 1193 [out_of_league]
+[12:16:28.978] ERROR - Jugador 1195 [NO ENCONTRADO]
+[12:16:29.031] ERROR - Jugador 1196 [NO ENCONTRADO]
+[12:16:29.204] ERROR - Jugador 1198 [NO ENCONTRADO]
+[12:16:29.216] ERROR - Jugador 1199 [NO ENCONTRADO]
+[12:16:29.247] ERROR - Jugador 1194 [NO ENCONTRADO]
+[12:16:29.368] INFO - Escribiendo historial market-value del jugador 1191 (122 values)
+[12:16:29.371] INFO - Jugador 1191 almacenado correctamente
+[12:16:29.456] ERROR - Jugador 1201 [NO ENCONTRADO]
+[12:16:29.611] ERROR - Jugador 1202 [NO ENCONTRADO]
+[12:16:29.655] INFO - Escribiendo historial market-value del jugador 1197 (122 values)
+[12:16:29.657] INFO - Jugador 1197 almacenado correctamente
+[12:16:29.665] ERROR - Jugador 1203 [NO ENCONTRADO]
+[12:16:29.771] ERROR - Jugador 1205 [NO ENCONTRADO]
+[12:16:30.005] ERROR - Jugador 1207 [NO ENCONTRADO]
+[12:16:30.066] INFO - Escribiendo historial market-value del jugador 1200 (84 values)
+[12:16:30.068] INFO - Jugador 1200 almacenado correctamente
+[12:16:30.426] ERROR - Jugador 1211 [NO ENCONTRADO]
+[12:16:30.468] ERROR - Jugador 1212 [NO ENCONTRADO]
+[12:16:30.472] INFO - Escribiendo historial market-value del jugador 1204 (114 values)
+[12:16:30.474] INFO - Jugador 1204 almacenado correctamente
+[12:16:30.644] INFO - Escribiendo historial market-value del jugador 1208 (122 values)
+[12:16:30.646] INFO - Jugador 1208 almacenado correctamente
+[12:16:30.759] INFO - Escribiendo historial market-value del jugador 1210 (79 values)
+[12:16:30.761] INFO - Jugador 1210 almacenado correctamente
+[12:16:30.769] INFO - Escribiendo historial market-value del jugador 1209 (122 values)
+[12:16:30.772] INFO - Jugador 1209 almacenado correctamente
+[12:16:30.794] INFO - Escribiendo historial market-value del jugador 1186 (122 values)
+[12:16:30.796] INFO - Jugador 1186 almacenado correctamente
+[12:16:30.818] ERROR - Jugador 1213 [NO ENCONTRADO]
+[12:16:30.889] ERROR - Jugador 1214 [NO ENCONTRADO]
+[12:16:31.223] ERROR - Jugador 1217 [NO ENCONTRADO]
+[12:16:31.262] ERROR - Jugador 1220 [NO ENCONTRADO]
+[12:16:31.420] ERROR - Jugador 1206 [NO ENCONTRADO]
+[12:16:31.514] INFO - Escribiendo historial market-value del jugador 1216 (122 values)
+[12:16:31.517] INFO - Jugador 1216 almacenado correctamente
+[12:16:31.546] INFO - Escribiendo historial market-value del jugador 1215 (122 values)
+[12:16:31.548] INFO - Jugador 1215 almacenado correctamente
+[12:16:31.689] INFO - Escribiendo historial market-value del jugador 1219 (122 values)
+[12:16:31.690] INFO - Jugador 1219 almacenado correctamente
+[12:16:31.708] INFO - Escribiendo historial market-value del jugador 1218 (120 values)
+[12:16:31.711] INFO - Jugador 1218 almacenado correctamente
+[12:16:31.718] ERROR - Jugador 1223 [NO ENCONTRADO]
+[12:16:31.739] INFO - Escribiendo historial market-value del jugador 1221 (120 values)
+[12:16:31.741] INFO - Jugador 1221 almacenado correctamente
+[12:16:31.850] ERROR - Jugador 1224 [NO ENCONTRADO]
+[12:16:31.974] ERROR - Jugador 1225 [NO ENCONTRADO]
+[12:16:31.986] ERROR - Jugador 1226 [NO ENCONTRADO]
+[12:16:32.057] INFO - Escribiendo historial market-value del jugador 1222 (122 values)
+[12:16:32.060] INFO - Jugador 1222 almacenado correctamente
+[12:16:32.141] ERROR - Jugador 1228 [NO ENCONTRADO]
+[12:16:32.189] ERROR - Jugador 1229 [NO ENCONTRADO]
+[12:16:32.213] ERROR - Jugador 1230 [NO ENCONTRADO]
+[12:16:32.316] ERROR - Jugador 1231 [NO ENCONTRADO]
+[12:16:32.405] ERROR - Jugador 1232 [NO ENCONTRADO]
+[12:16:32.446] ERROR - Jugador 1233 [NO ENCONTRADO]
+[12:16:32.462] ERROR - Jugador 1234 [NO ENCONTRADO]
+[12:16:32.548] ERROR - Jugador 1235 [NO ENCONTRADO]
+[12:16:32.648] ERROR - Jugador 1237 [NO ENCONTRADO]
+[12:16:32.667] ERROR - Jugador 1236 [NO ENCONTRADO]
+[12:16:32.703] INFO - Escribiendo historial market-value del jugador 1227 (77 values)
+[12:16:32.705] INFO - Jugador 1227 almacenado correctamente
+[12:16:32.740] ERROR - Jugador 1238 [NO ENCONTRADO]
+[12:16:32.854] ERROR - Jugador 1239 [NO ENCONTRADO]
+[12:16:32.887] ERROR - Jugador 1240 [NO ENCONTRADO]
+[12:16:32.898] ERROR - Jugador 1241 [NO ENCONTRADO]
+[12:16:32.971] ERROR - Jugador 1242 [NO ENCONTRADO]
+[12:16:33.102] ERROR - Jugador 1243 [NO ENCONTRADO]
+[12:16:33.138] ERROR - Jugador 1244 [out_of_league]
+[12:16:33.299] ERROR - Jugador 1247 [NO ENCONTRADO]
+[12:16:33.350] ERROR - Jugador 1248 [NO ENCONTRADO]
+[12:16:33.370] ERROR - Jugador 1249 [NO ENCONTRADO]
+[12:16:33.397] ERROR - Jugador 1250 [NO ENCONTRADO]
+[12:16:33.613] ERROR - Jugador 1252 [NO ENCONTRADO]
+[12:16:33.699] ERROR - Jugador 1253 [NO ENCONTRADO]
+[12:16:33.752] INFO - Escribiendo historial market-value del jugador 1246 (122 values)
+[12:16:33.755] INFO - Jugador 1246 almacenado correctamente
+[12:16:33.768] INFO - Escribiendo historial market-value del jugador 1245 (122 values)
+[12:16:33.770] INFO - Jugador 1245 almacenado correctamente
+[12:16:33.791] ERROR - Jugador 1254 [NO ENCONTRADO]
+[12:16:34.039] INFO - Escribiendo historial market-value del jugador 1251 (74 values)
+[12:16:34.040] INFO - Jugador 1251 almacenado correctamente
+[12:16:34.051] ERROR - Jugador 1257 [NO ENCONTRADO]
+[12:16:34.102] ERROR - Jugador 1258 [NO ENCONTRADO]
+[12:16:34.142] ERROR - Jugador 1259 [NO ENCONTRADO]
+[12:16:34.209] ERROR - Jugador 1261 [out_of_league]
+[12:16:34.307] INFO - Escribiendo historial market-value del jugador 1256 (122 values)
+[12:16:34.309] INFO - Jugador 1256 almacenado correctamente
+[12:16:34.317] INFO - Escribiendo historial market-value del jugador 1255 (120 values)
+[12:16:34.320] INFO - Jugador 1255 almacenado correctamente
+[12:16:34.463] ERROR - Jugador 1262 [NO ENCONTRADO]
+[12:16:34.609] ERROR - Jugador 1266 [NO ENCONTRADO]
+[12:16:34.612] INFO - Escribiendo historial market-value del jugador 1260 (122 values)
+[12:16:34.618] INFO - Jugador 1260 almacenado correctamente
+[12:16:34.624] ERROR - Jugador 1264 [NO ENCONTRADO]
+[12:16:34.765] ERROR - Jugador 1268 [NO ENCONTRADO]
+[12:16:34.769] ERROR - Jugador 1267 [NO ENCONTRADO]
+[12:16:35.044] ERROR - Jugador 1270 [NO ENCONTRADO]
+[12:16:35.056] ERROR - Jugador 1263 [NO ENCONTRADO]
+[12:16:35.061] ERROR - Jugador 1271 [NO ENCONTRADO]
+[12:16:35.097] ERROR - Jugador 1272 [NO ENCONTRADO]
+[12:16:35.122] INFO - Escribiendo historial market-value del jugador 1265 (122 values)
+[12:16:35.124] INFO - Jugador 1265 almacenado correctamente
+[12:16:35.220] ERROR - Jugador 1274 [NO ENCONTRADO]
+[12:16:35.224] ERROR - Jugador 1273 [NO ENCONTRADO]
+[12:16:35.448] INFO - Escribiendo historial market-value del jugador 1269 (122 values)
+[12:16:35.450] INFO - Jugador 1269 almacenado correctamente
+[12:16:35.518] ERROR - Jugador 1277 [NO ENCONTRADO]
+[12:16:35.524] ERROR - Jugador 1276 [NO ENCONTRADO]
+[12:16:35.541] ERROR - Jugador 1279 [NO ENCONTRADO]
+[12:16:35.549] ERROR - Jugador 1278 [NO ENCONTRADO]
+[12:16:35.624] ERROR - Jugador 1281 [NO ENCONTRADO]
+[12:16:35.684] ERROR - Jugador 1280 [NO ENCONTRADO]
+[12:16:35.891] ERROR - Jugador 1282 [NO ENCONTRADO]
+[12:16:35.908] INFO - Escribiendo historial market-value del jugador 1275 (122 values)
+[12:16:35.909] INFO - Jugador 1275 almacenado correctamente
+[12:16:35.966] ERROR - Jugador 1284 [NO ENCONTRADO]
+[12:16:35.973] ERROR - Jugador 1283 [NO ENCONTRADO]
+[12:16:35.979] ERROR - Jugador 1286 [NO ENCONTRADO]
+[12:16:35.984] ERROR - Jugador 1285 [NO ENCONTRADO]
+[12:16:36.059] ERROR - Jugador 1287 [NO ENCONTRADO]
+[12:16:36.089] ERROR - Jugador 1288 [NO ENCONTRADO]
+[12:16:36.325] ERROR - Jugador 1290 [NO ENCONTRADO]
+[12:16:36.409] ERROR - Jugador 1294 [NO ENCONTRADO]
+[12:16:36.435] ERROR - Jugador 1292 [NO ENCONTRADO]
+[12:16:36.439] ERROR - Jugador 1293 [NO ENCONTRADO]
+[12:16:36.470] ERROR - Jugador 1295 [out_of_league]
+[12:16:36.494] ERROR - Jugador 1296 [NO ENCONTRADO]
+[12:16:36.759] ERROR - Jugador 1297 [NO ENCONTRADO]
+[12:16:36.765] INFO - Escribiendo historial market-value del jugador 1289 (122 values)
+[12:16:36.767] INFO - Jugador 1289 almacenado correctamente
+[12:16:36.775] INFO - Escribiendo historial market-value del jugador 1291 (122 values)
+[12:16:36.778] INFO - Jugador 1291 almacenado correctamente
+[12:16:36.792] ERROR - Jugador 1298 [NO ENCONTRADO]
+[12:16:36.870] ERROR - Jugador 1299 [NO ENCONTRADO]
+[12:16:36.922] ERROR - Jugador 1302 [NO ENCONTRADO]
+[12:16:37.210] ERROR - Jugador 1304 [NO ENCONTRADO]
+[12:16:37.231] ERROR - Jugador 1306 [NO ENCONTRADO]
+[12:16:37.252] INFO - Escribiendo historial market-value del jugador 1300 (122 values)
+[12:16:37.253] INFO - Jugador 1300 almacenado correctamente
+[12:16:37.265] ERROR - Jugador 1307 [NO ENCONTRADO]
+[12:16:37.298] INFO - Escribiendo historial market-value del jugador 1301 (122 values)
+[12:16:37.300] INFO - Jugador 1301 almacenado correctamente
+[12:16:37.310] ERROR - Jugador 1303 [NO ENCONTRADO]
+[12:16:37.589] ERROR - Jugador 1309 [NO ENCONTRADO]
+[12:16:37.679] ERROR - Jugador 1310 [NO ENCONTRADO]
+[12:16:37.714] ERROR - Jugador 1311 [NO ENCONTRADO]
+[12:16:37.721] ERROR - Jugador 1312 [out_of_league]
+[12:16:37.735] ERROR - Jugador 1314 [NO ENCONTRADO]
+[12:16:37.755] ERROR - Jugador 1313 [NO ENCONTRADO]
+[12:16:37.763] INFO - Escribiendo historial market-value del jugador 1308 (122 values)
+[12:16:37.766] INFO - Jugador 1308 almacenado correctamente
+[12:16:37.848] INFO - Escribiendo historial market-value del jugador 1305 (122 values)
+[12:16:37.861] INFO - Jugador 1305 almacenado correctamente
+[12:16:38.014] ERROR - Jugador 1315 [NO ENCONTRADO]
+[12:16:38.105] ERROR - Jugador 1316 [NO ENCONTRADO]
+[12:16:38.122] ERROR - Jugador 1317 [NO ENCONTRADO]
+[12:16:38.206] ERROR - Jugador 1321 [NO ENCONTRADO]
+[12:16:38.270] ERROR - Jugador 1322 [NO ENCONTRADO]
+[12:16:38.438] ERROR - Jugador 1323 [NO ENCONTRADO]
+[12:16:38.523] ERROR - Jugador 1324 [NO ENCONTRADO]
+[12:16:38.557] ERROR - Jugador 1325 [NO ENCONTRADO]
+[12:16:38.577] INFO - Escribiendo historial market-value del jugador 1318 (122 values)
+[12:16:38.578] INFO - Jugador 1318 almacenado correctamente
+[12:16:38.656] INFO - Escribiendo historial market-value del jugador 1320 (122 values)
+[12:16:38.659] INFO - Jugador 1320 almacenado correctamente
+[12:16:38.666] ERROR - Jugador 1326 [NO ENCONTRADO]
+[12:16:38.761] INFO - Escribiendo historial market-value del jugador 1319 (122 values)
+[12:16:38.763] INFO - Jugador 1319 almacenado correctamente
+[12:16:38.847] ERROR - Jugador 1328 [NO ENCONTRADO]
+[12:16:38.988] ERROR - Jugador 1330 [NO ENCONTRADO]
+[12:16:39.005] ERROR - Jugador 1331 [NO ENCONTRADO]
+[12:16:39.090] ERROR - Jugador 1333 [NO ENCONTRADO]
+[12:16:39.108] ERROR - Jugador 1332 [NO ENCONTRADO]
+[12:16:39.229] ERROR - Jugador 1334 [NO ENCONTRADO]
+[12:16:39.238] INFO - Escribiendo historial market-value del jugador 1327 (120 values)
+[12:16:39.240] INFO - Jugador 1327 almacenado correctamente
+[12:16:39.260] ERROR - Jugador 1335 [NO ENCONTRADO]
+[12:16:39.337] INFO - Escribiendo historial market-value del jugador 1329 (122 values)
+[12:16:39.339] INFO - Jugador 1329 almacenado correctamente
+[12:16:39.429] ERROR - Jugador 1336 [NO ENCONTRADO]
+[12:16:39.516] ERROR - Jugador 1338 [NO ENCONTRADO]
+[12:16:39.541] ERROR - Jugador 1339 [NO ENCONTRADO]
+[12:16:39.685] ERROR - Jugador 1340 [NO ENCONTRADO]
+[12:16:39.710] ERROR - Jugador 1341 [NO ENCONTRADO]
+[12:16:39.746] ERROR - Jugador 1342 [NO ENCONTRADO]
+[12:16:39.838] ERROR - Jugador 1344 [NO ENCONTRADO]
+[12:16:39.906] INFO - Escribiendo historial market-value del jugador 1337 (122 values)
+[12:16:39.907] INFO - Jugador 1337 almacenado correctamente
+[12:16:39.972] ERROR - Jugador 1345 [out_of_league]
+[12:16:39.982] ERROR - Jugador 1346 [NO ENCONTRADO]
+[12:16:40.198] ERROR - Jugador 1348 [NO ENCONTRADO]
+[12:16:40.212] INFO - Escribiendo historial market-value del jugador 1343 (81 values)
+[12:16:40.214] INFO - Jugador 1343 almacenado correctamente
+[12:16:40.221] ERROR - Jugador 1349 [NO ENCONTRADO]
+[12:16:40.242] ERROR - Jugador 1350 [NO ENCONTRADO]
+[12:16:40.267] ERROR - Jugador 1347 [NO ENCONTRADO]
+[12:16:40.332] ERROR - Jugador 1351 [out_of_league]
+[12:16:40.676] ERROR - Jugador 1355 [NO ENCONTRADO]
+[12:16:40.715] ERROR - Jugador 1354 [NO ENCONTRADO]
+[12:16:40.773] ERROR - Jugador 1359 [NO ENCONTRADO]
+[12:16:41.063] ERROR - Jugador 1360 [NO ENCONTRADO]
+[12:16:41.104] INFO - Escribiendo historial market-value del jugador 1353 (120 values)
+[12:16:41.106] INFO - Jugador 1353 almacenado correctamente
+[12:16:41.131] INFO - Escribiendo historial market-value del jugador 1352 (122 values)
+[12:16:41.133] INFO - Jugador 1352 almacenado correctamente
+[12:16:41.151] ERROR - Jugador 1361 [out_of_league]
+[12:16:41.194] ERROR - Jugador 1362 [out_of_league]
+[12:16:41.319] INFO - Escribiendo historial market-value del jugador 1356 (88 values)
+[12:16:41.320] INFO - Jugador 1356 almacenado correctamente
+[12:16:41.340] INFO - Escribiendo historial market-value del jugador 1357 (91 values)
+[12:16:41.341] INFO - Jugador 1357 almacenado correctamente
+[12:16:41.353] INFO - Escribiendo historial market-value del jugador 1358 (84 values)
+[12:16:41.354] INFO - Jugador 1358 almacenado correctamente
+[12:16:41.459] ERROR - Jugador 1363 [NO ENCONTRADO]
+[12:16:41.567] ERROR - Jugador 1364 [NO ENCONTRADO]
+[12:16:41.620] ERROR - Jugador 1365 [NO ENCONTRADO]
+[12:16:41.640] ERROR - Jugador 1366 [out_of_league]
+[12:16:41.839] ERROR - Jugador 1370 [NO ENCONTRADO]
+[12:16:41.892] ERROR - Jugador 1371 [NO ENCONTRADO]
+[12:16:41.984] ERROR - Jugador 1372 [NO ENCONTRADO]
+[12:16:42.055] ERROR - Jugador 1373 [NO ENCONTRADO]
+[12:16:42.092] ERROR - Jugador 1374 [NO ENCONTRADO]
+[12:16:42.113] INFO - Escribiendo historial market-value del jugador 1367 (88 values)
+[12:16:42.113] INFO - Jugador 1367 almacenado correctamente
+[12:16:42.310] ERROR - Jugador 1375 [NO ENCONTRADO]
+[12:16:42.310] INFO - Escribiendo historial market-value del jugador 1368 (102 values)
+[12:16:42.315] INFO - Jugador 1368 almacenado correctamente
+[12:16:42.354] INFO - Escribiendo historial market-value del jugador 1369 (93 values)
+[12:16:42.354] INFO - Jugador 1369 almacenado correctamente
+[12:16:42.360] ERROR - Jugador 1376 [NO ENCONTRADO]
+[12:16:42.385] ERROR - Jugador 1377 [NO ENCONTRADO]
+[12:16:42.443] ERROR - Jugador 1378 [NO ENCONTRADO]
+[12:16:42.585] ERROR - Jugador 1380 [NO ENCONTRADO]
+[12:16:42.591] ERROR - Jugador 1379 [NO ENCONTRADO]
+[12:16:42.761] ERROR - Jugador 1382 [NO ENCONTRADO]
+[12:16:42.800] ERROR - Jugador 1381 [NO ENCONTRADO]
+[12:16:42.820] ERROR - Jugador 1383 [NO ENCONTRADO]
+[12:16:42.845] ERROR - Jugador 1385 [NO ENCONTRADO]
+[12:16:42.869] ERROR - Jugador 1384 [NO ENCONTRADO]
+[12:16:42.873] ERROR - Jugador 1386 [NO ENCONTRADO]
+[12:16:43.013] ERROR - Jugador 1387 [NO ENCONTRADO]
+[12:16:43.086] ERROR - Jugador 1388 [out_of_league]
+[12:16:43.153] ERROR - Jugador 1389 [NO ENCONTRADO]
+[12:16:43.256] ERROR - Jugador 1390 [NO ENCONTRADO]
+[12:16:43.292] ERROR - Jugador 1391 [NO ENCONTRADO]
+[12:16:43.326] ERROR - Jugador 1392 [NO ENCONTRADO]
+[12:16:43.330] ERROR - Jugador 1394 [NO ENCONTRADO]
+[12:16:43.346] ERROR - Jugador 1393 [NO ENCONTRADO]
+[12:16:43.421] ERROR - Jugador 1395 [NO ENCONTRADO]
+[12:16:43.518] ERROR - Jugador 1396 [NO ENCONTRADO]
+[12:16:43.599] ERROR - Jugador 1397 [NO ENCONTRADO]
+[12:16:43.648] ERROR - Jugador 1398 [NO ENCONTRADO]
+[12:16:43.766] ERROR - Jugador 1399 [NO ENCONTRADO]
+[12:16:43.789] ERROR - Jugador 1400 [NO ENCONTRADO]
+[12:16:43.810] ERROR - Jugador 1401 [NO ENCONTRADO]
+[12:16:43.814] ERROR - Jugador 1402 [NO ENCONTRADO]
+[12:16:43.852] ERROR - Jugador 1403 [NO ENCONTRADO]
+[12:16:43.993] ERROR - Jugador 1404 [NO ENCONTRADO]
+[12:16:44.074] ERROR - Jugador 1405 [NO ENCONTRADO]
+[12:16:44.094] ERROR - Jugador 1406 [NO ENCONTRADO]
+[12:16:44.191] ERROR - Jugador 1407 [NO ENCONTRADO]
+[12:16:44.236] ERROR - Jugador 1408 [NO ENCONTRADO]
+[12:16:44.263] ERROR - Jugador 1409 [NO ENCONTRADO]
+[12:16:44.267] ERROR - Jugador 1410 [NO ENCONTRADO]
+[12:16:44.303] ERROR - Jugador 1411 [NO ENCONTRADO]
+[12:16:44.410] ERROR - Jugador 1412 [NO ENCONTRADO]
+[12:16:44.520] ERROR - Jugador 1413 [NO ENCONTRADO]
+[12:16:44.533] ERROR - Jugador 1414 [NO ENCONTRADO]
+[12:16:44.612] ERROR - Jugador 1415 [NO ENCONTRADO]
+[12:16:44.714] ERROR - Jugador 1417 [NO ENCONTRADO]
+[12:16:44.735] ERROR - Jugador 1416 [NO ENCONTRADO]
+[12:16:44.741] ERROR - Jugador 1419 [NO ENCONTRADO]
+[12:16:44.816] ERROR - Jugador 1420 [NO ENCONTRADO]
+[12:16:44.962] ERROR - Jugador 1421 [NO ENCONTRADO]
+[12:16:44.969] ERROR - Jugador 1422 [NO ENCONTRADO]
+[12:16:45.034] ERROR - Jugador 1423 [NO ENCONTRADO]
+[12:16:45.125] ERROR - Jugador 1424 [NO ENCONTRADO]
+[12:16:45.213] ERROR - Jugador 1425 [NO ENCONTRADO]
+[12:16:45.232] ERROR - Jugador 1426 [NO ENCONTRADO]
+[12:16:45.288] ERROR - Jugador 1427 [NO ENCONTRADO]
+[12:16:45.374] ERROR - Jugador 1428 [NO ENCONTRADO]
+[12:16:45.417] INFO - Escribiendo historial market-value del jugador 1418 (122 values)
+[12:16:45.420] INFO - Jugador 1418 almacenado correctamente
+[12:16:45.455] ERROR - Jugador 1429 [NO ENCONTRADO]
+[12:16:45.486] ERROR - Jugador 1430 [NO ENCONTRADO]
+[12:16:45.525] ERROR - Jugador 1431 [NO ENCONTRADO]
+[12:16:45.668] ERROR - Jugador 1432 [NO ENCONTRADO]
+[12:16:45.704] ERROR - Jugador 1433 [NO ENCONTRADO]
+[12:16:45.770] ERROR - Jugador 1435 [NO ENCONTRADO]
+[12:16:45.937] ERROR - Jugador 1438 [NO ENCONTRADO]
+[12:16:45.953] ERROR - Jugador 1437 [NO ENCONTRADO]
+[12:16:45.974] ERROR - Jugador 1439 [NO ENCONTRADO]
+[12:16:46.014] ERROR - Jugador 1436 [NO ENCONTRADO]
+[12:16:46.058] ERROR - Jugador 1440 [NO ENCONTRADO]
+[12:16:46.158] ERROR - Jugador 1441 [NO ENCONTRADO]
+[12:16:46.189] INFO - Escribiendo historial market-value del jugador 1434 (122 values)
+[12:16:46.191] INFO - Jugador 1434 almacenado correctamente
+[12:16:46.441] ERROR - Jugador 1444 [NO ENCONTRADO]
+[12:16:46.456] ERROR - Jugador 1445 [NO ENCONTRADO]
+[12:16:46.525] ERROR - Jugador 1446 [NO ENCONTRADO]
+[12:16:46.556] ERROR - Jugador 1448 [NO ENCONTRADO]
+[12:16:46.659] ERROR - Jugador 1449 [NO ENCONTRADO]
+[12:16:46.696] INFO - Escribiendo historial market-value del jugador 1442 (97 values)
+[12:16:46.697] INFO - Jugador 1442 almacenado correctamente
+[12:16:46.924] INFO - Escribiendo historial market-value del jugador 1443 (84 values)
+[12:16:46.926] INFO - Escribiendo historial market-value del jugador 1447 (122 values)
+[12:16:46.927] INFO - Jugador 1443 almacenado correctamente
+[12:16:46.930] INFO - Jugador 1447 almacenado correctamente
+[12:16:46.964] ERROR - Jugador 1452 [out_of_league]
+[12:16:47.104] ERROR - Jugador 1454 [NO ENCONTRADO]
+[12:16:47.204] ERROR - Jugador 1451 [NO ENCONTRADO]
+[12:16:47.303] ERROR - Jugador 1455 [NO ENCONTRADO]
+[12:16:47.392] ERROR - Jugador 1456 [NO ENCONTRADO]
+[12:16:47.413] INFO - Escribiendo historial market-value del jugador 1453 (84 values)
+[12:16:47.414] INFO - Jugador 1453 almacenado correctamente
+[12:16:47.420] ERROR - Jugador 1458 [NO ENCONTRADO]
+[12:16:47.432] INFO - Escribiendo historial market-value del jugador 1450 (122 values)
+[12:16:47.433] INFO - Jugador 1450 almacenado correctamente
+[12:16:47.507] ERROR - Jugador 1459 [out_of_league]
+[12:16:47.606] ERROR - Jugador 1457 [NO ENCONTRADO]
+[12:16:47.634] ERROR - Jugador 1460 [NO ENCONTRADO]
+[12:16:47.704] ERROR - Jugador 1461 [NO ENCONTRADO]
+[12:16:47.886] ERROR - Jugador 1462 [NO ENCONTRADO]
+[12:16:47.891] ERROR - Jugador 1464 [NO ENCONTRADO]
+[12:16:47.892] ERROR - Jugador 1463 [NO ENCONTRADO]
+[12:16:47.931] ERROR - Jugador 1465 [NO ENCONTRADO]
+[12:16:47.946] ERROR - Jugador 1466 [NO ENCONTRADO]
+[12:16:48.013] ERROR - Jugador 1467 [out_of_league]
+[12:16:48.175] ERROR - Jugador 1469 [NO ENCONTRADO]
+[12:16:48.357] ERROR - Jugador 1470 [NO ENCONTRADO]
+[12:16:48.404] ERROR - Jugador 1472 [NO ENCONTRADO]
+[12:16:48.410] ERROR - Jugador 1473 [NO ENCONTRADO]
+[12:16:48.410] ERROR - Jugador 1471 [NO ENCONTRADO]
+[12:16:48.430] ERROR - Jugador 1475 [NO ENCONTRADO]
+[12:16:48.519] INFO - Escribiendo historial market-value del jugador 1468 (122 values)
+[12:16:48.522] INFO - Jugador 1468 almacenado correctamente
+[12:16:48.628] ERROR - Jugador 1476 [NO ENCONTRADO]
+[12:16:48.895] ERROR - Jugador 1479 [out_of_league]
+[12:16:48.900] INFO - Escribiendo historial market-value del jugador 1474 (122 values)
+[12:16:48.902] INFO - Jugador 1474 almacenado correctamente
+[12:16:49.069] ERROR - Jugador 1483 [NO ENCONTRADO]
+[12:16:49.182] INFO - Escribiendo historial market-value del jugador 1477 (86 values)
+[12:16:49.187] INFO - Jugador 1477 almacenado correctamente
+[12:16:49.349] ERROR - Jugador 1485 [NO ENCONTRADO]
+[12:16:49.365] INFO - Escribiendo historial market-value del jugador 1481 (77 values)
+[12:16:49.366] INFO - Jugador 1481 almacenado correctamente
+[12:16:49.430] INFO - Escribiendo historial market-value del jugador 1478 (122 values)
+[12:16:49.432] INFO - Jugador 1478 almacenado correctamente
+[12:16:49.438] INFO - Escribiendo historial market-value del jugador 1482 (122 values)
+[12:16:49.441] INFO - Jugador 1482 almacenado correctamente
+[12:16:49.474] ERROR - Jugador 1486 [out_of_league]
+[12:16:49.499] INFO - Escribiendo historial market-value del jugador 1480 (122 values)
+[12:16:49.501] INFO - Jugador 1480 almacenado correctamente
+[12:16:49.741] INFO - Escribiendo historial market-value del jugador 1484 (122 values)
+[12:16:49.745] INFO - Jugador 1484 almacenado correctamente
+[12:16:49.848] ERROR - Jugador 1490 [out_of_league]
+[12:16:49.901] ERROR - Jugador 1492 [NO ENCONTRADO]
+[12:16:49.906] ERROR - Jugador 1493 [NO ENCONTRADO]
+[12:16:50.150] ERROR - Jugador 1494 [NO ENCONTRADO]
+[12:16:50.184] INFO - Escribiendo historial market-value del jugador 1487 (122 values)
+[12:16:50.184] INFO - Jugador 1487 almacenado correctamente
+[12:16:50.190] INFO - Escribiendo historial market-value del jugador 1488 (120 values)
+[12:16:50.193] INFO - Jugador 1488 almacenado correctamente
+[12:16:50.201] INFO - Escribiendo historial market-value del jugador 1489 (122 values)
+[12:16:50.205] INFO - Jugador 1489 almacenado correctamente
+[12:16:50.289] INFO - Escribiendo historial market-value del jugador 1491 (120 values)
+[12:16:50.291] INFO - Jugador 1491 almacenado correctamente
+[12:16:50.331] ERROR - Jugador 1496 [out_of_league]
+[12:16:50.554] ERROR - Jugador 1498 [NO ENCONTRADO]
+[12:16:50.616] ERROR - Jugador 1499 [NO ENCONTRADO]
+[12:16:50.637] ERROR - Jugador 1500 [NO ENCONTRADO]
+[12:16:50.655] ERROR - Jugador 1501 [NO ENCONTRADO]
+[12:16:50.664] INFO - Escribiendo historial market-value del jugador 1495 (122 values)
+[12:16:50.666] INFO - Jugador 1495 almacenado correctamente
+[12:16:50.730] ERROR - Jugador 1503 [NO ENCONTRADO]
+[12:16:50.778] INFO - Escribiendo historial market-value del jugador 1497 (77 values)
+[12:16:50.781] INFO - Jugador 1497 almacenado correctamente
+[12:16:50.819] ERROR - Jugador 1502 [NO ENCONTRADO]
+[12:16:51.160] ERROR - Jugador 1508 [NO ENCONTRADO]
+[12:16:51.164] ERROR - Jugador 1506 [NO ENCONTRADO]
+[12:16:51.178] ERROR - Jugador 1510 [NO ENCONTRADO]
+[12:16:51.230] ERROR - Jugador 1511 [NO ENCONTRADO]
+[12:16:51.417] INFO - Escribiendo historial market-value del jugador 1504 (120 values)
+[12:16:51.419] INFO - Jugador 1504 almacenado correctamente
+[12:16:51.610] ERROR - Jugador 1512 [NO ENCONTRADO]
+[12:16:51.623] INFO - Escribiendo historial market-value del jugador 1505 (120 values)
+[12:16:51.625] INFO - Jugador 1505 almacenado correctamente
+[12:16:51.640] INFO - Escribiendo historial market-value del jugador 1507 (120 values)
+[12:16:51.641] INFO - Jugador 1507 almacenado correctamente
+[12:16:51.709] INFO - Escribiendo historial market-value del jugador 1509 (120 values)
+[12:16:51.711] INFO - Jugador 1509 almacenado correctamente
+[12:16:51.781] ERROR - Jugador 1514 [NO ENCONTRADO]
+[12:16:51.967] ERROR - Jugador 1516 [NO ENCONTRADO]
+[12:16:52.080] ERROR - Jugador 1518 [NO ENCONTRADO]
+[12:16:52.103] ERROR - Jugador 1519 [NO ENCONTRADO]
+[12:16:52.134] ERROR - Jugador 1520 [NO ENCONTRADO]
+[12:16:52.207] ERROR - Jugador 1521 [NO ENCONTRADO]
+[12:16:52.247] INFO - Escribiendo historial market-value del jugador 1513 (122 values)
+[12:16:52.248] INFO - Jugador 1513 almacenado correctamente
+[12:16:52.261] INFO - Escribiendo historial market-value del jugador 1515 (122 values)
+[12:16:52.263] INFO - Jugador 1515 almacenado correctamente
+[12:16:52.367] ERROR - Jugador 1522 [NO ENCONTRADO]
+[12:16:52.422] INFO - Escribiendo historial market-value del jugador 1517 (122 values)
+[12:16:52.424] INFO - Jugador 1517 almacenado correctamente
+[12:16:52.660] ERROR - Jugador 1526 [NO ENCONTRADO]
+[12:16:52.677] ERROR - Jugador 1527 [NO ENCONTRADO]
+[12:16:52.692] ERROR - Jugador 1528 [NO ENCONTRADO]
+[12:16:52.935] INFO - Escribiendo historial market-value del jugador 1525 (122 values)
+[12:16:52.936] ERROR - Jugador 1524 [NO ENCONTRADO]
+[12:16:52.936] INFO - Jugador 1525 almacenado correctamente
+[12:16:53.084] ERROR - Jugador 1532 [NO ENCONTRADO]
+[12:16:53.099] ERROR - Jugador 1533 [NO ENCONTRADO]
+[12:16:53.325] INFO - Escribiendo historial market-value del jugador 1529 (122 values)
+[12:16:53.327] INFO - Jugador 1529 almacenado correctamente
+[12:16:53.385] ERROR - Jugador 1534 [NO ENCONTRADO]
+[12:16:53.439] INFO - Escribiendo historial market-value del jugador 1531 (91 values)
+[12:16:53.441] INFO - Jugador 1531 almacenado correctamente
+[12:16:53.552] ERROR - Jugador 1536 [NO ENCONTRADO]
+[12:16:53.565] ERROR - Jugador 1523 [NO ENCONTRADO]
+[12:16:53.726] INFO - Escribiendo historial market-value del jugador 1530 (64 values)
+[12:16:53.728] INFO - Jugador 1530 almacenado correctamente
+[12:16:53.773] ERROR - Jugador 1538 [NO ENCONTRADO]
+[12:16:53.837] ERROR - Jugador 1539 [NO ENCONTRADO]
+[12:16:53.842] INFO - Escribiendo historial market-value del jugador 1535 (122 values)
+[12:16:53.843] INFO - Jugador 1535 almacenado correctamente
+[12:16:53.855] ERROR - Jugador 1540 [NO ENCONTRADO]
+[12:16:54.003] ERROR - Jugador 1541 [out_of_league]
+[12:16:54.033] INFO - Escribiendo historial market-value del jugador 1537 (120 values)
+[12:16:54.034] INFO - Jugador 1537 almacenado correctamente
+[12:16:54.117] ERROR - Jugador 1543 [NO ENCONTRADO]
+[12:16:54.285] ERROR - Jugador 1545 [NO ENCONTRADO]
+[12:16:54.464] ERROR - Jugador 1547 [NO ENCONTRADO]
+[12:16:54.468] ERROR - Jugador 1549 [NO ENCONTRADO]
+[12:16:54.503] INFO - Escribiendo historial market-value del jugador 1542 (122 values)
+[12:16:54.505] INFO - Jugador 1542 almacenado correctamente
+[12:16:54.528] ERROR - Jugador 1550 [NO ENCONTRADO]
+[12:16:54.533] ERROR - Jugador 1548 [NO ENCONTRADO]
+[12:16:54.734] ERROR - Jugador 1551 [NO ENCONTRADO]
+[12:16:54.749] INFO - Escribiendo historial market-value del jugador 1544 (122 values)
+[12:16:54.752] INFO - Jugador 1544 almacenado correctamente
+[12:16:54.767] INFO - Escribiendo historial market-value del jugador 1546 (60 values)
+[12:16:54.768] INFO - Jugador 1546 almacenado correctamente
+[12:16:54.911] ERROR - Jugador 1553 [NO ENCONTRADO]
+[12:16:54.981] ERROR - Jugador 1555 [NO ENCONTRADO]
+[12:16:54.990] ERROR - Jugador 1554 [NO ENCONTRADO]
+[12:16:54.997] ERROR - Jugador 1556 [NO ENCONTRADO]
+[12:16:55.186] ERROR - Jugador 1557 [NO ENCONTRADO]
+[12:16:55.266] ERROR - Jugador 1559 [NO ENCONTRADO]
+[12:16:55.272] ERROR - Jugador 1558 [NO ENCONTRADO]
+[12:16:55.307] ERROR - Jugador 1560 [NO ENCONTRADO]
+[12:16:55.436] ERROR - Jugador 1562 [NO ENCONTRADO]
+[12:16:55.436] ERROR - Jugador 1561 [NO ENCONTRADO]
+[12:16:55.443] INFO - Escribiendo historial market-value del jugador 1552 (61 values)
+[12:16:55.444] INFO - Jugador 1552 almacenado correctamente
+[12:16:55.592] ERROR - Jugador 1564 [NO ENCONTRADO]
+[12:16:55.725] ERROR - Jugador 1566 [NO ENCONTRADO]
+[12:16:55.736] ERROR - Jugador 1567 [NO ENCONTRADO]
+[12:16:55.872] ERROR - Jugador 1569 [NO ENCONTRADO]
+[12:16:55.892] ERROR - Jugador 1568 [NO ENCONTRADO]
+[12:16:56.075] ERROR - Jugador 1563 [NO ENCONTRADO]
+[12:16:56.148] ERROR - Jugador 1572 [NO ENCONTRADO]
+[12:16:56.168] INFO - Escribiendo historial market-value del jugador 1565 (120 values)
+[12:16:56.169] INFO - Jugador 1565 almacenado correctamente
+[12:16:56.208] ERROR - Jugador 1573 [out_of_league]
+[12:16:56.260] ERROR - Jugador 1574 [NO ENCONTRADO]
+[12:16:56.323] ERROR - Jugador 1575 [NO ENCONTRADO]
+[12:16:56.344] INFO - Escribiendo historial market-value del jugador 1570 (122 values)
+[12:16:56.345] INFO - Jugador 1570 almacenado correctamente
+[12:16:56.417] INFO - Escribiendo historial market-value del jugador 1571 (120 values)
+[12:16:56.418] INFO - Jugador 1571 almacenado correctamente
+[12:16:56.518] ERROR - Jugador 1576 [out_of_league]
+[12:16:56.597] ERROR - Jugador 1578 [NO ENCONTRADO]
+[12:16:56.620] ERROR - Jugador 1579 [NO ENCONTRADO]
+[12:16:56.762] ERROR - Jugador 1582 [NO ENCONTRADO]
+[12:16:56.833] ERROR - Jugador 1583 [NO ENCONTRADO]
+[12:16:56.937] ERROR - Jugador 1584 [NO ENCONTRADO]
+[12:16:56.942] ERROR - Jugador 1581 [NO ENCONTRADO]
+[12:16:57.059] ERROR - Jugador 1585 [NO ENCONTRADO]
+[12:16:57.065] INFO - Escribiendo historial market-value del jugador 1577 (122 values)
+[12:16:57.067] INFO - Jugador 1577 almacenado correctamente
+[12:16:57.099] INFO - Escribiendo historial market-value del jugador 1580 (122 values)
+[12:16:57.100] INFO - Jugador 1580 almacenado correctamente
+[12:16:57.178] ERROR - Jugador 1587 [NO ENCONTRADO]
+[12:16:57.261] ERROR - Jugador 1588 [NO ENCONTRADO]
+[12:16:57.367] ERROR - Jugador 1589 [NO ENCONTRADO]
+[12:16:57.388] ERROR - Jugador 1590 [NO ENCONTRADO]
+[12:16:57.513] ERROR - Jugador 1592 [NO ENCONTRADO]
+[12:16:57.525] ERROR - Jugador 1591 [NO ENCONTRADO]
+[12:16:57.529] INFO - Escribiendo historial market-value del jugador 1586 (84 values)
+[12:16:57.531] INFO - Jugador 1586 almacenado correctamente
+[12:16:57.598] ERROR - Jugador 1594 [NO ENCONTRADO]
+[12:16:57.809] ERROR - Jugador 1596 [NO ENCONTRADO]
+[12:16:57.818] ERROR - Jugador 1597 [NO ENCONTRADO]
+[12:16:57.920] ERROR - Jugador 1598 [NO ENCONTRADO]
+[12:16:57.952] ERROR - Jugador 1599 [NO ENCONTRADO]
+[12:16:58.056] INFO - Escribiendo historial market-value del jugador 1593 (117 values)
+[12:16:58.059] INFO - Jugador 1593 almacenado correctamente
+[12:16:58.059] ERROR - Jugador 1601 [NO ENCONTRADO]
+[12:16:58.089] INFO - Escribiendo historial market-value del jugador 1595 (74 values)
+[12:16:58.090] INFO - Jugador 1595 almacenado correctamente
+[12:16:58.239] ERROR - Jugador 1602 [NO ENCONTRADO]
+[12:16:58.344] ERROR - Jugador 1604 [NO ENCONTRADO]
+[12:16:58.372] ERROR - Jugador 1605 [NO ENCONTRADO]
+[12:16:58.384] INFO - Escribiendo historial market-value del jugador 1600 (93 values)
+[12:16:58.386] INFO - Jugador 1600 almacenado correctamente
+[12:16:58.520] ERROR - Jugador 1606 [NO ENCONTRADO]
+[12:16:58.528] ERROR - Jugador 1607 [NO ENCONTRADO]
+[12:16:58.548] ERROR - Jugador 1608 [NO ENCONTRADO]
+[12:16:58.672] INFO - Escribiendo historial market-value del jugador 1603 (122 values)
+[12:16:58.674] INFO - Jugador 1603 almacenado correctamente
+[12:16:58.820] ERROR - Jugador 1612 [NO ENCONTRADO]
+[12:16:59.072] INFO - Escribiendo historial market-value del jugador 1609 (122 values)
+[12:16:59.074] INFO - Jugador 1609 almacenado correctamente
+[12:16:59.084] ERROR - Jugador 1616 [NO ENCONTRADO]
+[12:16:59.190] INFO - Escribiendo historial market-value del jugador 1610 (122 values)
+[12:16:59.192] INFO - Jugador 1610 almacenado correctamente
+[12:16:59.280] INFO - Escribiendo historial market-value del jugador 1611 (97 values)
+[12:16:59.281] INFO - Jugador 1611 almacenado correctamente
+[12:16:59.327] INFO - Escribiendo historial market-value del jugador 1613 (84 values)
+[12:16:59.329] INFO - Jugador 1613 almacenado correctamente
+[12:16:59.376] ERROR - Jugador 1617 [out_of_league]
+[12:16:59.450] INFO - Escribiendo historial market-value del jugador 1615 (84 values)
+[12:16:59.451] INFO - Jugador 1615 almacenado correctamente
+[12:16:59.581] INFO - Escribiendo historial market-value del jugador 1614 (84 values)
+[12:16:59.583] INFO - Jugador 1614 almacenado correctamente
+[12:16:59.770] ERROR - Jugador 1622 [out_of_league]
+[12:16:59.775] ERROR - Jugador 1623 [NO ENCONTRADO]
+[12:16:59.963] INFO - Escribiendo historial market-value del jugador 1619 (122 values)
+[12:16:59.966] INFO - Jugador 1619 almacenado correctamente
+[12:16:59.998] ERROR - Jugador 1625 [NO ENCONTRADO]
+[12:17:00.076] INFO - Escribiendo historial market-value del jugador 1618 (122 values)
+[12:17:00.078] INFO - Jugador 1618 almacenado correctamente
+[12:17:00.083] INFO - Escribiendo historial market-value del jugador 1620 (122 values)
+[12:17:00.085] INFO - Jugador 1620 almacenado correctamente
+[12:17:00.114] INFO - Escribiendo historial market-value del jugador 1621 (122 values)
+[12:17:00.115] INFO - Jugador 1621 almacenado correctamente
+[12:17:00.234] ERROR - Jugador 1627 [out_of_league]
+[12:17:00.238] ERROR - Jugador 1626 [out_of_league]
+[12:17:00.408] INFO - Escribiendo historial market-value del jugador 1624 (122 values)
+[12:17:00.410] INFO - Jugador 1624 almacenado correctamente
+[12:17:00.434] ERROR - Jugador 1629 [NO ENCONTRADO]
+[12:17:00.521] ERROR - Jugador 1631 [NO ENCONTRADO]
+[12:17:00.540] ERROR - Jugador 1630 [NO ENCONTRADO]
+[12:17:00.541] ERROR - Jugador 1632 [NO ENCONTRADO]
+[12:17:00.656] ERROR - Jugador 1633 [NO ENCONTRADO]
+[12:17:00.673] ERROR - Jugador 1634 [NO ENCONTRADO]
+[12:17:00.829] ERROR - Jugador 1635 [NO ENCONTRADO]
+[12:17:00.868] ERROR - Jugador 1636 [NO ENCONTRADO]
+[12:17:00.921] ERROR - Jugador 1637 [NO ENCONTRADO]
+[12:17:00.976] ERROR - Jugador 1639 [NO ENCONTRADO]
+[12:17:01.077] ERROR - Jugador 1640 [NO ENCONTRADO]
+[12:17:01.139] INFO - Escribiendo historial market-value del jugador 1628 (122 values)
+[12:17:01.141] INFO - Jugador 1628 almacenado correctamente
+[12:17:01.249] ERROR - Jugador 1642 [NO ENCONTRADO]
+[12:17:01.325] ERROR - Jugador 1644 [NO ENCONTRADO]
+[12:17:01.345] ERROR - Jugador 1643 [NO ENCONTRADO]
+[12:17:01.386] ERROR - Jugador 1645 [NO ENCONTRADO]
+[12:17:01.392] ERROR - Jugador 1641 [NO ENCONTRADO]
+[12:17:01.396] INFO - Escribiendo historial market-value del jugador 1638 (92 values)
+[12:17:01.397] INFO - Jugador 1638 almacenado correctamente
+[12:17:01.478] ERROR - Jugador 1646 [NO ENCONTRADO]
+[12:17:01.567] ERROR - Jugador 1647 [NO ENCONTRADO]
+[12:17:01.758] ERROR - Jugador 1650 [NO ENCONTRADO]
+[12:17:01.780] ERROR - Jugador 1649 [NO ENCONTRADO]
+[12:17:01.817] ERROR - Jugador 1651 [NO ENCONTRADO]
+[12:17:01.842] ERROR - Jugador 1652 [NO ENCONTRADO]
+[12:17:01.858] ERROR - Jugador 1653 [NO ENCONTRADO]
+[12:17:01.869] ERROR - Jugador 1654 [NO ENCONTRADO]
+[12:17:02.020] ERROR - Jugador 1655 [NO ENCONTRADO]
+[12:17:02.172] ERROR - Jugador 1656 [NO ENCONTRADO]
+[12:17:02.173] ERROR - Jugador 1648 [NO ENCONTRADO]
+[12:17:02.237] ERROR - Jugador 1657 [NO ENCONTRADO]
+[12:17:02.265] ERROR - Jugador 1658 [out_of_league]
+[12:17:02.396] ERROR - Jugador 1661 [out_of_league]
+[12:17:02.439] ERROR - Jugador 1662 [NO ENCONTRADO]
+[12:17:02.582] ERROR - Jugador 1664 [out_of_league]
+[12:17:02.590] ERROR - Jugador 1663 [out_of_league]
+[12:17:02.699] ERROR - Jugador 1666 [NO ENCONTRADO]
+[12:17:02.710] INFO - Escribiendo historial market-value del jugador 1659 (122 values)
+[12:17:02.713] INFO - Jugador 1659 almacenado correctamente
+[12:17:02.723] INFO - Escribiendo historial market-value del jugador 1660 (122 values)
+[12:17:02.726] INFO - Jugador 1660 almacenado correctamente
+[12:17:02.872] ERROR - Jugador 1668 [out_of_league]
+[12:17:02.993] ERROR - Jugador 1669 [NO ENCONTRADO]
+[12:17:03.011] ERROR - Jugador 1670 [out_of_league]
+[12:17:03.073] INFO - Escribiendo historial market-value del jugador 1665 (79 values)
+[12:17:03.074] INFO - Jugador 1665 almacenado correctamente
+[12:17:03.133] ERROR - Jugador 1671 [NO ENCONTRADO]
+[12:17:03.406] INFO - Escribiendo historial market-value del jugador 1667 (74 values)
+[12:17:03.408] INFO - Jugador 1667 almacenado correctamente
+[12:17:03.723] INFO - Escribiendo historial market-value del jugador 1672 (86 values)
+[12:17:03.724] INFO - Jugador 1672 almacenado correctamente
+[12:17:03.802] INFO - Escribiendo historial market-value del jugador 1673 (122 values)
+[12:17:03.803] INFO - Jugador 1673 almacenado correctamente
+[12:17:03.838] ERROR - Jugador 1679 [out_of_league]
+[12:17:03.920] INFO - Escribiendo historial market-value del jugador 1674 (122 values)
+[12:17:03.922] INFO - Jugador 1674 almacenado correctamente
+[12:17:03.987] INFO - Escribiendo historial market-value del jugador 1678 (122 values)
+[12:17:03.988] INFO - Jugador 1678 almacenado correctamente
+[12:17:04.030] INFO - Escribiendo historial market-value del jugador 1677 (122 values)
+[12:17:04.033] INFO - Jugador 1677 almacenado correctamente
+[12:17:04.302] INFO - Escribiendo historial market-value del jugador 1675 (86 values)
+[12:17:04.304] INFO - Jugador 1675 almacenado correctamente
+[12:17:04.372] ERROR - Jugador 1676 [NO ENCONTRADO]
+[12:17:04.435] ERROR - Jugador 1685 [NO ENCONTRADO]
+[12:17:04.548] ERROR - Jugador 1684 [out_of_league]
+[12:17:04.697] ERROR - Jugador 1686 [NO ENCONTRADO]
+[12:17:04.736] ERROR - Jugador 1681 [out_of_league]
+[12:17:04.797] INFO - Escribiendo historial market-value del jugador 1682 (79 values)
+[12:17:04.798] INFO - Jugador 1682 almacenado correctamente
+[12:17:04.949] INFO - Escribiendo historial market-value del jugador 1683 (122 values)
+[12:17:04.952] INFO - Jugador 1683 almacenado correctamente
+[12:17:04.972] INFO - Escribiendo historial market-value del jugador 1680 (122 values)
+[12:17:04.973] INFO - Jugador 1680 almacenado correctamente
+[12:17:05.119] ERROR - Jugador 1691 [out_of_league]
+[12:17:05.226] ERROR - Jugador 1692 [out_of_league]
+[12:17:05.381] ERROR - Jugador 1693 [NO ENCONTRADO]
+[12:17:05.398] INFO - Escribiendo historial market-value del jugador 1687 (122 values)
+[12:17:05.400] INFO - Jugador 1687 almacenado correctamente
+[12:17:05.414] INFO - Escribiendo historial market-value del jugador 1688 (77 values)
+[12:17:05.417] INFO - Jugador 1688 almacenado correctamente
+[12:17:05.498] INFO - Escribiendo historial market-value del jugador 1690 (122 values)
+[12:17:05.513] INFO - Jugador 1690 almacenado correctamente
+[12:17:05.606] INFO - Escribiendo historial market-value del jugador 1689 (122 values)
+[12:17:05.607] INFO - Jugador 1689 almacenado correctamente
+[12:17:05.869] ERROR - Jugador 1698 [out_of_league]
+[12:17:05.873] ERROR - Jugador 1697 [NO ENCONTRADO]
+[12:17:05.884] ERROR - Jugador 1699 [NO ENCONTRADO]
+[12:17:05.961] ERROR - Jugador 1700 [out_of_league]
+[12:17:06.034] INFO - Escribiendo historial market-value del jugador 1694 (122 values)
+[12:17:06.036] INFO - Jugador 1694 almacenado correctamente
+[12:17:06.129] INFO - Escribiendo historial market-value del jugador 1696 (122 values)
+[12:17:06.131] INFO - Jugador 1696 almacenado correctamente
+[12:17:06.170] ERROR - Jugador 1701 [out_of_league]
+[12:17:06.314] ERROR - Jugador 1704 [NO ENCONTRADO]
+[12:17:06.320] ERROR - Jugador 1703 [NO ENCONTRADO]
+[12:17:06.327] ERROR - Jugador 1702 [NO ENCONTRADO]
+[12:17:06.401] ERROR - Jugador 1705 [NO ENCONTRADO]
+[12:17:06.617] ERROR - Jugador 1708 [out_of_league]
+[12:17:06.873] INFO - Escribiendo historial market-value del jugador 1695 (122 values)
+[12:17:06.875] INFO - Jugador 1695 almacenado correctamente
+[12:17:06.886] ERROR - Jugador 1712 [out_of_league]
+[12:17:07.104] ERROR - Jugador 1713 [NO ENCONTRADO]
+[12:17:07.140] INFO - Escribiendo historial market-value del jugador 1706 (122 values)
+[12:17:07.141] INFO - Jugador 1706 almacenado correctamente
+[12:17:07.176] INFO - Escribiendo historial market-value del jugador 1710 (122 values)
+[12:17:07.179] INFO - Jugador 1710 almacenado correctamente
+[12:17:07.207] INFO - Escribiendo historial market-value del jugador 1709 (122 values)
+[12:17:07.209] INFO - Jugador 1709 almacenado correctamente
+[12:17:07.248] INFO - Escribiendo historial market-value del jugador 1707 (122 values)
+[12:17:07.250] INFO - Jugador 1707 almacenado correctamente
+[12:17:07.369] INFO - Escribiendo historial market-value del jugador 1711 (79 values)
+[12:17:07.371] INFO - Jugador 1711 almacenado correctamente
+[12:17:07.584] ERROR - Jugador 1717 [NO ENCONTRADO]
+[12:17:07.589] ERROR - Jugador 1716 [out_of_league]
+[12:17:07.642] ERROR - Jugador 1718 [NO ENCONTRADO]
+[12:17:07.672] ERROR - Jugador 1720 [NO ENCONTRADO]
+[12:17:07.817] INFO - Escribiendo historial market-value del jugador 1714 (107 values)
+[12:17:07.819] INFO - Jugador 1714 almacenado correctamente
+[12:17:07.935] INFO - Escribiendo historial market-value del jugador 1715 (86 values)
+[12:17:07.937] INFO - Jugador 1715 almacenado correctamente
+[12:17:08.110] ERROR - Jugador 1724 [out_of_league]
+[12:17:08.117] ERROR - Jugador 1725 [out_of_league]
+[12:17:08.123] INFO - Escribiendo historial market-value del jugador 1719 (91 values)
+[12:17:08.124] INFO - Jugador 1719 almacenado correctamente
+[12:17:08.482] INFO - Escribiendo historial market-value del jugador 1721 (79 values)
+[12:17:08.484] INFO - Jugador 1721 almacenado correctamente
+[12:17:08.560] INFO - Escribiendo historial market-value del jugador 1723 (122 values)
+[12:17:08.561] INFO - Jugador 1723 almacenado correctamente
+[12:17:08.573] INFO - Escribiendo historial market-value del jugador 1722 (122 values)
+[12:17:08.575] INFO - Jugador 1722 almacenado correctamente
+[12:17:08.604] ERROR - Jugador 1728 [out_of_league]
+[12:17:08.876] INFO - Escribiendo historial market-value del jugador 1727 (62 values)
+[12:17:08.876] INFO - Jugador 1727 almacenado correctamente
+[12:17:08.894] ERROR - Jugador 1731 [NO ENCONTRADO]
+[12:17:08.959] ERROR - Jugador 1732 [NO ENCONTRADO]
+[12:17:08.993] ERROR - Jugador 1733 [out_of_league]
+[12:17:09.096] INFO - Escribiendo historial market-value del jugador 1729 (79 values)
+[12:17:09.098] INFO - Jugador 1729 almacenado correctamente
+[12:17:09.122] ERROR - Jugador 1734 [out_of_league]
+[12:17:09.212] INFO - Escribiendo historial market-value del jugador 1730 (79 values)
+[12:17:09.213] INFO - Jugador 1730 almacenado correctamente
+[12:17:09.670] ERROR - Jugador 1741 [out_of_league]
+[12:17:09.857] INFO - Escribiendo historial market-value del jugador 1736 (72 values)
+[12:17:09.858] INFO - Jugador 1736 almacenado correctamente
+[12:17:09.873] ERROR - Jugador 1740 [out_of_league]
+[12:17:09.964] INFO - Escribiendo historial market-value del jugador 1738 (75 values)
+[12:17:09.966] INFO - Jugador 1738 almacenado correctamente
+[12:17:10.088] ERROR - Jugador 1742 [out_of_league]
+[12:17:10.348] ERROR - Jugador 1743 [out_of_league]
+[12:17:10.512] ERROR - Jugador 1746 [out_of_league]
+[12:17:10.549] ERROR - Jugador 1737 [out_of_league]
+[12:17:10.604] ERROR - Jugador 1744 [out_of_league]
+[12:17:10.877] INFO - Escribiendo historial market-value del jugador 1745 (74 values)
+[12:17:10.880] INFO - Jugador 1745 almacenado correctamente
+[12:17:10.913] ERROR - Jugador 1748 [out_of_league]
+[12:17:11.215] ERROR - Jugador 1749 [out_of_league]
+[12:17:11.287] INFO - Escribiendo historial market-value del jugador 1747 (79 values)
+[12:17:11.289] INFO - Jugador 1747 almacenado correctamente
+[12:17:11.475] INFO - Escribiendo historial market-value del jugador 1750 (122 values)
+[12:17:11.476] INFO - Jugador 1750 almacenado correctamente
+[12:17:11.674] INFO - Escribiendo historial market-value del jugador 1751 (60 values)
+[12:17:11.675] INFO - Jugador 1751 almacenado correctamente
+[12:17:11.924] ERROR - Jugador 1755 [out_of_league]
+[12:17:11.988] INFO - Escribiendo historial market-value del jugador 1753 (39 values)
+[12:17:11.989] INFO - Jugador 1753 almacenado correctamente
+[12:17:12.080] ERROR - Jugador 1756 [NO ENCONTRADO]
+[12:17:12.114] INFO - Escribiendo historial market-value del jugador 1754 (74 values)
+[12:17:12.116] INFO - Jugador 1754 almacenado correctamente
+[12:17:12.314] ERROR - Jugador 1757 [NO ENCONTRADO]
+[12:17:12.369] ERROR - Jugador 1758 [out_of_league]
+[12:17:12.491] ERROR - Jugador 1759 [out_of_league]
+[12:17:12.751] ERROR - Jugador 1762 [out_of_league]
+[12:17:12.869] ERROR - Jugador 1763 [NO ENCONTRADO]
+[12:17:13.260] ERROR - Jugador 1765 [out_of_league]
+[12:17:13.604] ERROR - Jugador 1764 [out_of_league]
+[12:17:13.776] INFO - Escribiendo historial market-value del jugador 1726 (61 values)
+[12:17:13.777] INFO - Jugador 1726 almacenado correctamente
+[12:17:14.270] ERROR - Jugador 1766 [out_of_league]
+[12:17:14.294] ERROR - Jugador 1735 [out_of_league]
+[12:17:14.533] INFO - Escribiendo historial market-value del jugador 1767 (74 values)
+[12:17:14.534] INFO - Jugador 1767 almacenado correctamente
+[12:17:14.583] INFO - Escribiendo historial market-value del jugador 1768 (67 values)
+[12:17:14.586] INFO - Jugador 1768 almacenado correctamente
+[12:17:14.711] ERROR - Jugador 1770 [out_of_league]
+[12:17:14.987] ERROR - Jugador 1771 [out_of_league]
+[12:17:15.043] INFO - Escribiendo historial market-value del jugador 1739 (39 values)
+[12:17:15.043] INFO - Jugador 1739 almacenado correctamente
+[12:17:15.050] ERROR - Jugador 1772 [out_of_league]
+[12:17:15.122] ERROR - Jugador 1773 [NO ENCONTRADO]
+[12:17:15.266] INFO - Escribiendo historial market-value del jugador 1769 (77 values)
+[12:17:15.268] INFO - Jugador 1769 almacenado correctamente
+[12:17:15.672] ERROR - Jugador 1776 [out_of_league]
+[12:17:15.785] ERROR - Jugador 1778 [out_of_league]
+[12:17:15.881] INFO - Escribiendo historial market-value del jugador 1774 (74 values)
+[12:17:15.884] INFO - Jugador 1774 almacenado correctamente
+[12:17:16.039] INFO - Escribiendo historial market-value del jugador 1775 (107 values)
+[12:17:16.041] INFO - Jugador 1775 almacenado correctamente
+[12:17:16.183] ERROR - Jugador 1780 [out_of_league]
+[12:17:16.235] INFO - Escribiendo historial market-value del jugador 1777 (74 values)
+[12:17:16.236] INFO - Jugador 1777 almacenado correctamente
+[12:17:16.453] ERROR - Jugador 1782 [out_of_league]
+[12:17:16.701] INFO - Escribiendo historial market-value del jugador 1779 (122 values)
+[12:17:16.703] INFO - Jugador 1779 almacenado correctamente
+[12:17:16.716] INFO - Escribiendo historial market-value del jugador 1752 (122 values)
+[12:17:16.717] INFO - Jugador 1752 almacenado correctamente
+[12:17:16.863] ERROR - Jugador 1785 [out_of_league]
+[12:17:16.883] INFO - Escribiendo historial market-value del jugador 1781 (122 values)
+[12:17:16.886] INFO - Jugador 1781 almacenado correctamente
+[12:17:16.999] INFO - Escribiendo historial market-value del jugador 1783 (77 values)
+[12:17:17.001] INFO - Jugador 1783 almacenado correctamente
+[12:17:17.135] ERROR - Jugador 1786 [out_of_league]
+[12:17:17.142] INFO - Escribiendo historial market-value del jugador 1784 (122 values)
+[12:17:17.144] INFO - Jugador 1784 almacenado correctamente
+[12:17:17.293] ERROR - Jugador 1788 [out_of_league]
+[12:17:17.435] ERROR - Jugador 1790 [out_of_league]
+[12:17:17.566] ERROR - Jugador 1760 [out_of_league]
+[12:17:17.733] ERROR - Jugador 1791 [out_of_league]
+[12:17:17.739] INFO - Escribiendo historial market-value del jugador 1787 (122 values)
+[12:17:17.743] INFO - Jugador 1787 almacenado correctamente
+[12:17:17.774] ERROR - Jugador 1789 [out_of_league]
+[12:17:18.001] ERROR - Jugador 1795 [NO ENCONTRADO]
+[12:17:18.044] INFO - Escribiendo historial market-value del jugador 1792 (122 values)
+[12:17:18.050] INFO - Jugador 1792 almacenado correctamente
+[12:17:18.096] INFO - Escribiendo historial market-value del jugador 1793 (122 values)
+[12:17:18.099] INFO - Jugador 1793 almacenado correctamente
+[12:17:18.180] ERROR - Jugador 1796 [NO ENCONTRADO]
+[12:17:18.220] INFO - Escribiendo historial market-value del jugador 1761 (74 values)
+[12:17:18.222] INFO - Jugador 1761 almacenado correctamente
+[12:17:18.237] ERROR - Jugador 1797 [out_of_league]
+[12:17:18.267] INFO - Escribiendo historial market-value del jugador 1794 (122 values)
+[12:17:18.268] INFO - Jugador 1794 almacenado correctamente
+[12:17:18.639] ERROR - Jugador 1803 [NO ENCONTRADO]
+[12:17:18.730] ERROR - Jugador 1805 [NO ENCONTRADO]
+[12:17:18.740] ERROR - Jugador 1804 [out_of_league]
+[12:17:18.758] INFO - Escribiendo historial market-value del jugador 1798 (122 values)
+[12:17:18.760] INFO - Jugador 1798 almacenado correctamente
+[12:17:18.894] INFO - Escribiendo historial market-value del jugador 1799 (122 values)
+[12:17:18.895] INFO - Jugador 1799 almacenado correctamente
+[12:17:19.034] INFO - Escribiendo historial market-value del jugador 1801 (122 values)
+[12:17:19.036] INFO - Jugador 1801 almacenado correctamente
+[12:17:19.137] INFO - Escribiendo historial market-value del jugador 1802 (77 values)
+[12:17:19.139] INFO - Jugador 1802 almacenado correctamente
+[12:17:19.142] ERROR - Jugador 1807 [NO ENCONTRADO]
+[12:17:19.163] INFO - Escribiendo historial market-value del jugador 1800 (122 values)
+[12:17:19.165] INFO - Jugador 1800 almacenado correctamente
+[12:17:19.183] ERROR - Jugador 1806 [NO ENCONTRADO]
+[12:17:19.213] ERROR - Jugador 1809 [out_of_league]
+[12:17:19.230] ERROR - Jugador 1808 [NO ENCONTRADO]
+[12:17:19.482] ERROR - Jugador 1811 [NO ENCONTRADO]
+[12:17:19.589] ERROR - Jugador 1812 [out_of_league]
+[12:17:19.633] ERROR - Jugador 1816 [NO ENCONTRADO]
+[12:17:19.641] ERROR - Jugador 1815 [NO ENCONTRADO]
+[12:17:19.836] INFO - Escribiendo historial market-value del jugador 1810 (79 values)
+[12:17:19.837] INFO - Jugador 1810 almacenado correctamente
+[12:17:20.045] ERROR - Jugador 1820 [NO ENCONTRADO]
+[12:17:20.139] INFO - Escribiendo historial market-value del jugador 1813 (79 values)
+[12:17:20.141] INFO - Jugador 1813 almacenado correctamente
+[12:17:20.149] INFO - Escribiendo historial market-value del jugador 1817 (122 values)
+[12:17:20.152] INFO - Jugador 1817 almacenado correctamente
+[12:17:20.245] INFO - Escribiendo historial market-value del jugador 1814 (122 values)
+[12:17:20.247] INFO - Jugador 1814 almacenado correctamente
+[12:17:20.319] INFO - Escribiendo historial market-value del jugador 1818 (65 values)
+[12:17:20.321] INFO - Jugador 1818 almacenado correctamente
+[12:17:20.442] INFO - Escribiendo historial market-value del jugador 1819 (79 values)
+[12:17:20.444] INFO - Jugador 1819 almacenado correctamente
+[12:17:20.495] ERROR - Jugador 1823 [out_of_league]
+[12:17:20.518] INFO - Escribiendo historial market-value del jugador 1821 (122 values)
+[12:17:20.520] INFO - Jugador 1821 almacenado correctamente
+[12:17:20.713] ERROR - Jugador 1826 [NO ENCONTRADO]
+[12:17:20.726] INFO - Escribiendo historial market-value del jugador 1822 (122 values)
+[12:17:20.728] INFO - Jugador 1822 almacenado correctamente
+[12:17:20.755] ERROR - Jugador 1827 [NO ENCONTRADO]
+[12:17:20.887] ERROR - Jugador 1828 [NO ENCONTRADO]
+[12:17:20.962] ERROR - Jugador 1829 [out_of_league]
+[12:17:21.018] INFO - Escribiendo historial market-value del jugador 1825 (122 values)
+[12:17:21.019] INFO - Jugador 1825 almacenado correctamente
+[12:17:21.165] INFO - Escribiendo historial market-value del jugador 1824 (77 values)
+[12:17:21.167] INFO - Jugador 1824 almacenado correctamente
+[12:17:21.209] ERROR - Jugador 1830 [out_of_league]
+[12:17:21.226] ERROR - Jugador 1833 [NO ENCONTRADO]
+[12:17:21.270] ERROR - Jugador 1834 [NO ENCONTRADO]
+[12:17:21.467] ERROR - Jugador 1836 [out_of_league]
+[12:17:21.561] ERROR - Jugador 1837 [out_of_league]
+[12:17:21.672] ERROR - Jugador 1838 [out_of_league]
+[12:17:21.715] INFO - Escribiendo historial market-value del jugador 1831 (72 values)
+[12:17:21.717] INFO - Jugador 1831 almacenado correctamente
+[12:17:21.733] ERROR - Jugador 1839 [NO ENCONTRADO]
+[12:17:21.773] INFO - Escribiendo historial market-value del jugador 1835 (77 values)
+[12:17:21.775] INFO - Jugador 1835 almacenado correctamente
+[12:17:21.783] INFO - Escribiendo historial market-value del jugador 1832 (122 values)
+[12:17:21.785] INFO - Jugador 1832 almacenado correctamente
+[12:17:21.862] ERROR - Jugador 1840 [NO ENCONTRADO]
+[12:17:22.057] ERROR - Jugador 1843 [NO ENCONTRADO]
+[12:17:22.150] ERROR - Jugador 1844 [NO ENCONTRADO]
+[12:17:22.235] ERROR - Jugador 1847 [out_of_league]
+[12:17:22.280] ERROR - Jugador 1848 [NO ENCONTRADO]
+[12:17:22.405] INFO - Escribiendo historial market-value del jugador 1841 (59 values)
+[12:17:22.406] INFO - Jugador 1841 almacenado correctamente
+[12:17:22.570] INFO - Escribiendo historial market-value del jugador 1842 (79 values)
+[12:17:22.572] INFO - Jugador 1842 almacenado correctamente
+[12:17:22.577] ERROR - Jugador 1850 [NO ENCONTRADO]
+[12:17:22.585] INFO - Escribiendo historial market-value del jugador 1845 (122 values)
+[12:17:22.587] INFO - Jugador 1845 almacenado correctamente
+[12:17:22.654] INFO - Escribiendo historial market-value del jugador 1846 (79 values)
+[12:17:22.656] INFO - Jugador 1846 almacenado correctamente
+[12:17:22.687] ERROR - Jugador 1852 [NO ENCONTRADO]
+[12:17:22.855] ERROR - Jugador 1853 [out_of_league]
+[12:17:22.925] INFO - Escribiendo historial market-value del jugador 1849 (86 values)
+[12:17:22.926] INFO - Jugador 1849 almacenado correctamente
+[12:17:23.056] ERROR - Jugador 1856 [out_of_league]
+[12:17:23.138] INFO - Escribiendo historial market-value del jugador 1851 (86 values)
+[12:17:23.139] INFO - Jugador 1851 almacenado correctamente
+[12:17:23.170] ERROR - Jugador 1855 [out_of_league]
+[12:17:23.262] ERROR - Jugador 1859 [out_of_league]
+[12:17:23.328] ERROR - Jugador 1860 [out_of_league]
+[12:17:23.483] INFO - Escribiendo historial market-value del jugador 1857 (9 values)
+[12:17:23.484] INFO - Jugador 1857 almacenado correctamente
+[12:17:23.600] ERROR - Jugador 1862 [out_of_league]
+[12:17:23.616] INFO - Escribiendo historial market-value del jugador 1854 (111 values)
+[12:17:23.618] INFO - Jugador 1854 almacenado correctamente
+[12:17:23.624] ERROR - Jugador 1863 [out_of_league]
+[12:17:23.688] ERROR - Jugador 1864 [out_of_league]
+[12:17:23.738] INFO - Escribiendo historial market-value del jugador 1858 (122 values)
+[12:17:23.741] INFO - Jugador 1858 almacenado correctamente
+[12:17:23.927] INFO - Escribiendo historial market-value del jugador 1861 (106 values)
+[12:17:23.930] INFO - Jugador 1861 almacenado correctamente
+[12:17:24.059] ERROR - Jugador 1869 [out_of_league]
+[12:17:24.111] ERROR - Jugador 1870 [out_of_league]
+[12:17:24.174] INFO - Escribiendo historial market-value del jugador 1865 (88 values)
+[12:17:24.176] INFO - Jugador 1865 almacenado correctamente
+[12:17:24.184] ERROR - Jugador 1871 [out_of_league]
+[12:17:24.482] INFO - Escribiendo historial market-value del jugador 1866 (84 values)
+[12:17:24.485] INFO - Jugador 1866 almacenado correctamente
+[12:17:24.503] INFO - Escribiendo historial market-value del jugador 1868 (122 values)
+[12:17:24.505] INFO - Jugador 1868 almacenado correctamente
+[12:17:24.515] INFO - Escribiendo historial market-value del jugador 1867 (84 values)
+[12:17:24.517] INFO - Jugador 1867 almacenado correctamente
+[12:17:24.535] ERROR - Jugador 1874 [out_of_league]
+[12:17:24.631] ERROR - Jugador 1875 [out_of_league]
+[12:17:24.641] ERROR - Jugador 1876 [out_of_league]
+[12:17:24.807] INFO - Escribiendo historial market-value del jugador 1872 (122 values)
+[12:17:24.808] INFO - Jugador 1872 almacenado correctamente
+[12:17:24.962] INFO - Escribiendo historial market-value del jugador 1873 (84 values)
+[12:17:24.963] INFO - Jugador 1873 almacenado correctamente
+[12:17:24.988] ERROR - Jugador 1880 [out_of_league]
+[12:17:25.073] ERROR - Jugador 1881 [out_of_league]
+[12:17:25.076] ERROR - Jugador 1882 [out_of_league]
+[12:17:25.246] ERROR - Jugador 1883 [out_of_league]
+[12:17:25.312] INFO - Escribiendo historial market-value del jugador 1877 (94 values)
+[12:17:25.314] INFO - Jugador 1877 almacenado correctamente
+[12:17:25.367] ERROR - Jugador 1884 [out_of_league]
+[12:17:25.401] ERROR - Jugador 1885 [out_of_league]
+[12:17:25.418] INFO - Escribiendo historial market-value del jugador 1879 (122 values)
+[12:17:25.421] INFO - Jugador 1879 almacenado correctamente
+[12:17:25.674] INFO - Escribiendo historial market-value del jugador 1878 (106 values)
+[12:17:25.677] INFO - Jugador 1878 almacenado correctamente
+[12:17:25.807] ERROR - Jugador 1891 [out_of_league]
+[12:17:25.836] ERROR - Jugador 1892 [out_of_league]
+[12:17:25.946] INFO - Escribiendo historial market-value del jugador 1886 (59 values)
+[12:17:25.947] INFO - Jugador 1886 almacenado correctamente
+[12:17:26.057] INFO - Escribiendo historial market-value del jugador 1887 (122 values)
+[12:17:26.060] INFO - Jugador 1887 almacenado correctamente
+[12:17:26.078] INFO - Escribiendo historial market-value del jugador 1888 (122 values)
+[12:17:26.081] INFO - Jugador 1888 almacenado correctamente
+[12:17:26.200] INFO - Escribiendo historial market-value del jugador 1890 (122 values)
+[12:17:26.201] INFO - Jugador 1890 almacenado correctamente
+[12:17:26.223] INFO - Escribiendo historial market-value del jugador 1889 (122 values)
+[12:17:26.225] INFO - Jugador 1889 almacenado correctamente
+[12:17:26.230] ERROR - Jugador 1894 [out_of_league]
+[12:17:26.396] ERROR - Jugador 1895 [out_of_league]
+[12:17:26.469] ERROR - Jugador 1897 [out_of_league]
+[12:17:26.504] INFO - Escribiendo historial market-value del jugador 1893 (122 values)
+[12:17:26.506] INFO - Jugador 1893 almacenado correctamente
+[12:17:26.762] INFO - Escribiendo historial market-value del jugador 1896 (74 values)
+[12:17:26.764] INFO - Jugador 1896 almacenado correctamente
+[12:17:26.870] INFO - Escribiendo historial market-value del jugador 1898 (64 values)
+[12:17:26.871] INFO - Jugador 1898 almacenado correctamente
+[12:17:26.986] INFO - Escribiendo historial market-value del jugador 1899 (79 values)
+[12:17:26.988] INFO - Jugador 1899 almacenado correctamente
+[12:17:26.992] INFO - Escribiendo jugadores en data/2_ATM.json
+[12:17:26.996] INFO - Escribiendo jugadores en data/17_SEV.json
+[12:17:26.999] INFO - Escribiendo jugadores en data/3_ATH.json
+[12:17:27.002] INFO - Escribiendo jugadores en data/4_BAR.json
+[12:17:27.005] INFO - Escribiendo jugadores en data/14_RAY.json
+[12:17:27.009] INFO - Escribiendo jugadores en data/21_ALA.json
+[12:17:27.011] INFO - Escribiendo jugadores en data/5_BET.json
+[12:17:27.014] INFO - Escribiendo jugadores en data/6_CEL.json
+[12:17:27.017] INFO - Escribiendo jugadores en data/16_RSO.json
+[12:17:27.021] INFO - Escribiendo jugadores en data/9_GET.json
+[12:17:27.023] INFO - Escribiendo jugadores en data/31_LPA.json
+[12:17:27.026] INFO - Escribiendo jugadores en data/13_OSA.json
+[12:17:27.030] INFO - Escribiendo jugadores en data/15_RMA.json
+[12:17:27.033] INFO - Escribiendo jugadores en data/28_GIR.json
+[12:17:27.035] INFO - Escribiendo jugadores en data/54_LEG.json
+[12:17:27.038] INFO - Escribiendo jugadores en data/18_VAL.json
+[12:17:27.041] INFO - Escribiendo jugadores en data/20_VIL.json
+[12:17:27.044] INFO - Escribiendo jugadores en data/33_MLL.json
+[12:17:27.047] INFO - Escribiendo jugadores en data/19_VLL.json
+[12:17:27.049] INFO - Escribiendo jugadores en data/8_ESP.json
+[12:17:27.049] INFO - Tiempo de ejecucion total (MM:SS) 02:20
