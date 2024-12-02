@@ -275,10 +275,34 @@
             "weekNumber": 14,
             "totalPoints": 2,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 15,
+            "totalPoints": 2,
+            "isInIdealFormation": false
         }
     ],
-    "points": 38,
-    "averagePoints": 3.1666666666666665,
+    "points": 40,
+    "weekPoints": 2,
+    "averagePoints": 3.076923076923077,
     "id": "1356",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t449/color/t449_villarreal-cf.png",
@@ -418,7 +442,8 @@
         "28/11/2024": 710976,
         "29/11/2024": 705830,
         "30/11/2024": 725263,
-        "01/12/2024": 724942
+        "01/12/2024": 724942,
+        "02/12/2024": 723147
     },
     "playerStatus": "ok"
 }
