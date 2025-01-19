@@ -390,10 +390,34 @@
             "weekNumber": 19,
             "totalPoints": 5,
             "isInIdealFormation": false
+        },
+        {
+            "stats": {
+                "won_match": [
+                    0,
+                    0
+                ],
+                "lost_match": [
+                    0,
+                    0
+                ],
+                "drawn_match": [
+                    1,
+                    2
+                ],
+                "marca_points": [
+                    -1,
+                    0
+                ]
+            },
+            "weekNumber": 20,
+            "totalPoints": 2,
+            "isInIdealFormation": false
         }
     ],
-    "points": 32,
-    "averagePoints": 1.8823529411764706,
+    "points": 34,
+    "weekPoints": 2,
+    "averagePoints": 1.8888888888888888,
     "id": "1611",
     "team": {
         "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1450/color/t1450_getafe-cf.png",
@@ -590,7 +614,8 @@
         "15/01/2025": 792587,
         "16/01/2025": 793190,
         "17/01/2025": 793225,
-        "18/01/2025": 790828
+        "18/01/2025": 790828,
+        "19/01/2025": 793475
     },
     "playerStatus": "ok"
 }
