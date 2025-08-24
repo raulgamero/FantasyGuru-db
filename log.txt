@@ -1,7 +1,51 @@
-[00:50:44.608] INFO - Eliminando anteriores archivos (data/, players/)
-[00:50:44.609] INFO - API endpoint https://api.laligafantasymarca.com/api/v3/player
-[00:50:44.609] INFO - API endpoint market-values https://api.laligafantasymarca.com/api/v3/player/ID_JUGADOR/market-value
-[00:50:53.948] CRITICAL - Exceeded 30 redirects.
+[12:15:25.497] INFO - Eliminando anteriores archivos (data/, players/)
+[12:15:25.498] INFO - API endpoint https://api.laligafantasymarca.com/api/v3/player
+[12:15:25.498] INFO - API endpoint market-values https://api.laligafantasymarca.com/api/v3/player/ID_JUGADOR/market-value
+[12:15:29.586] CRITICAL - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 716, in urlopen
+    httplib_response = self._make_request(
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 468, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 463, in _make_request
+    httplib_response = conn.getresponse()
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/http/client.py", line 1377, in getresponse
+    response.begin()
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/http/client.py", line 320, in begin
+    version, status, reason = self._read_status()
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/http/client.py", line 289, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 802, in urlopen
+    retries = retries.increment(
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/util/retry.py", line 552, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 716, in urlopen
+    httplib_response = self._make_request(
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 468, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 463, in _make_request
+    httplib_response = conn.getresponse()
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/http/client.py", line 1377, in getresponse
+    response.begin()
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/http/client.py", line 320, in begin
+    version, status, reason = self._read_status()
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/http/client.py", line 289, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
 Traceback (most recent call last):
   File "<string>", line 215, in main
   File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/concurrent/futures/_base.py", line 609, in result_iterator
@@ -23,6 +67,10 @@ Traceback (most recent call last):
     history = [resp for resp in gen]
   File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/sessions.py", line 723, in <listcomp>
     history = [resp for resp in gen]
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/sessions.py", line 191, in resolve_redirects
-    raise TooManyRedirects(
-requests.exceptions.TooManyRedirects: Exceeded 30 redirects.
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/sessions.py", line 266, in resolve_redirects
+    resp = self.send(
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/adapters.py", line 547, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
