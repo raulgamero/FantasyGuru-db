@@ -1,28 +1,28 @@
-[12:17:57.031] INFO - Eliminando anteriores archivos (data/, players/)
-[12:17:57.031] INFO - API endpoint https://api.laligafantasymarca.com/api/v3/player
-[12:17:57.031] INFO - API endpoint market-values https://api.laligafantasymarca.com/api/v3/player/ID_JUGADOR/market-value
-[12:18:05.534] CRITICAL - Exceeded 30 redirects.
+[00:44:16.015] INFO - Eliminando anteriores archivos (data/, players/)
+[00:44:16.015] INFO - API endpoint https://api.laligafantasymarca.com/api/v3/player
+[00:44:16.015] INFO - API endpoint market-values https://api.laligafantasymarca.com/api/v3/player/ID_JUGADOR/market-value
+[00:44:21.217] CRITICAL - Exceeded 30 redirects.
 Traceback (most recent call last):
   File "<string>", line 215, in main
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/concurrent/futures/_base.py", line 609, in result_iterator
+  File "/opt/hostedtoolcache/Python/3.9.24/x64/lib/python3.9/concurrent/futures/_base.py", line 609, in result_iterator
     yield fs.pop().result()
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/concurrent/futures/_base.py", line 446, in result
+  File "/opt/hostedtoolcache/Python/3.9.24/x64/lib/python3.9/concurrent/futures/_base.py", line 446, in result
     return self.__get_result()
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/concurrent/futures/_base.py", line 391, in __get_result
+  File "/opt/hostedtoolcache/Python/3.9.24/x64/lib/python3.9/concurrent/futures/_base.py", line 391, in __get_result
     raise self._exception
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/concurrent/futures/thread.py", line 58, in run
+  File "/opt/hostedtoolcache/Python/3.9.24/x64/lib/python3.9/concurrent/futures/thread.py", line 58, in run
     result = self.fn(*self.args, **self.kwargs)
   File "<string>", line 165, in multithread_scrape_player_aux
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/api.py", line 73, in get
+  File "/opt/hostedtoolcache/Python/3.9.24/x64/lib/python3.9/site-packages/requests/api.py", line 73, in get
     return request("get", url, params=params, **kwargs)
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/api.py", line 59, in request
+  File "/opt/hostedtoolcache/Python/3.9.24/x64/lib/python3.9/site-packages/requests/api.py", line 59, in request
     return session.request(method=method, url=url, **kwargs)
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/sessions.py", line 587, in request
+  File "/opt/hostedtoolcache/Python/3.9.24/x64/lib/python3.9/site-packages/requests/sessions.py", line 587, in request
     resp = self.send(prep, **send_kwargs)
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/sessions.py", line 723, in send
+  File "/opt/hostedtoolcache/Python/3.9.24/x64/lib/python3.9/site-packages/requests/sessions.py", line 723, in send
     history = [resp for resp in gen]
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/sessions.py", line 723, in <listcomp>
+  File "/opt/hostedtoolcache/Python/3.9.24/x64/lib/python3.9/site-packages/requests/sessions.py", line 723, in <listcomp>
     history = [resp for resp in gen]
-  File "/opt/hostedtoolcache/Python/3.9.23/x64/lib/python3.9/site-packages/requests/sessions.py", line 191, in resolve_redirects
+  File "/opt/hostedtoolcache/Python/3.9.24/x64/lib/python3.9/site-packages/requests/sessions.py", line 191, in resolve_redirects
     raise TooManyRedirects(
 requests.exceptions.TooManyRedirects: Exceeded 30 redirects.
