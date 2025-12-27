@@ -1,7 +1,7 @@
-[00:47:51.909] INFO - Eliminando anteriores archivos (data/, players/)
-[00:47:51.909] INFO - API endpoint https://api.laligafantasymarca.com/api/v3/player
-[00:47:51.909] INFO - API endpoint market-values https://api.laligafantasymarca.com/api/v3/player/ID_JUGADOR/market-value
-[00:47:57.919] CRITICAL - Exceeded 30 redirects.
+[12:17:46.642] INFO - Eliminando anteriores archivos (data/, players/)
+[12:17:46.642] INFO - API endpoint https://api.laligafantasymarca.com/api/v3/player
+[12:17:46.642] INFO - API endpoint market-values https://api.laligafantasymarca.com/api/v3/player/ID_JUGADOR/market-value
+[12:17:53.320] CRITICAL - Exceeded 30 redirects.
 Traceback (most recent call last):
   File "<string>", line 215, in main
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/concurrent/futures/_base.py", line 609, in result_iterator
