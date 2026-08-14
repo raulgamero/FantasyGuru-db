@@ -1,7 +1,41 @@
-[00:54:19.538] INFO - Eliminando anteriores archivos (data/, players/)
-[00:54:19.538] INFO - API endpoint https://api.laligafantasymarca.com/api/v3/player
-[00:54:19.538] INFO - API endpoint market-values https://api.laligafantasymarca.com/api/v3/player/ID_JUGADOR/market-value
-[00:54:27.017] CRITICAL - Exceeded 30 redirects.
+[12:35:21.159] INFO - Eliminando anteriores archivos (data/, players/)
+[12:35:21.159] INFO - API endpoint https://api.laligafantasymarca.com/api/v3/player
+[12:35:21.159] INFO - API endpoint market-values https://api.laligafantasymarca.com/api/v3/player/ID_JUGADOR/market-value
+[12:35:21.806] CRITICAL - HTTPSConnectionPool(host='api.laligafantasymarca.com', port=443): Max retries exceeded with url: /api/v3/player/52 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1147)')))
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 716, in urlopen
+    httplib_response = self._make_request(
+  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 404, in _make_request
+    self._validate_conn(conn)
+  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1061, in _validate_conn
+    conn.connect()
+  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/connection.py", line 419, in connect
+    self.sock = ssl_wrap_socket(
+  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 458, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 502, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/ssl.py", line 501, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/ssl.py", line 1076, in _create
+    self.do_handshake()
+  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/ssl.py", line 1345, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1147)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 802, in urlopen
+    retries = retries.increment(
+  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/util/retry.py", line 594, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.laligafantasymarca.com', port=443): Max retries exceeded with url: /api/v3/player/52 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1147)')))
+
+During handling of the above exception, another exception occurred:
+
 Traceback (most recent call last):
   File "<string>", line 215, in main
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/concurrent/futures/_base.py", line 609, in result_iterator
@@ -19,10 +53,8 @@ Traceback (most recent call last):
     return session.request(method=method, url=url, **kwargs)
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/sessions.py", line 587, in request
     resp = self.send(prep, **send_kwargs)
-  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/sessions.py", line 723, in send
-    history = [resp for resp in gen]
-  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/sessions.py", line 723, in <listcomp>
-    history = [resp for resp in gen]
-  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/sessions.py", line 191, in resolve_redirects
-    raise TooManyRedirects(
-requests.exceptions.TooManyRedirects: Exceeded 30 redirects.
+  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/requests/adapters.py", line 563, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='api.laligafantasymarca.com', port=443): Max retries exceeded with url: /api/v3/player/52 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1147)')))
