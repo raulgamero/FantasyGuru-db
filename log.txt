@@ -1,7 +1,7 @@
-[15:55:09.442] INFO - Eliminando anteriores archivos (data/, players/)
-[15:55:09.442] INFO - API endpoint https://api.laligafantasymarca.com/api/v3/player
-[15:55:09.442] INFO - API endpoint market-values https://api.laligafantasymarca.com/api/v3/player/ID_JUGADOR/market-value
-[15:55:10.109] CRITICAL - HTTPSConnectionPool(host='api.laligafantasymarca.com', port=443): Max retries exceeded with url: /api/v3/player/52 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1147)')))
+[02:15:08.269] INFO - Eliminando anteriores archivos (data/, players/)
+[02:15:08.269] INFO - API endpoint https://api.laligafantasymarca.com/api/v3/player
+[02:15:08.269] INFO - API endpoint market-values https://api.laligafantasymarca.com/api/v3/player/ID_JUGADOR/market-value
+[02:15:09.045] CRITICAL - HTTPSConnectionPool(host='api.laligafantasymarca.com', port=443): Max retries exceeded with url: /api/v3/player/52 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1147)')))
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/urllib3/connectionpool.py", line 716, in urlopen
     httplib_response = self._make_request(
